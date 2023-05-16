@@ -1559,8 +1559,8 @@ Do 217 M-1 :
 
 Do 217 N-1 :
 
-  14000 -> 11000 RP
-  55000 -> 38000 SL
+  RP Cost : 14000 -> 11000 RP
+  SL Cost : 55000 -> 38000 SL
   Crew Cost : 16000 -> 11000 SL
   Expert Crew Cost : 55000 -> 38000 SL
   Ace Crew Cost : 250000 / 320 -> 220000 RP / 250 GE
@@ -1616,8 +1616,8 @@ Do 217 N-1 :
 
 Do 217 N-2 :
 
-  18000 -> 14000 RP
-  77000 -> 55000 SL
+  RP Cost : 18000 -> 14000 RP
+  SL Cost : 77000 -> 55000 SL
   Crew Cost : 22000 -> 16000 SL
   Expert Crew Cost : 77000 -> 55000 SL
   Ace Crew Cost : 280000 / 400 -> 250000 RP / 320 GE
@@ -2050,7 +2050,7 @@ Hs 129 B-3 :
 
 ◌Hunter F.58 :
 
-  790000 -> 740000 SL
+  SL Cost : 790000 -> 740000 SL
   Stock Repair Cost : 3590 / 9740 / 15750 -> 3160 / 11950 / 11026 SL
   Spaded Repair Cost : 5973 / 16207 / 26208 -> 5258 / 19886 / 18348 SL
   SL multiplier : 1.18 / 3.52 / 2.94 -> 1.24 / 2.39 / 3.31
@@ -3314,8 +3314,8 @@ Pe-2-359 :
 
 Pe-2-83 :
 
-  18000 -> 14000 RP
-  77000 -> 55000 SL
+  RP Cost : 18000 -> 14000 RP
+  SL Cost : 77000 -> 55000 SL
   Crew Cost : 22000 -> 16000 SL
   Expert Crew Cost : 77000 -> 55000 SL
   Ace Crew Cost : 280000 / 400 -> 250000 RP / 320 GE
@@ -5039,8 +5039,8 @@ B5N2 :
 
 B6N1 Model 11 :
 
-  7900 -> 5900 RP
-  10000 -> 6300 SL
+  RP Cost : 7900 -> 5900 RP
+  SL Cost : 10000 -> 6300 SL
   Crew Cost : 3000 -> 1800 SL
   Expert Crew Cost : 10000 -> 6300 SL
   Ace Crew Cost : 160000 / 130 -> 140000 RP / 80 GE
@@ -5103,8 +5103,8 @@ B6N1 Model 11 :
 
 B6N2 Model 12 :
 
-  9200 -> 7900 RP
-  22000 -> 10000 SL
+  RP Cost : 9200 -> 7900 RP
+  SL Cost : 22000 -> 10000 SL
   Crew Cost : 6300 -> 3000 SL
   Expert Crew Cost : 22000 -> 10000 SL
   Ace Crew Cost : 190000 / 180 -> 160000 RP / 130 GE
@@ -5161,8 +5161,8 @@ B6N2 Model 12 :
 
 B6N2a Model 12Ko :
 
-  11000 -> 9200 RP
-  38000 -> 22000 SL
+  RP Cost : 11000 -> 9200 RP
+  SL Cost : 38000 -> 22000 SL
   Crew Cost : 11000 -> 6300 SL
   Expert Crew Cost : 38000 -> 22000 SL
   Ace Crew Cost : 220000 / 250 -> 190000 RP / 180 GE
@@ -5393,8 +5393,8 @@ H6K4 :
 
 H8K2 :
 
-  9200 -> 14000 RP
-  22000 -> 55000 SL
+  RP Cost : 9200 -> 14000 RP
+  SL Cost : 22000 -> 55000 SL
   Crew Cost : 6300 -> 16000 SL
   Expert Crew Cost : 22000 -> 55000 SL
   Ace Crew Cost : 190000 / 180 -> 250000 RP / 320 GE
@@ -5458,8 +5458,8 @@ H8K3 :
 
 J1N1 :
 
-  5900 -> 9200 RP
-  6300 -> 22000 SL
+  RP Cost : 5900 -> 9200 RP
+  SL Cost : 6300 -> 22000 SL
   Crew Cost : 1800 -> 6300 SL
   Expert Crew Cost : 6300 -> 22000 SL
   Ace Crew Cost : 140000 / 80 -> 190000 RP / 180 GE
@@ -5597,8 +5597,8 @@ Ki-27 otsu Tachiarai :
 
 Ki-45 hei :
 
-  9200 -> 7900 RP
-  22000 -> 10000 SL
+  RP Cost : 9200 -> 7900 RP
+  SL Cost : 22000 -> 10000 SL
   Crew Cost : 6300 -> 3000 SL
   Expert Crew Cost : 22000 -> 10000 SL
   Ace Crew Cost : 190000 / 180 -> 160000 RP / 130 GE
@@ -5652,8 +5652,8 @@ Ki-45 hei :
 
 Ki-45 ko :
 
-  11000 -> 14000 RP
-  38000 -> 55000 SL
+  RP Cost : 11000 -> 14000 RP
+  SL Cost : 38000 -> 55000 SL
   Crew Cost : 11000 -> 16000 SL
   Expert Crew Cost : 38000 -> 55000 SL
   Ace Crew Cost : 220000 / 250 -> 250000 RP / 320 GE
@@ -5709,8 +5709,8 @@ Ki-45 ko :
 
 Ki-45 otsu :
 
-  7900 -> 11000 RP
-  10000 -> 38000 SL
+  RP Cost : 7900 -> 11000 RP
+  SL Cost : 10000 -> 38000 SL
   Crew Cost : 3000 -> 11000 SL
   Expert Crew Cost : 10000 -> 38000 SL
   Ace Crew Cost : 160000 / 130 -> 220000 RP / 250 GE
@@ -5775,8 +5775,8 @@ Ki-45 tei :
 
 Ki-49-I :
 
-  11000 -> 9200 RP
-  38000 -> 22000 SL
+  RP Cost : 11000 -> 9200 RP
+  SL Cost : 38000 -> 22000 SL
   Crew Cost : 11000 -> 6300 SL
   Expert Crew Cost : 38000 -> 22000 SL
   Ace Crew Cost : 220000 / 250 -> 190000 RP / 180 GE
@@ -5833,8 +5833,8 @@ Ki-49-I :
 
 Ki-49-IIa :
 
-  14000 -> 11000 RP
-  55000 -> 38000 SL
+  RP Cost : 14000 -> 11000 RP
+  SL Cost : 55000 -> 38000 SL
   Crew Cost : 16000 -> 11000 SL
   Expert Crew Cost : 55000 -> 38000 SL
   Ace Crew Cost : 250000 / 320 -> 220000 RP / 250 GE
@@ -5950,8 +5950,8 @@ Ki-108 Kai :
 
 Ki-109 :
 
-  14000 -> 5900 RP
-  55000 -> 6300 SL
+  RP Cost : 14000 -> 5900 RP
+  SL Cost : 55000 -> 6300 SL
   Crew Cost : 16000 -> 1800 SL
   Expert Crew Cost : 55000 -> 6300 SL
   Ace Crew Cost : 250000 / 320 -> 140000 RP / 80 GE
@@ -6245,8 +6245,8 @@ N1K2-Ja :
 
 P1Y1 mod. 11 :
 
-  54000 -> 18000 RP
-  180000 -> 77000 SL
+  RP Cost : 54000 -> 18000 RP
+  SL Cost : 180000 -> 77000 SL
   Crew Cost : 52000 -> 22000 SL
   Expert Crew Cost : 180000 -> 77000 SL
   Ace Crew Cost : 480000 / 940 -> 280000 RP / 400 GE
@@ -8368,8 +8368,8 @@ SK60B :
 
 T18B :
 
-  46000 -> 33000 RP
-  170000 -> 140000 SL
+  RP Cost : 46000 -> 33000 RP
+  SL Cost : 170000 -> 140000 SL
   Crew Cost : 48000 -> 39000 SL
   Expert Crew Cost : 170000 -> 140000 SL
   Ace Crew Cost : 440000 / 820 -> 360000 RP / 590 GE
@@ -8444,8 +8444,8 @@ T18B :
 
 T18B (57) :
 
-  54000 -> 26000 RP
-  180000 -> 110000 SL
+  RP Cost : 54000 -> 26000 RP
+  SL Cost : 180000 -> 110000 SL
   Crew Cost : 52000 -> 32000 SL
   Expert Crew Cost : 180000 -> 110000 SL
   Ace Crew Cost : 480000 / 940 -> 320000 RP / 500 GE
@@ -9417,8 +9417,8 @@ Super Hellcat :
 
 M19A1 :
 
-  40000 -> 33000 RP
-  150000 -> 140000 SL
+  RP Cost : 40000 -> 33000 RP
+  SL Cost : 150000 -> 140000 SL
   Crew Cost : 44000 -> 39000 SL
   Expert Crew Cost : 150000 -> 140000 SL
   Ace Crew Cost : 390000 / 550 -> 360000 RP / 470 GE
@@ -9673,8 +9673,8 @@ M41A1 :
 
 M42 :
 
-  46000 -> 40000 RP
-  170000 -> 150000 SL
+  RP Cost : 46000 -> 40000 RP
+  SL Cost : 170000 -> 150000 SL
   Crew Cost : 48000 -> 44000 SL
   Expert Crew Cost : 170000 -> 150000 SL
   Ace Crew Cost : 440000 / 630 -> 390000 RP / 550 GE
@@ -10453,7 +10453,7 @@ Leopard 2K :
 
 Leopard 2 PL :
 
-  990000 -> 930000 SL
+  SL Cost : 990000 -> 930000 SL
   Stock Repair Cost : 4520 / 4700 / 5520 -> 4593 / 4768 / 5378 SL
   Spaded Repair Cost : 6725 / 6993 / 8213 -> 6835 / 7095 / 8003 SL
   SL multiplier : 1.5 / 2.0 / 2.31 -> 1.5 / 2.0 / 2.13
@@ -10596,8 +10596,8 @@ Jagdpanther G1 :
 
 Jagdtiger :
 
-  110000 -> 95000 RP
-  310000 -> 270000 SL
+  RP Cost : 110000 -> 95000 RP
+  SL Cost : 310000 -> 270000 SL
   Crew Cost : 90000 -> 78000 SL
   Expert Crew Cost : 310000 -> 270000 SL
   Ace Crew Cost : 720000 / 1200 -> 670000 RP / 1100 GE
@@ -10701,8 +10701,8 @@ Sd.Kfz. 140/1 :
 
 Marder III :
 
-  9200 -> 11000 RP
-  22000 -> 38000 SL
+  RP Cost : 9200 -> 11000 RP
+  SL Cost : 22000 -> 38000 SL
   Crew Cost : 6300 -> 11000 SL
   Expert Crew Cost : 22000 -> 38000 SL
   Ace Crew Cost : 190000 / 160 -> 220000 RP / 210 GE
@@ -10769,8 +10769,8 @@ Marder III H :
 
 Pz.38(t) A :
 
-  2900 -> 4000 RP
-  700 -> 2100 SL
+  RP Cost : 2900 -> 4000 RP
+  SL Cost : 700 -> 2100 SL
   Crew Cost : 200 -> 600 SL
   Expert Crew Cost : 1000 -> 2100 SL
   Ace Crew Cost : 96000 / 20 -> 110000 RP / 40 GE
@@ -10894,8 +10894,8 @@ Pz.III N :
 
 Pz.II C :
 
-  2900 -> 4000 RP
-  700 -> 2100 SL
+  RP Cost : 2900 -> 4000 RP
+  SL Cost : 700 -> 2100 SL
   Crew Cost : 200 -> 600 SL
   Expert Crew Cost : 1000 -> 2100 SL
   Ace Crew Cost : 96000 / 20 -> 110000 RP / 40 GE
@@ -10977,8 +10977,8 @@ Pz.Sfl.Ic :
 
 Pz.IV C :
 
-  4000 -> 2900 RP
-  2100 -> 700 SL
+  RP Cost : 4000 -> 2900 RP
+  SL Cost : 2100 -> 700 SL
   Crew Cost : 600 -> 200 SL
   Expert Crew Cost : 2100 -> 1000 SL
   Ace Crew Cost : 110000 / 40 -> 96000 RP / 20 GE
@@ -11260,8 +11260,8 @@ Sd.Kfz.234/1 :
 
 Sd.Kfz.234/2 :
 
-  7900 -> 9200 RP
-  10000 -> 22000 SL
+  RP Cost : 7900 -> 9200 RP
+  SL Cost : 10000 -> 22000 SL
   Crew Cost : 3000 -> 6300 SL
   Expert Crew Cost : 10000 -> 22000 SL
   Ace Crew Cost : 160000 / 110 -> 190000 RP / 160 GE
@@ -11359,8 +11359,8 @@ Sd.Kfz.251/22 :
 
 Sd.Kfz.251/9 :
 
-  5900 -> 4000 RP
-  6300 -> 2100 SL
+  RP Cost : 5900 -> 4000 RP
+  SL Cost : 6300 -> 2100 SL
   Crew Cost : 1800 -> 600 SL
   Expert Crew Cost : 6300 -> 2100 SL
   Ace Crew Cost : 140000 / 80 -> 110000 RP / 40 GE
@@ -11891,8 +11891,8 @@ KV-122 :
 
 KV-1 (L-11) :
 
-  11000 -> 9200 RP
-  38000 -> 22000 SL
+  RP Cost : 11000 -> 9200 RP
+  SL Cost : 38000 -> 22000 SL
   Crew Cost : 11000 -> 6300 SL
   Expert Crew Cost : 38000 -> 22000 SL
   Ace Crew Cost : 220000 / 210 -> 190000 RP / 160 GE
@@ -11954,8 +11954,8 @@ KV-1E :
 
 KV-1S :
 
-  18000 -> 14000 RP
-  77000 -> 55000 SL
+  RP Cost : 18000 -> 14000 RP
+  SL Cost : 77000 -> 55000 SL
   Crew Cost : 22000 -> 16000 SL
   Expert Crew Cost : 77000 -> 55000 SL
   Ace Crew Cost : 280000 / 330 -> 250000 RP / 270 GE
@@ -12024,8 +12024,8 @@ KV-220 :
 
 KV-2 (1939) :
 
-  14000 -> 11000 RP
-  55000 -> 38000 SL
+  RP Cost : 14000 -> 11000 RP
+  SL Cost : 55000 -> 38000 SL
   Crew Cost : 16000 -> 11000 SL
   Expert Crew Cost : 55000 -> 38000 SL
   Ace Crew Cost : 250000 / 270 -> 220000 RP / 210 GE
@@ -12361,8 +12361,8 @@ T-26-4 :
 
 T-28 :
 
-  7900 -> 5900 RP
-  10000 -> 6300 SL
+  RP Cost : 7900 -> 5900 RP
+  SL Cost : 10000 -> 6300 SL
   Crew Cost : 3000 -> 1800 SL
   Expert Crew Cost : 10000 -> 6300 SL
   Ace Crew Cost : 160000 / 110 -> 140000 RP / 80 GE
@@ -12414,8 +12414,8 @@ T-28 :
 
 T-28E :
 
-  9200 -> 7900 RP
-  22000 -> 10000 SL
+  RP Cost : 9200 -> 7900 RP
+  SL Cost : 22000 -> 10000 SL
   Crew Cost : 6300 -> 3000 SL
   Expert Crew Cost : 22000 -> 10000 SL
   Ace Crew Cost : 190000 / 160 -> 160000 RP / 110 GE
@@ -12486,8 +12486,8 @@ T-34E :
 
 T-34E STZ :
 
-  18000 -> 14000 RP
-  77000 -> 55000 SL
+  RP Cost : 18000 -> 14000 RP
+  SL Cost : 77000 -> 55000 SL
   Crew Cost : 22000 -> 16000 SL
   Expert Crew Cost : 77000 -> 55000 SL
   Ace Crew Cost : 280000 / 330 -> 250000 RP / 270 GE
@@ -12599,8 +12599,8 @@ T-34 (1940) :
 
 T-34 (1942) :
 
-  14000 -> 11000 RP
-  55000 -> 38000 SL
+  RP Cost : 14000 -> 11000 RP
+  SL Cost : 55000 -> 38000 SL
   Crew Cost : 16000 -> 11000 SL
   Expert Crew Cost : 55000 -> 38000 SL
   Ace Crew Cost : 250000 / 270 -> 220000 RP / 210 GE
@@ -12921,7 +12921,7 @@ T-80U :
 
 T-80UK :
 
-  990000 -> 930000 SL
+  SL Cost : 990000 -> 930000 SL
   Stock Repair Cost : 3970 / 4120 / 5230 -> 3843 / 4691 / 6694 SL
   Spaded Repair Cost : 6498 / 6744 / 8561 -> 6292 / 7680 / 10958 SL
   SL multiplier : 1.35 / 1.62 / 1.81 -> 1.5 / 2.0 / 2.05
@@ -13013,8 +13013,8 @@ YaG-10 (29-K) :
 
 ZSU-37 :
 
-  46000 -> 40000 RP
-  170000 -> 150000 SL
+  RP Cost : 46000 -> 40000 RP
+  SL Cost : 170000 -> 150000 SL
   Crew Cost : 48000 -> 44000 SL
   Expert Crew Cost : 170000 -> 150000 SL
   Ace Crew Cost : 440000 / 630 -> 390000 RP / 550 GE
@@ -13239,8 +13239,8 @@ Excelsior :
 
 Comet I :
 
-  46000 -> 40000 RP
-  170000 -> 150000 SL
+  RP Cost : 46000 -> 40000 RP
+  SL Cost : 170000 -> 150000 SL
   Crew Cost : 48000 -> 44000 SL
   Expert Crew Cost : 170000 -> 150000 SL
   Ace Crew Cost : 440000 / 630 -> 390000 RP / 550 GE
@@ -13544,8 +13544,8 @@ Conqueror :
 
 Crusader AA Mk I :
 
-  18000 -> 14000 RP
-  77000 -> 55000 SL
+  RP Cost : 18000 -> 14000 RP
+  SL Cost : 77000 -> 55000 SL
   Crew Cost : 22000 -> 16000 SL
   Expert Crew Cost : 77000 -> 55000 SL
   Ace Crew Cost : 280000 / 330 -> 250000 RP / 270 GE
@@ -13704,8 +13704,8 @@ Warrior :
 
 G6 :
 
-  71000 -> 110000 RP
-  210000 -> 310000 SL
+  RP Cost : 71000 -> 110000 RP
+  SL Cost : 210000 -> 310000 SL
   Crew Cost : 61000 -> 90000 SL
   Expert Crew Cost : 210000 -> 310000 SL
   Ace Crew Cost : 570000 / 890 -> 720000 RP / 1200 GE
@@ -13837,8 +13837,8 @@ QF 3.7 Ram :
 
 Ratel 20 :
 
-  130000 -> 71000 RP
-  370000 -> 210000 SL
+  RP Cost : 130000 -> 71000 RP
+  SL Cost : 370000 -> 210000 SL
   Crew Cost : 110000 -> 61000 SL
   Expert Crew Cost : 370000 -> 210000 SL
   Ace Crew Cost : 780000 / 1300 -> 570000 RP / 890 GE
@@ -14098,8 +14098,8 @@ Ro-Go Exp. :
 
 ▅M19A1 :
 
-  40000 -> 33000 RP
-  150000 -> 140000 SL
+  RP Cost : 40000 -> 33000 RP
+  SL Cost : 150000 -> 140000 SL
   Crew Cost : 44000 -> 39000 SL
   Expert Crew Cost : 150000 -> 140000 SL
   Ace Crew Cost : 390000 / 550 -> 360000 RP / 470 GE
@@ -14176,8 +14176,8 @@ Ro-Go Exp. :
 
 ▅M42 :
 
-  46000 -> 40000 RP
-  170000 -> 150000 SL
+  RP Cost : 46000 -> 40000 RP
+  SL Cost : 170000 -> 150000 SL
   Crew Cost : 48000 -> 44000 SL
   Expert Crew Cost : 170000 -> 150000 SL
   Ace Crew Cost : 440000 / 630 -> 390000 RP / 550 GE
@@ -14282,8 +14282,8 @@ ST-A2 :
 
 ST-A3 :
 
-  95000 -> 82000 RP
-  270000 -> 240000 SL
+  RP Cost : 95000 -> 82000 RP
+  SL Cost : 270000 -> 240000 SL
   Crew Cost : 78000 -> 68000 SL
   Expert Crew Cost : 270000 -> 240000 SL
   Ace Crew Cost : 670000 / 1100 -> 620000 RP / 990 GE
@@ -14490,8 +14490,8 @@ Ho-Ro :
 
 Chi-Ri II :
 
-  46000 -> 40000 RP
-  170000 -> 150000 SL
+  RP Cost : 46000 -> 40000 RP
+  SL Cost : 170000 -> 150000 SL
   Crew Cost : 48000 -> 44000 SL
   Expert Crew Cost : 170000 -> 150000 SL
   Ace Crew Cost : 440000 / 630 -> 390000 RP / 550 GE
@@ -14576,8 +14576,8 @@ Type 60 SPRG (C) :
 
 Type 61 :
 
-  82000 -> 71000 RP
-  240000 -> 210000 SL
+  RP Cost : 82000 -> 71000 RP
+  SL Cost : 240000 -> 210000 SL
   Crew Cost : 68000 -> 61000 SL
   Expert Crew Cost : 240000 -> 210000 SL
   Ace Crew Cost : 620000 / 990 -> 570000 RP / 890 GE
@@ -14773,8 +14773,8 @@ Ro-Go :
 
 So-Ki :
 
-  18000 -> 14000 RP
-  77000 -> 55000 SL
+  RP Cost : 18000 -> 14000 RP
+  SL Cost : 77000 -> 55000 SL
   Crew Cost : 22000 -> 16000 SL
   Expert Crew Cost : 77000 -> 55000 SL
   Ace Crew Cost : 280000 / 330 -> 250000 RP / 270 GE
@@ -15098,8 +15098,8 @@ PGZ09 :
 
 PTL02 :
 
-  150000 -> 220000 RP
-  420000 -> 590000 SL
+  RP Cost : 150000 -> 220000 RP
+  SL Cost : 420000 -> 590000 SL
   Crew Cost : 120000 -> 170000 SL
   Expert Crew Cost : 420000 -> 590000 SL
   Ace Crew Cost : 830000 / 1400 -> 950000 RP / 2100 GE
@@ -15197,8 +15197,8 @@ QN506 :
 
 ␗SU-100 :
 
-  95000 -> 82000 RP
-  270000 -> 240000 SL
+  RP Cost : 95000 -> 82000 RP
+  SL Cost : 270000 -> 240000 SL
   Crew Cost : 78000 -> 68000 SL
   Expert Crew Cost : 270000 -> 240000 SL
   Ace Crew Cost : 670000 / 1100 -> 620000 RP / 990 GE
@@ -15912,7 +15912,7 @@ P40 :
 
 Celere Sahariano :
 
-  7900 -> 9200 RP
+  GE Cost : 700 -> 850 GE
   Crew Cost : 2300 -> 4700 SL
   Expert Crew Cost : 15000 -> 32000 SL
   Ace Crew Cost : 320000 / 110 -> 380000 RP / 160 GE
@@ -15965,8 +15965,8 @@ Breda 501 :
 
 75/34 M42 :
 
-  11000 -> 9200 RP
-  38000 -> 22000 SL
+  RP Cost : 11000 -> 9200 RP
+  SL Cost : 38000 -> 22000 SL
   Crew Cost : 11000 -> 6300 SL
   Expert Crew Cost : 38000 -> 22000 SL
   Ace Crew Cost : 220000 / 210 -> 190000 RP / 160 GE
@@ -16019,8 +16019,8 @@ Breda 501 :
 
 105/25 M43 :
 
-  14000 -> 11000 RP
-  55000 -> 38000 SL
+  RP Cost : 14000 -> 11000 RP
+  SL Cost : 55000 -> 38000 SL
   Crew Cost : 16000 -> 11000 SL
   Expert Crew Cost : 55000 -> 38000 SL
   Ace Crew Cost : 250000 / 270 -> 220000 RP / 210 GE
@@ -16078,8 +16078,8 @@ M43 "G.C.Leoncello" :
 
 75/34 M43 :
 
-  18000 -> 14000 RP
-  77000 -> 55000 SL
+  RP Cost : 18000 -> 14000 RP
+  SL Cost : 77000 -> 55000 SL
   Crew Cost : 22000 -> 16000 SL
   Expert Crew Cost : 77000 -> 55000 SL
   Ace Crew Cost : 280000 / 330 -> 250000 RP / 270 GE
@@ -16158,8 +16158,8 @@ M4 Tipo IC :
 
 ▄Sherman Vc :
 
-  46000 -> 40000 RP
-  170000 -> 150000 SL
+  RP Cost : 46000 -> 40000 RP
+  SL Cost : 170000 -> 150000 SL
   Crew Cost : 48000 -> 44000 SL
   Expert Crew Cost : 170000 -> 150000 SL
   Ace Crew Cost : 440000 / 630 -> 390000 RP / 550 GE
@@ -16464,8 +16464,8 @@ AMX M4 :
 
 ARL-44 :
 
-  46000 -> 33000 RP
-  170000 -> 140000 SL
+  RP Cost : 46000 -> 33000 RP
+  SL Cost : 170000 -> 140000 SL
   Crew Cost : 48000 -> 39000 SL
   Expert Crew Cost : 170000 -> 140000 SL
   Ace Crew Cost : 440000 / 630 -> 360000 RP / 470 GE
@@ -16682,8 +16682,8 @@ LVT-4/40 :
 
 ▄M36B2 :
 
-  54000 -> 40000 RP
-  180000 -> 150000 SL
+  RP Cost : 54000 -> 40000 RP
+  SL Cost : 180000 -> 150000 SL
   Crew Cost : 52000 -> 44000 SL
   Expert Crew Cost : 180000 -> 150000 SL
   Ace Crew Cost : 480000 / 710 -> 390000 RP / 550 GE
@@ -16773,8 +16773,8 @@ M4A1 (FL10) :
 
 ▄M4A3E2 :
 
-  40000 -> 33000 RP
-  150000 -> 140000 SL
+  RP Cost : 40000 -> 33000 RP
+  SL Cost : 150000 -> 140000 SL
   Crew Cost : 44000 -> 39000 SL
   Expert Crew Cost : 150000 -> 140000 SL
   Ace Crew Cost : 390000 / 550 -> 360000 RP / 470 GE
@@ -16957,8 +16957,8 @@ ASRAD-R :
 
 Bkan 1C :
 
-  110000 -> 82000 RP
-  310000 -> 240000 SL
+  RP Cost : 110000 -> 82000 RP
+  SL Cost : 310000 -> 240000 SL
   Crew Cost : 90000 -> 68000 SL
   Expert Crew Cost : 310000 -> 240000 SL
   Ace Crew Cost : 720000 / 1200 -> 620000 RP / 990 GE
@@ -17253,8 +17253,8 @@ SAV 20.12.48 :
 
 Sav m/43 (1944) :
 
-  7900 -> 4000 RP
-  10000 -> 2100 SL
+  RP Cost : 7900 -> 4000 RP
+  SL Cost : 10000 -> 2100 SL
   Crew Cost : 3000 -> 600 SL
   Expert Crew Cost : 10000 -> 2100 SL
   Ace Crew Cost : 160000 / 110 -> 110000 RP / 40 GE
@@ -17321,8 +17321,8 @@ Sav m/43 (1946) :
 
 Spj fm/43-44 :
 
-  4000 -> 7900 RP
-  2100 -> 10000 SL
+  RP Cost : 4000 -> 7900 RP
+  SL Cost : 2100 -> 10000 SL
   Crew Cost : 600 -> 3000 SL
   Expert Crew Cost : 2100 -> 10000 SL
   Ace Crew Cost : 110000 / 40 -> 160000 RP / 110 GE
@@ -17515,7 +17515,7 @@ Strv m/40L :
 
 Strv m/41 S-I :
 
-  7900 -> 9200 RP
+  GE Cost : 700 -> 850 GE
   Crew Cost : 2300 -> 4700 SL
   Expert Crew Cost : 15000 -> 32000 SL
   Ace Crew Cost : 320000 / 110 -> 380000 RP / 160 GE
@@ -17554,8 +17554,8 @@ Strv m/42 EH :
 
 ▄T-28 :
 
-  7900 -> 5900 RP
-  10000 -> 6300 SL
+  RP Cost : 7900 -> 5900 RP
+  SL Cost : 10000 -> 6300 SL
   Crew Cost : 3000 -> 1800 SL
   Expert Crew Cost : 10000 -> 6300 SL
   Ace Crew Cost : 160000 / 110 -> 140000 RP / 80 GE
@@ -17647,7 +17647,7 @@ Strv m/42 EH :
 
 T 80 U :
 
-  990000 -> 930000 SL
+  SL Cost : 990000 -> 930000 SL
   Stock Repair Cost : 3970 / 4120 / 5230 -> 4631 / 4716 / 4776 SL
   Spaded Repair Cost : 6844 / 7102 / 9016 -> 7985 / 8132 / 8235 SL
   SL multiplier : 1.35 / 1.62 / 1.81 -> 1.29 / 1.6 / 1.85
@@ -17696,8 +17696,8 @@ Vickers Mk.E :
 
 AML-90 :
 
-  82000 -> 71000 RP
-  240000 -> 210000 SL
+  RP Cost : 82000 -> 71000 RP
+  SL Cost : 240000 -> 210000 SL
   Crew Cost : 68000 -> 61000 SL
   Expert Crew Cost : 240000 -> 210000 SL
   Ace Crew Cost : 620000 / 990 -> 570000 RP / 890 GE
@@ -17771,8 +17771,8 @@ Vickers Mk.E :
 
 Sho't :
 
-  95000 -> 82000 RP
-  270000 -> 240000 SL
+  RP Cost : 95000 -> 82000 RP
+  SL Cost : 270000 -> 240000 SL
   Crew Cost : 78000 -> 68000 SL
   Expert Crew Cost : 270000 -> 240000 SL
   Ace Crew Cost : 670000 / 1100 -> 620000 RP / 990 GE
@@ -17860,8 +17860,8 @@ Sho't Kal Gimel :
 
 Hovet :
 
-  150000 -> 130000 RP
-  420000 -> 370000 SL
+  RP Cost : 150000 -> 130000 RP
+  SL Cost : 420000 -> 370000 SL
   Crew Cost : 120000 -> 110000 SL
   Expert Crew Cost : 420000 -> 370000 SL
   Ace Crew Cost : 830000 / 1400 -> 780000 RP / 1300 GE
@@ -17947,8 +17947,8 @@ M-51 (W) :
 
 Machbet :
 
-  340000 -> 270000 RP
-  930000 -> 740000 SL
+  RP Cost : 340000 -> 270000 RP
+  SL Cost : 930000 -> 740000 SL
   Crew Cost : 260000 -> 210000 SL
   Expert Crew Cost : 930000 -> 740000 SL
   Ace Crew Cost : 1080000 / 2100 -> 1010000 RP / 2100 GE
@@ -18086,8 +18086,8 @@ Magach 6R :
 
 Magach 7C :
 
-  340000 -> 270000 RP
-  930000 -> 740000 SL
+  RP Cost : 340000 -> 270000 RP
+  SL Cost : 930000 -> 740000 SL
   Crew Cost : 260000 -> 210000 SL
   Expert Crew Cost : 930000 -> 740000 SL
   Ace Crew Cost : 1080000 / 2100 -> 1010000 RP / 2100 GE
@@ -20827,7 +20827,7 @@ Neustrashimy :
 
 Blagorodnyy :
 
-  61000 -> 50000 RP
+  GE Cost : 2980 -> 1750 GE
   Expert Crew Cost : 360000 -> 310000 SL
   Ace Crew Cost : 870000 / 820 -> 790000 RP / 700 GE
   Repair Cost : 2360 / 1190 -> 1898 / 3066 SL
@@ -21238,8 +21238,8 @@ SKR-1 :
 
 SKR-7 :
 
-  180000 -> 520000 RP
-  550000 -> 610000 SL
+  RP Cost : 180000 -> 520000 RP
+  SL Cost : 550000 -> 610000 SL
   Stock Repair Cost : 6500 / 8700 -> 7800 / 8700 SL
   Spaded Repair Cost : 7988 / 10692 -> 9586 / 10692 SL
   SL multiplier : 1.98 / 3.75 / 1.0 -> 1.83 / 3.55 / 1.0
@@ -22570,8 +22570,8 @@ IJN Fuso :
 
 IJN Hyuga :
 
-  380000 -> 320000 RP
-  990000 -> 790000 SL
+  RP Cost : 380000 -> 320000 RP
+  SL Cost : 990000 -> 790000 SL
   Crew Cost : 280000 -> 230000 SL
   Expert Crew Cost : 990000 -> 790000 SL
   Ace Crew Cost : 830000 / 2000 -> 780000 RP / 1800 GE
