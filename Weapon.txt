@@ -33,15 +33,6 @@ A-4B :
     New loadouts:
         18x Mk 81 Snakeye
         9x Mk 82 Snakeye
-    Loadouts changed:
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        57x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 462 -> 511
-        133x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 1079 -> 1194
     Custom loadout changes :
         Slot 1 changed :
             Added 6x Mk 81 Snakeye option
@@ -57,17 +48,6 @@ A-4E Early, A-4E :
     New loadouts:
         2x Mk 81 Snakeye
         2x Mk 82 Snakeye
-    Loadouts changed:
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        57x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 462 -> 511
-        171x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 1388 -> 1535
     Custom loadout changes :
         Slot 1 changed :
             Added 1x Mk 81 Snakeye option
@@ -89,15 +69,6 @@ A-6E TRAM :
     New loadouts:
         28x Mk 81 Snakeye
         28x Mk 82 Snakeye
-    Loadouts changed:
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        57x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 462 -> 511
-        190x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 1542 -> 1706
     Custom loadout changes :
         Slot 1 changed :
             Added 6x Mk 81 Snakeye option
@@ -115,40 +86,10 @@ A-6E TRAM :
             Added 6x Mk 81 Snakeye option
             Added 6x Mk 82 Snakeye option
 
-A-7D :
+A-7D, A-7E :
     New loadouts:
         24x Mk 81 Snakeye (stock)
         24x Mk 82 Snakeye
-    Loadouts changed:
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        114x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 925 -> 1023
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 6x Mk 81 Snakeye (stock) option
-            Added 6x Mk 82 Snakeye option
-        Slot 2 changed :
-            Added 6x Mk 81 Snakeye (stock) option
-            Added 6x Mk 82 Snakeye option
-        Slot 7 changed :
-            Added 6x Mk 81 Snakeye (stock) option
-            Added 6x Mk 82 Snakeye option
-        Slot 8 changed :
-            Added 6x Mk 81 Snakeye (stock) option
-            Added 6x Mk 82 Snakeye option
-
-A-7E :
-    New loadouts:
-        24x Mk 81 Snakeye (stock)
-        24x Mk 82 Snakeye
-    Loadouts changed:
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        228x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 1851 -> 2047
     Custom loadout changes :
         Slot 1 changed :
             Added 6x Mk 81 Snakeye (stock) option
@@ -167,14 +108,6 @@ A-7K :
     New loadouts:
         24x Mk 81 Snakeye (stock)
         24x Mk 82 Snakeye
-    Loadouts changed:
-        5x 250 lb (stock) -> 4x 250 lb (stock) :
-            Total suspended weaponry mass changed : 589 -> 471
-            Total bomb count changed : 5 -> 4
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        114x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 925 -> 1023
     Custom loadout changes :
         Slot 1 changed :
             Added 6x Mk 81 Snakeye (stock) option, can't be equipped together with 3x AGM-65B on slot 2
@@ -198,14 +131,6 @@ AV-8A :
         5x Mk 81 Snakeye
         5x Mk 82 Snakeye
     Loadouts changed:
-        7x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 56 -> 62
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        28x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 227 -> 251
-        76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
         1x Flares/Chaff :
             Required modification changed : Flares/Chaff -> Flares/Chaff
     Custom loadout changes :
@@ -229,15 +154,6 @@ AV-8C :
     New loadouts:
         5x Mk 81 Snakeye
         5x Mk 82 Snakeye
-    Loadouts changed:
-        7x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 56 -> 62
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        28x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 227 -> 251
-        76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
     Custom loadout changes :
         Slot 1 changed :
             Added 1x Mk 81 Snakeye option
@@ -259,15 +175,6 @@ A-1H :
     New loadouts:
         12x Mk 81 Snakeye
         18x Mk 82 Snakeye
-    Loadouts changed:
-        7x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 56 -> 62
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        98x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 795 -> 880
-        228x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 1851 -> 2047
     Custom loadout changes :
         Slot 1 changed :
             Added 1x Mk 81 Snakeye option
@@ -318,24 +225,6 @@ A-1H :
         Slot 15 changed :
             Added 1x Mk 81 Snakeye option
 
-AD-2, ▄AD-4, ▄AD-4NA :
-    Loadouts changed:
-        1x Mk 78 :
-            Total napalm bomb mass changed : 299 -> 416
-        2x Mk 78 :
-            Total napalm bomb mass changed : 598 -> 832
-
-AD-4 :
-    Loadouts changed:
-        7x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 56 -> 62
-        56x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 454 -> 502
-        1x Mk 78 :
-            Total napalm bomb mass changed : 299 -> 416
-        2x Mk 78 :
-            Total napalm bomb mass changed : 598 -> 832
-
 F-100D :
     Added custom loadouts
     New loadouts:
@@ -382,7 +271,6 @@ F-100D :
             Added Weapons of the loadout/option :
                 Added 4x AIM-9E
         76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
             Removed Required modification LAU-3/A
             Added Weapons of the loadout/option :
                 Added 76x FFAR Mighty Mouse
@@ -392,37 +280,17 @@ F-100D :
         2x AGM-12B Bullpup + 4x BLU-27/B
         4x BLU-27/B + 14x FFAR Mighty Mouse
 
-F-104C, ▄F-104G :
-    Loadouts changed:
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-
 F-105D :
     Loadouts changed:
         1x 3000 lb :
-            Total suspended weaponry mass changed : 1369 -> 1360
             Total damage changed : 15125 -> 15727
         3x 3000 lb :
             Reward multiplier changed : 0.53 -> 0.52
             Total damage changed : 45375 -> 47181
-            Total suspended weaponry mass changed : 4109 -> 4082
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
 
 F-4C Phantom II, F-4E Phantom II, F-4EJ Phantom II, F-4EJ ADTW, F-4EJ Kai Phantom II, Kurnass, Kurnass 2000 :
     New loadouts:
         24x Mk 82 Snakeye
-    Loadouts changed:
-        57x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 462 -> 511
-        57x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 462 -> 511
-        285x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 2314 -> 2559
     Custom loadout changes :
         Slot 1 changed :
             Added 6x Mk 82 Snakeye option
@@ -440,14 +308,6 @@ F-4J Phantom II :
         24x 250 lb
         24x Mk 82 Snakeye
     Loadouts changed:
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        57x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 462 -> 511
-        247x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 2005 -> 2218
         60x Zuni Mk32 :
             Weapons of the loadout/option changed :
                 Removed 60x Zuni Mk32
@@ -483,14 +343,6 @@ F-4S Phantom II :
             Weapons of the loadout/option changed :
                 Removed 48x Zuni Mk32
                 Added 48x Zuni Mk32
-        4x AIM-9H + 4x AIM-7F + 190x FFAR Mighty Mouse + 1x Mk 11 mod 5 :
-            Total suspended weaponry mass changed : 2821 -> 2985
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        57x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 462 -> 511
     Custom loadout changes :
         Slot 1 changed :
             Option changed : 12x Zuni Mk32 -> 12x Zuni Mk32
@@ -516,11 +368,6 @@ F-4S Phantom II :
 F-5A, F-5C, F-5E, ␗F-5A, ␗F-5E :
     New loadouts:
         5x Mk 82 Snakeye
-    Loadouts changed:
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
     Custom loadout changes :
         Slot 2 changed :
             Added 1x Mk 82 Snakeye option
@@ -533,40 +380,10 @@ F-5A, F-5C, F-5E, ␗F-5A, ␗F-5E :
         Slot 6 changed :
             Added 1x Mk 82 Snakeye option
 
-F-80C-10 :
-    Loadouts changed:
-        1x Mk 78 :
-            Total napalm bomb mass changed : 299 -> 416
-        4x Mk 78 :
-            Total napalm bomb mass changed : 1197 -> 1665
-
-F-84F, ◄F-84F, ▄F-84F, ▄F-84F :
-    Loadouts changed:
-        7x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 56 -> 62
-        42x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 341 -> 377
-
-F-89D :
-    Loadouts changed:
-        104x FFAR Mighty Mouse + 8x HVAR (stock) :
-            Total suspended weaponry mass changed : 1849 -> 1938
-
 F-8E :
     New loadouts:
         12x Mk 81 Snakeye
         8x Mk 82 Snakeye
-    Loadouts changed:
-        7x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 56 -> 62
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
     Custom loadout changes :
         Slot 1 changed :
             Added 3x Mk 81 Snakeye option
@@ -599,12 +416,10 @@ F11F-1 :
                 Added 2x AIM-9B (stock)
                 Added 2x AIM-9B
         28x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 227 -> 251
             Removed Required modification AERO-6
             Added Weapons of the loadout/option :
                 Added 28x FFAR Mighty Mouse
         38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
             Removed Required modification AERO-7
             Added Weapons of the loadout/option :
                 Added 38x FFAR Mighty Mouse
@@ -644,7 +459,6 @@ F3H-2 :
                 Added 2x 2000 lb
         1x 3000 lb :
             Total damage changed : 15125 -> 15727
-            Total suspended weaponry mass changed : 1369 -> 1360
             Removed Required modification Mk118
             Added Weapons of the loadout/option :
                 Added 1x 3000 lb
@@ -661,12 +475,10 @@ F3H-2 :
                 Added 2x AIM-9B (stock)
                 Added 2x AIM-9B
         56x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 454 -> 502
             Removed Required modification AERO-6
             Added Weapons of the loadout/option :
                 Added 56x FFAR Mighty Mouse
         114x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 925 -> 1023
             Removed Required modification AERO-7
             Added Weapons of the loadout/option :
                 Added 114x FFAR Mighty Mouse
@@ -681,17 +493,6 @@ F3H-2 :
         2x AIM-7C + 76x FFAR Mighty Mouse
         2x AIM-9B + 42x FFAR Mighty Mouse
         2x AIM-9B + 76x FFAR Mighty Mouse
-
-F4D-1 :
-    Loadouts changed:
-        7x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 56 -> 62
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        42x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 341 -> 377
-        114x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 925 -> 1023
 
 F7F-3 :
     Added custom loadouts
@@ -709,13 +510,6 @@ F7F-3 :
         1x 1000 lb + 8x HVAR (stock)
         8x HVAR + 1x Mk 13 Mod 0
         1x Mk 13 Mod 0 + 2x Tiny Tim
-
-F8U-2 :
-    Loadouts changed:
-        2x AIM-9D + 32x FFAR Mighty Mouse + 4x Zuni Mk32 :
-            Total suspended weaponry mass changed : 663 -> 691
-        32x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 259 -> 287
 
 F9F-2, F9F-5 :
     New loadouts:
@@ -742,17 +536,6 @@ F9F-2, F9F-5 :
         Slot 8 changed :
             Added 1x 250 lb (stock) option
 
-F9F-8 :
-    Loadouts changed:
-        7x FFAR Mighty Mouse (stock) :
-            Total suspended weaponry mass changed : 56 -> 62
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        42x FFAR Mighty Mouse (stock) :
-            Total suspended weaponry mass changed : 341 -> 377
-        114x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 925 -> 1023
-
 F-14A Early :
     New loadouts:
         14x Mk 82 AIR
@@ -769,11 +552,6 @@ F-14A Early :
 F-16A, F-16AJ, Netz :
     New loadouts:
         13x Mk 82 Snakeye
-    Loadouts changed:
-        57x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 462 -> 511
-        114x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 925 -> 1023
     Custom loadout changes :
         Slot 3 changed :
             Added 3x Mk 82 Snakeye option
@@ -818,7 +596,6 @@ FJ-4B :
                 Added 2x AIM-9B (stock)
                 Added 2x AIM-9B
         114x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 925 -> 1023
             Removed Required modification AERO-7
             Added Weapons of the loadout/option :
                 Added 114x FFAR Mighty Mouse
@@ -856,7 +633,6 @@ FJ-4B VMF-232 :
             Added Weapons of the loadout/option :
                 Added 2x AIM-9B (stock)
         114x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 925 -> 1023
             Removed Required modification AERO-7
             Added Weapons of the loadout/option :
                 Added 114x FFAR Mighty Mouse
@@ -944,7 +720,6 @@ P-51D-10, P-51D-5 :
             Added Weapons of the loadout/option :
                 Added 2x 1000 lb
         6x HVAR -> 10x HVAR :
-            Total suspended weaponry mass changed : 376 -> 627
             Removed Required modification FRC mk.2
             Added Weapons of the loadout/option :
                 Added 10x HVAR
@@ -970,7 +745,6 @@ P-51D-30 :
         10x HVAR
     Loadouts changed:
         2x Mk 78 :
-            Total napalm bomb mass changed : 598 -> 832
             Removed Required modification Mk78
             Added Weapons of the loadout/option :
                 Added 2x Mk 78
@@ -1006,7 +780,6 @@ P-51H-5-NA :
             Added Weapons of the loadout/option :
                 Added 6x M8
         2x Mk 78 :
-            Total napalm bomb mass changed : 598 -> 832
             Removed Required modification Mk78
             Added Weapons of the loadout/option :
                 Added 2x Mk 78
@@ -1047,8 +820,6 @@ Bf 110 C-7 :
                 Added 2x C 250
         1x C 500 -> 2x C 500 :
             Total damage changed : 10100 -> 20200
-            Total napalm bomb mass changed : 225 -> 450
-            Total bomb count changed : 1 -> 2
             Removed Required modification Flamm C 500
             Added Reward multiplier 0.92
             Added Weapons of the loadout/option :
@@ -1186,16 +957,8 @@ Bf 110 G-4, ◐Bf 110 G-4 :
             Required modification changed : M117 -> Mk82
         1x 3000 lb :
             Total damage changed : 15125 -> 15727
-            Total suspended weaponry mass changed : 1369 -> 1360
         1x 3000 lb :
-            Total suspended weaponry mass changed : 1369 -> 1360
             Total damage changed : 15125 -> 15727
-        57x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 462 -> 511
-        57x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 462 -> 511
-        285x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 2314 -> 2559
     Custom loadout changes :
         Slot 1 changed :
             Added 6x Mk 82 Snakeye option
@@ -1254,7 +1017,6 @@ Bf 110 G-4, ◐Bf 110 G-4 :
                 Added 4x AA-20 Nord
                 Added 2x 12.7 mm M3 Browning machine gun (stock)
         4x 12.7 mm M3 Browning machine gun + 38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
             Removed Required modification FFAR Mighty Mouse
             Added Weapons of the loadout/option :
                 Added 38x FFAR Mighty Mouse
@@ -1283,16 +1045,6 @@ Bf 110 G-4, ◐Bf 110 G-4 :
         2x 12.7 mm M3 Browning machine gun + 2x 500 lb + 2x AS-20 Nord
         2x 12.7 mm M3 Browning machine gun + 2x 500 lb + 2x AA-20 Nord
 
-He 51 B-2/H :
-    Loadouts changed:
-        6x SD10C (stock) :
-            Total suspended weaponry mass changed : 60 -> 42
-
-He 51 C-1, He 51 C-1/L :
-    Loadouts changed:
-        6x SD10C :
-            Total suspended weaponry mass changed : 60 -> 42
-
 ◊IL-28, IL-28, H-5 :
     Loadouts changed:
         12x FAB-100M-43 (stock) :
@@ -1312,18 +1064,15 @@ He 51 C-1, He 51 C-1/L :
     Loadouts changed:
         2x OFAB-100 -> 2x OFAB-250 :
             Total damage changed : 2892 -> 4310
-            Total suspended weaponry mass changed : 228 -> 500
             Removed Required modification FAB-100
             Added Weapons of the loadout/option :
                 Added 2x OFAB-250
         2x OFAB-250 -> 2x OFAB-100 :
             Total damage changed : 4310 -> 2892
-            Total suspended weaponry mass changed : 500 -> 228
             Removed Required modification FAB-250
             Added Weapons of the loadout/option :
                 Added 2x OFAB-100
         16x S-5K -> 32x S-5K :
-            Total suspended weaponry mass changed : 58 -> 116
             Removed Required modification S-5K
             Added Weapons of the loadout/option :
                 Added 32x S-5K
@@ -1455,7 +1204,6 @@ Be-6 :
                 Added 2x 45-36MAN
         8x FAB-250M-46 (stock) -> 8x FAB-500M-46 :
             Total damage changed : 20232 -> 47520
-            Total suspended weaponry mass changed : 2017 -> 4066
             Added Reward multiplier 0.62
             Added Weapons of the loadout/option :
                 Added 8x FAB-500M-46
@@ -1463,7 +1211,6 @@ Be-6 :
         8x FAB-500M-46 -> 8x FAB-250M-46 (stock) :
             Removed Reward multiplier 0.62
             Total damage changed : 47520 -> 20232
-            Total suspended weaponry mass changed : 4066 -> 2017
             Removed Required modification KD-3
             Added Weapons of the loadout/option :
                 Added 8x FAB-250M-46 (stock)
@@ -1683,7 +1430,6 @@ Pe-3, Pe-3bis, Pe-3 (e) :
             Added Weapons of the loadout/option :
                 Added 6x RBS-132
         6x ROFS-132 -> 6x M-13UK :
-            Total suspended weaponry mass changed : 251 -> 254
             Removed Required modification RO-132
             Added Weapons of the loadout/option :
                 Added 6x M-13UK
@@ -2116,7 +1862,6 @@ Lancaster B Mk I, Lancaster B Mk III :
         8x 250 lb + 6x 500 lb (stock) :
             Reward multiplier changed : 0.9 -> 0.71
             Total damage changed : 20546 -> 28576
-            Total suspended weaponry mass changed : 2113 -> 2207
         14x 250 lb (stock) :
             Total damage changed : 17528 -> 22540
             Added Reward multiplier 0.84
@@ -2125,19 +1870,15 @@ Lancaster B Mk I, Lancaster B Mk III :
         14x 500 lb (stock) :
             Reward multiplier changed : 0.79 -> 0.61
             Total damage changed : 24570 -> 36624
-            Total suspended weaponry mass changed : 2984 -> 3244
         1x 1000 lb + 2x 250 lb + 6x 500 lb :
             Total damage changed : 16833 -> 22663
-            Total suspended weaponry mass changed : 1983 -> 2057
             Added Reward multiplier 0.84
         6x 1000 lb + 3x 250 lb -> 3x 250 lb + 6x uk_1000lbs_mc_mk1_mk2_ :
             Reward multiplier changed : 0.75 -> 0.74
             Total damage changed : 26550 -> 27312
-            Total suspended weaponry mass changed : 3287 -> 3084
         14x 1000 lb :
             Reward multiplier changed : 0.42 -> 0.49
             Total damage changed : 71848 -> 52458
-            Total suspended weaponry mass changed : 6642 -> 6483
 
 Scimitar F Mk.1 :
     Added custom loadouts
@@ -2209,7 +1950,6 @@ Wyvern S4 :
     Loadouts changed:
         3x 500 lb :
             Total damage changed : 5265 -> 7848
-            Total suspended weaponry mass changed : 639 -> 695
             Removed Required modification HMBC mk.2
             Added Weapons of the loadout/option :
                 Added 3x 500 lb
@@ -2249,22 +1989,6 @@ Wyvern S4 :
             Removed Required modification Red Angel
             Added Weapons of the loadout/option :
                 Added 2x Red Angel
-
-F-1, T-2, G.91 Y, G.91 YS :
-    Loadouts changed:
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
-
-T-2 Early :
-    Loadouts changed:
-        2x AIM-9E + 76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 769 -> 835
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
 
 A-5C :
     New loadouts:
@@ -2335,18 +2059,13 @@ J-8B :
     Loadouts changed:
         2x 250-3 -> 8x 250-3 :
             Total damage changed : 17471 -> 17705
-            Total suspended weaponry mass changed : 1814 -> 1966
         2x 250-3 + 2x PL-5B -> 8x 250-3 + 2x PL-5B :
             Total damage changed : 17471 -> 17705
-            Total suspended weaponry mass changed : 1983 -> 2135
         6x 250-3 + 4x PL-5B :
             Total damage changed : 12545 -> 12779
-            Total suspended weaponry mass changed : 1698 -> 1851
         6x 250-3 + 2x Aspide-1A + 2x PL-5B :
             Total damage changed : 12545 -> 12779
-            Total suspended weaponry mass changed : 1989 -> 2142
         6x 250-3 :
-            Total suspended weaponry mass changed : 1360 -> 1513
             Total damage changed : 2463 -> 2529
     Custom loadout changes :
         Slot 2 changed :
@@ -2381,22 +2100,6 @@ Q-5L :
         Slot 7 changed :
             Added 1x 250-4 option
 
-F-104S, ▄F-104S TAF :
-    Loadouts changed:
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        76x FFAR Mighty Mouse + 1x M61A1 :
-            Total suspended weaponry mass changed : 617 -> 682
-
-F-104S.ASA :
-    Loadouts changed:
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        38x FFAR Mighty Mouse + 1x M61A1 + 8x Zuni Mk32 :
-            Total suspended weaponry mass changed : 762 -> 795
-        76x FFAR Mighty Mouse + 1x M61A1 :
-            Total suspended weaponry mass changed : 617 -> 682
-
 G.91 pre-serie :
     Added custom loadouts
     Loadouts changed:
@@ -2423,7 +2126,6 @@ G.91 R/1 :
                 Added 2x 500 lb
                 Added 4x 12.7 mm M3 Browning machine gun (stock)
         4x 12.7 mm M3 Browning machine gun + 38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
             Removed Required modification FFAR Mighty Mouse
             Added Weapons of the loadout/option :
                 Added 38x FFAR Mighty Mouse
@@ -2451,7 +2153,6 @@ G.91 R/4 :
                 Added 4x AA-20 Nord
                 Added 2x 12.7 mm M3 Browning machine gun (stock)
         4x 12.7 mm M3 Browning machine gun + 38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
             Removed Required modification FFAR Mighty Mouse
             Added Weapons of the loadout/option :
                 Added 38x FFAR Mighty Mouse
@@ -2533,7 +2234,6 @@ G.91 R/4 :
             Added Weapons of the loadout/option :
                 Added 4x AIM-9B
         76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
             Removed Required modification LAU-3/A
             Added Weapons of the loadout/option :
                 Added 76x FFAR Mighty Mouse
@@ -2541,19 +2241,6 @@ G.91 R/4 :
             Removed Required modification LAU-10/A
             Added Weapons of the loadout/option :
                 Added 8x Zuni Mk32
-
-F-84F IAF, F-84F :
-    Loadouts changed:
-        2x 1000 lb + 42x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 1234 -> 1270
-        2x 2000 lb + 42x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 2128 -> 2164
-        4x BLU-1 + 28x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 227 -> 251
-        7x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 56 -> 62
-        42x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 341 -> 377
 
 F4U-7 :
     Added custom loadouts
@@ -2691,11 +2378,6 @@ Mirage 2000D-R1 :
             Added 1x 250 kg Type 25 200 option
             Added 1x SAMP Mk 82 250 Snakeye option
 
-▄P-63C-5 :
-    Loadouts changed:
-        3x Mk 78 :
-            Total napalm bomb mass changed : 898 -> 1249
-
 ▄SB2C-5 :
     New loadouts:
         1x 2000 lb
@@ -2753,34 +2435,10 @@ A21A-3 :
         8x m/49B + 1x m/40
         8x m/51 + 1x m/40
 
-A-4E Early (M), A-4H :
-    Loadouts changed:
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        57x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 462 -> 511
-        171x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 1388 -> 1535
-
 Ayit :
     New loadouts:
         2x Mk 81 Snakeye (stock)
         2x Mk 82 Snakeye
-    Loadouts changed:
-        19x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 154 -> 170
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        57x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 462 -> 511
-        171x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 1388 -> 1535
     Custom loadout changes :
         Slot 1 changed :
             Added 1x Mk 81 Snakeye (stock) option
@@ -2797,37 +2455,6 @@ Ayit :
         Slot 5 changed :
             Added 1x Mk 81 Snakeye (stock) option
             Added 1x Mk 82 Snakeye option
-
-Kfir C.2 :
-    Loadouts changed:
-        4x 500 lb + 2x AIM-9G + 76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 2961 -> 3027
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
-
-Kfir C.7 :
-    Loadouts changed:
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
-
-Kfir Canard :
-    Loadouts changed:
-        2x 500 lb + 2x AIM-9G + 76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 2480 -> 2545
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
 
 M.D.450B Ouragan :
     Added custom loadouts
@@ -2924,13 +2551,11 @@ Sa'ar :
             Added Weapons of the loadout/option :
                 Added 8x 500 lb
         70x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 568 -> 628
             Removed Required modification LAU-32
             Added Weapons of the loadout/option :
                 Added 56x FFAR Mighty Mouse
                 Added 14x FFAR Mighty Mouse
         114x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 925 -> 1023
             Removed Required modification LAU-3/A
             Added Weapons of the loadout/option :
                 Added 76x FFAR Mighty Mouse
@@ -2999,13 +2624,6 @@ Sambad :
 Nesher :
     New loadouts:
         2x SAMP Mk 82 250 Snakeye
-    Loadouts changed:
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        38x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 308 -> 341
-        76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
     Custom loadout changes :
         Slot 2 changed :
             Added 3x SAMP Mk 82 250 Snakeye option
@@ -3034,7 +2652,6 @@ Nesher :
             Added Weapons of the loadout/option :
                 Added 2x 1000 lb
         6x AR -> 8x AR :
-            Total suspended weaponry mass changed : 225 -> 300
             Removed Required modification FRC mk.2
             Added Weapons of the loadout/option :
                 Added 8x AR
@@ -3046,21 +2663,15 @@ AH-1G, AH-1S Kisarazu, AH-1S, Tzefa A, Tzefa B :
     Loadouts changed:
         7x FFAR Mighty Mouse (stock) :
             Total rocket mass changed : 8.12 -> 8.98
-            Total suspended weaponry mass changed : 56 -> 62
         19x FFAR Mighty Mouse :
             Total rocket mass changed : 8.12 -> 8.98
-            Total suspended weaponry mass changed : 154 -> 170
         28x FFAR Mighty Mouse (stock) :
-            Total suspended weaponry mass changed : 227 -> 251
             Total rocket mass changed : 8.12 -> 8.98
         76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
             Total rocket mass changed : 8.12 -> 8.98
 
 H-34 :
     Loadouts changed:
-        2x 12.7 mm M3 Browning machine gun + 2x 20 mm M3 cannon + 4x 7.62 mm Browning machine gun + 40x FFAR Mighty Mouse + 2x HVAR :
-            Total suspended weaponry mass changed : 450 -> 484
         4x 12.7 mm M3 Browning machine gun + 32x FFAR Mighty Mouse (stock) -> 1x AGM-12B Bullpup (stock) :
             Removed Total rocket mass 8.12
 
@@ -3068,30 +2679,22 @@ UH-1B, UH-1C :
     Loadouts changed:
         19x FFAR Mighty Mouse (stock) :
             Total rocket mass changed : 8.12 -> 8.98
-            Total suspended weaponry mass changed : 154 -> 170
         19x FFAR Mighty Mouse :
             Total rocket mass changed : 8.12 -> 8.98
-            Total suspended weaponry mass changed : 154 -> 170
         38x FFAR Mighty Mouse (stock) :
-            Total suspended weaponry mass changed : 308 -> 341
             Total rocket mass changed : 8.12 -> 8.98
         76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
             Total rocket mass changed : 8.12 -> 8.98
 
 UH-1C XM-30 :
     Loadouts changed:
         19x FFAR Mighty Mouse (stock) :
             Total rocket mass changed : 8.12 -> 8.98
-            Total suspended weaponry mass changed : 154 -> 170
         19x FFAR Mighty Mouse (stock) :
             Total rocket mass changed : 8.12 -> 8.98
-            Total suspended weaponry mass changed : 154 -> 170
         38x FFAR Mighty Mouse (stock) :
-            Total suspended weaponry mass changed : 308 -> 341
             Total rocket mass changed : 8.12 -> 8.98
         76x FFAR Mighty Mouse (stock) :
-            Total suspended weaponry mass changed : 617 -> 682
             Total rocket mass changed : 8.12 -> 8.98
 
 BO 105 CB-2 :
@@ -3106,14 +2709,12 @@ BO 105 CB-2 :
             Added Weapons of the loadout/option :
                 Added 2x 12.7 mm FN M3P machine gun
         2x 12.7 mm FN M3P machine gun + 2x Flares/Chaff + 6x FFAR Mighty Mouse -> 2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 48 -> 53
             Total rocket mass changed : 8.12 -> 8.98
             Removed Required modification FN RMP LC / LTC
             Added Weapons of the loadout/option :
                 Added 2x 12.7 mm FN M3P machine gun
                 Added 6x FFAR Mighty Mouse
         8x BGM-71C ITOW (stock) -> 4x BGM-71C ITOW (stock) :
-            Total suspended weaponry mass changed : 152 -> 76
             Added Weapons of the loadout/option :
                 Added 4x BGM-71C ITOW (stock)
     Removed loadouts:
@@ -3157,24 +2758,19 @@ BO 105 PAH-1A1 :
 EC-665 Tiger UHT :
     Loadouts changed:
         2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 48 -> 53
             Total rocket mass changed : 8.12 -> 8.98
         1x FFAR Mighty Mouse :
             Total rocket mass changed : 8.12 -> 8.98
         19x FFAR Mighty Mouse (stock) :
             Total rocket mass changed : 8.12 -> 8.98
-            Total suspended weaponry mass changed : 154 -> 170
         38x FFAR Mighty Mouse (stock) :
-            Total suspended weaponry mass changed : 308 -> 341
             Total rocket mass changed : 8.12 -> 8.98
 
 ◄UH-1D :
     Loadouts changed:
         19x FFAR Mighty Mouse (stock) :
             Total rocket mass changed : 8.12 -> 8.98
-            Total suspended weaponry mass changed : 154 -> 170
         38x FFAR Mighty Mouse (stock) :
-            Total suspended weaponry mass changed : 308 -> 341
             Total rocket mass changed : 8.12 -> 8.98
 
 Mi-35M :
@@ -3197,7 +2793,6 @@ Mi-4AV :
                 Added 4x FAB-250M-46
                 Added 2x 9М17М Falanga
         x Empty (stock) -> 96x S-5K (stock) :
-            Added Total suspended weaponry mass 349
             Added Total rocket mass 3.64
             Added Weapons of the loadout/option :
                 Added 96x S-5K (stock)
@@ -3218,13 +2813,11 @@ Mi-4AV :
 ▅AH-1E :
     Loadouts changed:
         28x FFAR Mighty Mouse (stock) :
-            Total suspended weaponry mass changed : 227 -> 251
             Total rocket mass changed : 8.12 -> 8.98
             Weapons of the loadout/option changed :
                 Removed 28x FFAR Mighty Mouse (stock)
                 Added 28x FFAR Mighty Mouse (stock)
         76x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 617 -> 682
             Total rocket mass changed : 8.12 -> 8.98
             Weapons of the loadout/option changed :
                 Removed 76x FFAR Mighty Mouse
@@ -3247,7 +2840,6 @@ Mi-4AV :
     Loadouts changed:
         19x FFAR Mighty Mouse (stock) :
             Total rocket mass changed : 8.12 -> 8.98
-            Total suspended weaponry mass changed : 154 -> 170
 
 A.109EOA-2 :
     Added custom loadouts
@@ -3257,7 +2849,6 @@ A.109EOA-2 :
             Added Weapons of the loadout/option :
                 Added 2x 12.7 mm FN M3P machine gun
         2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 48 -> 53
             Total rocket mass changed : 8.12 -> 8.98
             Removed Required modification FN RMP LC
             Added Weapons of the loadout/option :
@@ -3268,7 +2859,6 @@ A.109EOA-2 :
             Added Weapons of the loadout/option :
                 Added 4x BGM-71C ITOW
         28x FFAR Mighty Mouse (stock) :
-            Total suspended weaponry mass changed : 227 -> 251
             Total rocket mass changed : 8.12 -> 8.98
             Added Weapons of the loadout/option :
                 Added 28x FFAR Mighty Mouse (stock)
@@ -3281,20 +2871,11 @@ A.109EOA-2 :
 
 A-129 International (p) :
     Loadouts changed:
-        1x 12.7 mm FN M3P machine gun + 8x BGM-71D TOW-2 + 3x FFAR Mighty Mouse + 19x Hydra-70 M247 :
-            Total suspended weaponry mass changed : 389 -> 391
-        1x 12.7 mm FN M3P machine gun + 8x AGM-114B Hellfire + 3x FFAR Mighty Mouse + 19x Hydra-70 M247 :
-            Total suspended weaponry mass changed : 578 -> 581
         2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 48 -> 53
             Total rocket mass changed : 8.12 -> 8.98
-        2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse + 38x Hydra-70 M247 :
-            Total suspended weaponry mass changed : 434 -> 439
         2x 12.7 mm FN M3P machine gun + 8x BGM-71D TOW-2 + 6x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 220 -> 225
             Total rocket mass changed : 8.12 -> 8.98
         2x 12.7 mm FN M3P machine gun + 8x AGM-114B Hellfire + 6x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 409 -> 414
             Total rocket mass changed : 8.12 -> 8.98
         1x FFAR Mighty Mouse :
             Total rocket mass changed : 8.12 -> 8.98
@@ -3302,7 +2883,6 @@ A-129 International (p) :
 A129CBT :
     Loadouts changed:
         2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse :
-            Total suspended weaponry mass changed : 48 -> 53
             Total rocket mass changed : 8.12 -> 8.98
         1x FFAR Mighty Mouse :
             Total rocket mass changed : 8.12 -> 8.98
@@ -3311,18 +2891,14 @@ AB 205 A-1 :
     Loadouts changed:
         7x FFAR Mighty Mouse (stock) :
             Total rocket mass changed : 8.12 -> 8.98
-            Total suspended weaponry mass changed : 56 -> 62
         14x FFAR Mighty Mouse (stock) :
-            Total suspended weaponry mass changed : 113 -> 125
             Total rocket mass changed : 8.12 -> 8.98
         14x FFAR Mighty Mouse + 2x M134 Minigun (stock) :
-            Total suspended weaponry mass changed : 113 -> 125
             Total rocket mass changed : 8.12 -> 8.98
 
 ▄H-34 :
     Loadouts changed:
         4x 7.62 mm Browning machine gun + 2x AS.11 + 6x HVAR (stock) -> 1x AS.11 (stock) :
-            Total suspended weaponry mass changed : 436 -> 29
             Removed Total rocket mass 62.8
 
 IAR 316B :
@@ -3355,7 +2931,6 @@ SA.341F Gazelle :
                 Added 2x Mistral
                 Added 1x 20 mm GIAT M.621 cannon (stock)
         1x 20 mm GIAT M.621 cannon + 7x FFAR Mighty Mouse (stock) :
-            Added Total suspended weaponry mass 62
             Added Total rocket mass 8.98
             Added Weapons of the loadout/option :
                 Added 7x FFAR Mighty Mouse (stock)
@@ -3367,7 +2942,6 @@ SA.342M Gazelle :
         2x HOT-1 (stock)
     Loadouts changed:
         14x FFAR Mighty Mouse (stock) :
-            Added Total suspended weaponry mass 125
             Added Total rocket mass 8.98
             Added Weapons of the loadout/option :
                 Added 14x FFAR Mighty Mouse (stock)
