@@ -1,0 +1,5 @@
+Statcard changes :
+
+TBF-1C, ▄Avenger Mk II :
+    Crew : 3 -> 4
+
