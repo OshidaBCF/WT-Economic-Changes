@@ -1,7 +1,7 @@
 Weapon changes :
 
 A-10A, A-10A Late :
-    New loadouts:
+    New loadouts :
         6x Mk 82 Snakeye
     Custom loadout changes :
         Slot 1 changed :
@@ -30,7 +30,7 @@ A-10A, A-10A Late :
             Added 1x Mk 82 Snakeye option
 
 A-4B :
-    New loadouts:
+    New loadouts :
         18x Mk 81 Snakeye
         9x Mk 82 Snakeye
     Custom loadout changes :
@@ -45,7 +45,7 @@ A-4B :
             Added 3x Mk 82 Snakeye option
 
 A-4E Early, A-4E :
-    New loadouts:
+    New loadouts :
         2x Mk 81 Snakeye
         2x Mk 82 Snakeye
     Custom loadout changes :
@@ -66,7 +66,7 @@ A-4E Early, A-4E :
             Added 1x Mk 82 Snakeye option
 
 A-6E TRAM :
-    New loadouts:
+    New loadouts :
         28x Mk 81 Snakeye
         28x Mk 82 Snakeye
     Custom loadout changes :
@@ -87,7 +87,7 @@ A-6E TRAM :
             Added 6x Mk 82 Snakeye option
 
 A-7D, A-7E :
-    New loadouts:
+    New loadouts :
         24x Mk 81 Snakeye (stock)
         24x Mk 82 Snakeye
     Custom loadout changes :
@@ -105,7 +105,7 @@ A-7D, A-7E :
             Added 6x Mk 82 Snakeye option
 
 A-7K :
-    New loadouts:
+    New loadouts :
         24x Mk 81 Snakeye (stock)
         24x Mk 82 Snakeye
     Custom loadout changes :
@@ -127,10 +127,10 @@ A-7K :
             Added 4x Mk 82 Snakeye option
 
 AV-8A :
-    New loadouts:
+    New loadouts :
         5x Mk 81 Snakeye
         5x Mk 82 Snakeye
-    Loadouts changed:
+    Loadouts changed :
         1x Flares/Chaff :
             Required modification changed : Flares/Chaff -> Flares/Chaff
     Custom loadout changes :
@@ -151,7 +151,7 @@ AV-8A :
             Added 1x Mk 82 Snakeye option
 
 AV-8C :
-    New loadouts:
+    New loadouts :
         5x Mk 81 Snakeye
         5x Mk 82 Snakeye
     Custom loadout changes :
@@ -172,7 +172,7 @@ AV-8C :
             Added 1x Mk 82 Snakeye option
 
 A-1H :
-    New loadouts:
+    New loadouts :
         12x Mk 81 Snakeye
         18x Mk 82 Snakeye
     Custom loadout changes :
@@ -227,12 +227,12 @@ A-1H :
 
 F-100D :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         6x 750 lb M117
         8x BLU-27/B
         38x FFAR Mighty Mouse
         6x Mk 82 Snakeye
-    Loadouts changed:
+    Loadouts changed :
         6x 500 lb :
             Removed Required modification M64
             Added Weapons of the loadout/option :
@@ -274,14 +274,14 @@ F-100D :
             Removed Required modification LAU-3/A
             Added Weapons of the loadout/option :
                 Added 76x FFAR Mighty Mouse
-    Removed loadouts:
+    Removed loadouts :
         4x 750 lb M117 + 14x FFAR Mighty Mouse
         4x 750 lb M117 + 2x AGM-12B Bullpup
         2x AGM-12B Bullpup + 4x BLU-27/B
         4x BLU-27/B + 14x FFAR Mighty Mouse
 
 F-105D :
-    Loadouts changed:
+    Loadouts changed :
         1x 3000 lb :
             Total damage changed : 15125 -> 15727
         3x 3000 lb :
@@ -289,7 +289,7 @@ F-105D :
             Total damage changed : 45375 -> 47181
 
 F-4C Phantom II, F-4E Phantom II, F-4EJ Phantom II, F-4EJ ADTW, F-4EJ Kai Phantom II, Kurnass, Kurnass 2000 :
-    New loadouts:
+    New loadouts :
         24x Mk 82 Snakeye
     Custom loadout changes :
         Slot 1 changed :
@@ -304,10 +304,10 @@ F-4C Phantom II, F-4E Phantom II, F-4EJ Phantom II, F-4EJ ADTW, F-4EJ Kai Phanto
             Added 6x Mk 82 Snakeye option
 
 F-4J Phantom II :
-    New loadouts:
+    New loadouts :
         24x 250 lb
         24x Mk 82 Snakeye
-    Loadouts changed:
+    Loadouts changed :
         60x Zuni Mk32 :
             Weapons of the loadout/option changed :
                 Removed 60x Zuni Mk32
@@ -335,10 +335,10 @@ F-4J Phantom II :
             Added 6x Mk 82 Snakeye option
 
 F-4S Phantom II :
-    New loadouts:
+    New loadouts :
         4x AIM-9H + 4x AIM-7F + 1x Mk 11 mod 5 + 18x Mk 81 Snakeye
         4x AIM-9H + 4x AIM-7F + 1x Mk 11 mod 5 + 18x Mk 82 Snakeye
-    Loadouts changed:
+    Loadouts changed :
         4x AIM-7F + 4x AIM-9H + 1x Mk 11 mod 5 + 48x Zuni Mk32 :
             Weapons of the loadout/option changed :
                 Removed 48x Zuni Mk32
@@ -366,7 +366,7 @@ F-4S Phantom II :
             Added 6x Mk 82 Snakeye option
 
 F-5A, F-5C, F-5E, ␗F-5A, ␗F-5E :
-    New loadouts:
+    New loadouts :
         5x Mk 82 Snakeye
     Custom loadout changes :
         Slot 2 changed :
@@ -381,7 +381,7 @@ F-5A, F-5C, F-5E, ␗F-5A, ␗F-5E :
             Added 1x Mk 82 Snakeye option
 
 F-8E :
-    New loadouts:
+    New loadouts :
         12x Mk 81 Snakeye
         8x Mk 82 Snakeye
     Custom loadout changes :
@@ -398,7 +398,7 @@ F-8E :
 
 F11F-1 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         4x 500 lb :
             Removed Required modification Mk82
             Added Weapons of the loadout/option :
@@ -423,7 +423,7 @@ F11F-1 :
             Removed Required modification AERO-7
             Added Weapons of the loadout/option :
                 Added 38x FFAR Mighty Mouse
-    Removed loadouts:
+    Removed loadouts :
         2x 500 lb + 2x AIM-9B
         2x 1000 lb + 2x AIM-9B
         2x AIM-9B + 14x FFAR Mighty Mouse
@@ -432,7 +432,7 @@ F11F-1 :
 
 F3H-2 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         6x 250 lb :
             Removed Required modification AN-M57A1 BOX
             Added Weapons of the loadout/option :
@@ -482,7 +482,7 @@ F3H-2 :
             Removed Required modification AERO-7
             Added Weapons of the loadout/option :
                 Added 114x FFAR Mighty Mouse
-    Removed loadouts:
+    Removed loadouts :
         2x 1000 lb + 6x 250 lb
         2x 1000 lb + 2x AIM-9B
         2x 1000 lb + 2x AIM-7C
@@ -496,7 +496,7 @@ F3H-2 :
 
 F7F-3 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         8x HVAR (stock) :
             Added Weapons of the loadout/option :
                 Added 8x HVAR (stock)
@@ -504,7 +504,7 @@ F7F-3 :
             Added Weapons of the loadout/option :
                 Added 3x Tiny Tim
             No longer available stock
-    Removed loadouts:
+    Removed loadouts :
         2x 500 lb + 1x Mk 13 Mod 0
         1x 1000 lb + 2x 500 lb
         1x 1000 lb + 8x HVAR (stock)
@@ -512,7 +512,7 @@ F7F-3 :
         1x Mk 13 Mod 0 + 2x Tiny Tim
 
 F9F-2, F9F-5 :
-    New loadouts:
+    New loadouts :
         8x 250 lb (stock)
     Custom loadout changes :
         Slot 1 changed :
@@ -537,7 +537,7 @@ F9F-2, F9F-5 :
             Added 1x 250 lb (stock) option
 
 F-14A Early :
-    New loadouts:
+    New loadouts :
         14x Mk 82 AIR
         4x Mk 83 AIR
     Custom loadout changes :
@@ -550,7 +550,7 @@ F-14A Early :
             Added 2x Mk 83 AIR option
 
 F-16A, F-16AJ, Netz :
-    New loadouts:
+    New loadouts :
         13x Mk 82 Snakeye
     Custom loadout changes :
         Slot 3 changed :
@@ -568,9 +568,9 @@ F-16A, F-16AJ, Netz :
 
 FJ-4B :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         24x Zuni Mk32
-    Loadouts changed:
+    Loadouts changed :
         6x 250 lb :
             Removed Required modification FSBC mk.5
             Added Weapons of the loadout/option :
@@ -599,7 +599,7 @@ FJ-4B :
             Removed Required modification AERO-7
             Added Weapons of the loadout/option :
                 Added 114x FFAR Mighty Mouse
-    Removed loadouts:
+    Removed loadouts :
         4x 250 lb + 2x AIM-9B
         4x 500 lb + 2x AIM-9B
         2x 1000 lb + 4x 500 lb
@@ -608,11 +608,11 @@ FJ-4B :
 
 FJ-4B VMF-232 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         5x AGM-12B Bullpup + 1x Targeting pod
         2x AIM-9B
         24x Zuni Mk32
-    Loadouts changed:
+    Loadouts changed :
         6x 250 lb :
             Removed Required modification FSBC mk.5
             Added Weapons of the loadout/option :
@@ -636,7 +636,7 @@ FJ-4B VMF-232 :
             Removed Required modification AERO-7
             Added Weapons of the loadout/option :
                 Added 114x FFAR Mighty Mouse
-    Removed loadouts:
+    Removed loadouts :
         4x 250 lb + 2x AIM-9B
         4x 500 lb + 2x AIM-9B
         2x 1000 lb + 4x 500 lb
@@ -646,7 +646,7 @@ FJ-4B VMF-232 :
 
 Super Mystere B2, Super Mystere B2, ␙Super Mystere B2 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x 500 lb :
             Removed Required modification ALCAN 502 500
             Added Weapons of the loadout/option :
@@ -684,7 +684,7 @@ Super Mystere B2, Super Mystere B2, ␙Super Mystere B2 :
             Added Weapons of the loadout/option :
                 Added 6x T10 151
                 Added 6x T10 151
-    Removed loadouts:
+    Removed loadouts :
         2x 500 lb + 35x SNEB type 23
         2x 1000 lb + 35x SNEB type 23
         2x AA-20 Nord + 35x SNEB type 23
@@ -694,7 +694,7 @@ Super Mystere B2, Super Mystere B2, ␙Super Mystere B2 :
         38x SNEB type 23 rocket + 35x SNEB type 23
 
 P-51A :
-    New loadouts:
+    New loadouts :
         2x 100 lb (stock)
         2x 250 lb (stock)
         2x 300 lb (stock)
@@ -702,7 +702,7 @@ P-51A :
 
 P-51D-10, P-51D-5 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x 100 lb :
             Removed Required modification FSBC mk.1
             Added Weapons of the loadout/option :
@@ -723,38 +723,38 @@ P-51D-10, P-51D-5 :
             Removed Required modification FRC mk.2
             Added Weapons of the loadout/option :
                 Added 10x HVAR
-    Removed loadouts:
+    Removed loadouts :
         2x 100 lb + 6x HVAR
         2x 500 lb + 6x HVAR
 
 P-51D-20-NA, ␗P-51D-20, ␗P-51K :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         10x HVAR
-    Loadouts changed:
+    Loadouts changed :
         6x M8 :
             Removed Required modification Rocket Launcher M10
             Added Weapons of the loadout/option :
                 Added 6x M8
-    Removed loadouts:
+    Removed loadouts :
         6x HVAR
 
 P-51D-30 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         10x HVAR
-    Loadouts changed:
+    Loadouts changed :
         2x Mk 78 :
             Removed Required modification Mk78
             Added Weapons of the loadout/option :
                 Added 2x Mk 78
-    Removed loadouts:
+    Removed loadouts :
         6x HVAR
         6x HVAR + 2x Mk 78
 
 P-51H-5-NA :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x 100 lb :
             Removed Required modification FSBC mk.1
             Added Weapons of the loadout/option :
@@ -783,37 +783,37 @@ P-51H-5-NA :
             Removed Required modification Mk78
             Added Weapons of the loadout/option :
                 Added 2x Mk 78
-    Removed loadouts:
+    Removed loadouts :
         2x 100 lb + 6x HVAR
         2x 250 lb + 6x HVAR
         2x 500 lb + 6x HVAR
         6x HVAR + 2x Mk 78
 
 SBD-3 :
-    New loadouts:
+    New loadouts :
         2x 100 lb + 1x 500 lb (stock)
         1x 500 lb (stock)
 
 TBD-1 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         3x 500 lb
         1x 1000 lb
-    Loadouts changed:
+    Loadouts changed :
         12x 100 lb (stock) :
             Added Weapons of the loadout/option :
                 Added 12x 100 lb (stock)
-    Removed loadouts:
+    Removed loadouts :
         6x 100 lb + 2x 500 lb
 
 TBF-1C, ▄Avenger Mk II :
-    New loadouts:
+    New loadouts :
         1x 2000 lb
         1x AN-Mk 1
 
 Bf 110 C-7 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x C 250 :
             Removed Required modification Flamm C 250
             Added Weapons of the loadout/option :
@@ -832,14 +832,14 @@ Bf 110 C-7 :
             Removed Required modification SC 250
             Added Weapons of the loadout/option :
                 Added 2x SC250
-    Removed loadouts:
+    Removed loadouts :
         2x C 500
         1x SC250 + 1x SC1000
         1x SC500
 
 Bf 110 F-2 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x 20 mm MG 151 cannon (secondary) :
             Removed Required modification WB 151
             Added Weapons of the loadout/option :
@@ -872,15 +872,15 @@ Bf 110 F-2 :
             Removed Required modification ESC 1000
             Added Weapons of the loadout/option :
                 Added 1x SC1000
-    Removed loadouts:
+    Removed loadouts :
         1x SC250 + 1x SC1000
         1x SC500
 
 Bf 110 G-2 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         2x 20 mm MG 151 cannon
-    Loadouts changed:
+    Loadouts changed :
         2x 20 mm MG 151 cannon + 12x SC50 -> 12x SC50 :
             Removed Required modification SC 250
             Added Weapons of the loadout/option :
@@ -918,7 +918,7 @@ Bf 110 G-2 :
             Removed Required modification BK 3,7 cannon
             Added Weapons of the loadout/option :
                 Added 1x 37 mm BK 3.7 cannon (secondary)
-    Removed loadouts:
+    Removed loadouts :
         2x 20 mm MG 151 cannon + 1x SC500
         2x 20 mm MG 151 cannon + 1x SC250 + 1x SC1000
         2x 20 mm MG 151 cannon + 2x 20 mm MG 151 cannon (secondary) + 4x Wfr.Gr.21
@@ -927,7 +927,7 @@ Bf 110 G-2 :
 
 Bf 110 G-4, ◐Bf 110 G-4 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         2x 20 mm MG 151 cannon (secondary)
         x Empty (stock)
         12x SC50 (stock)
@@ -935,7 +935,7 @@ Bf 110 G-4, ◐Bf 110 G-4 :
         2x SC500
         1x SC1000
         4x Wfr.Gr.21
-    Removed loadouts:
+    Removed loadouts :
         2x 20 mm MG 151 cannon (stock)
         2x 20 mm MG 151 cannon + 12x SC50
         2x 20 mm MG 151 cannon + 2x SC250
@@ -948,9 +948,9 @@ Bf 110 G-4, ◐Bf 110 G-4 :
         2x 20 mm MG 151 cannon + 2x 20 mm MG 151 cannon (secondary) + 4x Wfr.Gr.21
 
 ◄F-4F Early, ◄F-4F :
-    New loadouts:
+    New loadouts :
         24x Mk 82 Snakeye
-    Loadouts changed:
+    Loadouts changed :
         3x 250 lb :
             Required modification changed : M117 -> Mk82
         6x 250 lb :
@@ -973,7 +973,7 @@ Bf 110 G-4, ◐Bf 110 G-4 :
 
 ◄G.91 R/3 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         1x 30 mm DEFA 552 cannon + 4x AS-20 Nord :
             Removed Required modification Nord AS.20
             Added Weapons of the loadout/option :
@@ -1005,7 +1005,7 @@ Bf 110 G-4, ◐Bf 110 G-4 :
 
 ◄G.91 R/4 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x 12.7 mm M3 Browning machine gun + 4x AS-20 Nord :
             Removed Required modification FFAR Mighty Mouse + Nord AS.20
             Added Weapons of the loadout/option :
@@ -1039,14 +1039,14 @@ Bf 110 G-4, ◐Bf 110 G-4 :
         4x 12.7 mm M3 Browning machine gun (stock) :
             Added Weapons of the loadout/option :
                 Added 4x 12.7 mm M3 Browning machine gun (stock)
-    Removed loadouts:
+    Removed loadouts :
         2x 12.7 mm M3 Browning machine gun + 2x AA-20 Nord
         2x 12.7 mm M3 Browning machine gun + 2x AS-20 Nord
         2x 12.7 mm M3 Browning machine gun + 2x 500 lb + 2x AS-20 Nord
         2x 12.7 mm M3 Browning machine gun + 2x 500 lb + 2x AA-20 Nord
 
 ◊IL-28, IL-28, H-5 :
-    Loadouts changed:
+    Loadouts changed :
         12x FAB-100M-43 (stock) :
             Total damage changed : 16716 -> 19188
             Added Reward multiplier 0.95
@@ -1055,13 +1055,13 @@ Bf 110 G-4, ◐Bf 110 G-4 :
     Added custom loadouts
 
 ◊MiG-15bis, MiG-15bis, MiG-15, J-2 :
-    Loadouts changed:
+    Loadouts changed :
         2x FAB-100M-43 :
             Total damage changed : 2786 -> 3198
 
 ◊MiG-19S :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x OFAB-100 -> 2x OFAB-250 :
             Total damage changed : 2892 -> 4310
             Removed Required modification FAB-100
@@ -1076,16 +1076,16 @@ Bf 110 G-4, ◐Bf 110 G-4 :
             Removed Required modification S-5K
             Added Weapons of the loadout/option :
                 Added 32x S-5K
-    Removed loadouts:
+    Removed loadouts :
         32x S-5K
 
 ◄MiG-21 SPS-K, AJ37 :
-    Loadouts changed:
+    Loadouts changed :
         1x Flares/Chaff :
             Required modification changed : Flares/Chaff -> Flares/Chaff
 
 ◊MiG-29, MiG-29 :
-    New loadouts:
+    New loadouts :
         2x FAB-500Sh
         8x OFAB-250Sh
     Custom loadout changes :
@@ -1109,7 +1109,7 @@ Bf 110 G-4, ◐Bf 110 G-4 :
             Added 1x FAB-500Sh option
 
 ◊Su-22UM3K :
-    New loadouts:
+    New loadouts :
         6x FAB-500Sh
         4x OFAB-250Sh
     Custom loadout changes :
@@ -1131,10 +1131,10 @@ Bf 110 G-4, ◐Bf 110 G-4 :
             Added 1x FAB-500Sh option
 
 ◄Tornado IDS ASSTA1 :
-    New loadouts:
+    New loadouts :
         7x Mk 83 AIR
         12x Mk 83 AIR
-    Loadouts changed:
+    Loadouts changed :
         1x Flares/Chaff large :
             Required modification changed : Flares/Chaff -> Flares/Chaff
     Custom loadout changes :
@@ -1163,10 +1163,10 @@ Bf 110 G-4, ◐Bf 110 G-4 :
             Added 2x Mk 83 AIR option
 
 ◄Tornado IDS :
-    New loadouts:
+    New loadouts :
         7x Mk 83 AIR
         12x Mk 83 AIR
-    Loadouts changed:
+    Loadouts changed :
         1x Flares/Chaff large :
             Required modification changed : Flares/Chaff -> Flares/Chaff
     Custom loadout changes :
@@ -1197,7 +1197,7 @@ Bf 110 G-4, ◐Bf 110 G-4 :
 
 Be-6 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x 45-36MAN :
             Removed Required modification T-18
             Added Weapons of the loadout/option :
@@ -1219,16 +1219,16 @@ Be-6 :
             Removed Required modification BD-4
             Added Weapons of the loadout/option :
                 Added 2x FAB-1500
-    Removed loadouts:
+    Removed loadouts :
         2x 45-36MAN + 6x FAB-250M-46
         2x 45-36MAN + 4x FAB-500M-46
 
 IL-2 (1942) :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         2x FAB-50
         2x FAB-100
-    Removed loadouts:
+    Removed loadouts :
         12x AO-25M-1 (stock)
         12x AO-25M-1 + 4x ROS-82
         12x AO-25M-1 + 4x RBS-82
@@ -1253,10 +1253,10 @@ IL-2 (1942) :
 
 IL-2M type 3, IL-2M "Avenger" :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         4x FAB-100M-43 (stock)
         2x FAB-250M-43
-    Removed loadouts:
+    Removed loadouts :
         12x AO-25M-1 + 4x ROS-82
         12x AO-25M-1 + 4x RBS-82
         12x AO-25M-1 + 4x ROFS-132
@@ -1273,7 +1273,7 @@ IL-2M type 3, IL-2M "Avenger" :
         2x FAB-250
 
 IL-28Sh :
-    Loadouts changed:
+    Loadouts changed :
         1x FAB-100M-43 (stock) :
             Total damage changed : 1393 -> 1599
         12x FAB-100M-43 (stock) :
@@ -1282,9 +1282,9 @@ IL-28Sh :
 
 IL-2 (1941) :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         4x ROS-132
-    Loadouts changed:
+    Loadouts changed :
         12x AO-25M-1 (stock) :
             Added Weapons of the loadout/option :
                 Added 12x AO-25M-1 (stock)
@@ -1295,7 +1295,7 @@ IL-2 (1941) :
             Removed Required modification Der-21
             Added Weapons of the loadout/option :
                 Added 2x FAB-250
-    Removed loadouts:
+    Removed loadouts :
         12x AO-25M-1 + 4x ROS-82
         12x AO-25M-1 + 4x RBS-82
         12x AO-25M-1 + 4x ROFS-132
@@ -1310,9 +1310,9 @@ IL-2 (1941) :
 
 IL-2 M-82 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         4x M-8
-    Removed loadouts:
+    Removed loadouts :
         12x AO-25M-1
         12x AO-25M-1 + 4x ROS-82
         12x AO-25M-1 + 4x RBS-82
@@ -1332,10 +1332,10 @@ IL-2 M-82 :
 
 IL-2M (1943) :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         4x FAB-100M-43 (stock)
         2x FAB-250M-43
-    Removed loadouts:
+    Removed loadouts :
         12x AO-25M-1 + 4x ROS-82
         12x AO-25M-1 + 4x RBS-82
         12x AO-25M-1 + 4x ROFS-132
@@ -1353,11 +1353,11 @@ IL-2M (1943) :
 
 MiG-19PT, J-6A :
     Added custom loadouts
-    Removed loadouts:
+    Removed loadouts :
         16x S-5K
 
 MiG-27K, MiG-27M :
-    New loadouts:
+    New loadouts :
         5x FAB-500Sh
         7x OFAB-250Sh
     Custom loadout changes :
@@ -1383,22 +1383,22 @@ MiG-27K, MiG-27M :
 
 Pe-2-1 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         x Empty (stock)
         2x FAB-100sv + 8x FAB-100 (stock)
-    Removed loadouts:
+    Removed loadouts :
         4x FAB-100 + 2x FAB-250
 
 Pe-2-110, Pe-2-205, Pe-2-359, Pe-2-359 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         x Empty (stock)
         6x FAB-100M-43 (stock)
         10x FAB-100M-43 (stock)
         4x FAB-250M-43
         2x FAB-500M-43
         10x M-13UK
-    Removed loadouts:
+    Removed loadouts :
         4x FAB-100 + 2x FAB-250
         2x FAB-100sv + 4x FAB-100 (stock)
         4x FAB-250
@@ -1407,19 +1407,19 @@ Pe-2-110, Pe-2-205, Pe-2-359, Pe-2-359 :
 
 Pe-2-31, Pe-2-83 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         x Empty (stock)
         2x FAB-100sv + 8x FAB-100 (stock)
         10x M-13UK
-    Removed loadouts:
+    Removed loadouts :
         4x FAB-100 + 2x FAB-250
         10x ROFS-132
 
 Pe-3, Pe-3bis, Pe-3 (e) :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         2x FAB-250
-    Loadouts changed:
+    Loadouts changed :
         4x FAB-100sv -> 2x FAB-100sv + 2x FAB-100 :
             Removed Required modification DZ-40
             Added Weapons of the loadout/option :
@@ -1433,15 +1433,15 @@ Pe-3, Pe-3bis, Pe-3 (e) :
             Removed Required modification RO-132
             Added Weapons of the loadout/option :
                 Added 6x M-13UK
-    Removed loadouts:
+    Removed loadouts :
         2x FAB-100sv
         2x FAB-100sv + 2x FAB-250
 
 Su-6 (AM-42) :
-    New loadouts:
+    New loadouts :
         2x 23 mm VYa-23 cannon
         2x 37 mm NS-37 cannon (stock)
-    Removed loadouts:
+    Removed loadouts :
         x Empty (stock)
     Custom loadout changes :
         Slot 2 changed :
@@ -1479,7 +1479,7 @@ Su-6 (AM-42) :
 
 Su-7B :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         4x FAB-500M-54 :
             Removed Required modification FAB-500
             Added Weapons of the loadout/option :
@@ -1507,9 +1507,9 @@ Su-7B :
 
 Su-7BKL :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         128x S-5K
-    Loadouts changed:
+    Loadouts changed :
         4x FAB-500M-54 :
             Removed Required modification FAB-500
             Added Weapons of the loadout/option :
@@ -1534,13 +1534,13 @@ Su-7BKL :
             Removed Required modification ZB-360
             Added Weapons of the loadout/option :
                 Added 4x ZB-360
-    Removed loadouts:
+    Removed loadouts :
         4x FAB-500M-54 + 2x OFAB-250
         160x S-5K
 
 Su-7BMK :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         4x FAB-500M-54 :
             Removed Required modification FAB-500
             Added Weapons of the loadout/option :
@@ -1565,7 +1565,7 @@ Su-7BMK :
             Removed Required modification ZB-360
             Added Weapons of the loadout/option :
                 Added 4x ZB-360
-    Removed loadouts:
+    Removed loadouts :
         4x FAB-500M-54 + 2x OFAB-250
 
 Su-8 :
@@ -1590,10 +1590,10 @@ Su-8 :
             Removed 5x RBS-132 option
 
 Su-17M2 :
-    New loadouts:
+    New loadouts :
         8x FAB-500Sh
         4x OFAB-250Sh
-    Loadouts changed:
+    Loadouts changed :
         2x Kh-25 -> 2x Kh-25 + 1x Projector-1 :
             Weapons of the loadout/option changed :
                 Added 1x Projector-1 (stock)
@@ -1620,7 +1620,7 @@ Su-17M2 :
             Option changed : 1x Kh-25 -> 1x Kh-25, must be equipped together with 1x Projector-1 on slot 4
 
 Su-17M4, Su-22M3 :
-    New loadouts:
+    New loadouts :
         8x FAB-500Sh
         4x OFAB-250Sh
     Custom loadout changes :
@@ -1644,7 +1644,7 @@ Su-17M4, Su-22M3 :
             Added 1x FAB-500Sh option
 
 Su-25 :
-    New loadouts:
+    New loadouts :
         8x FAB-500Sh
         8x OFAB-250Sh
     Custom loadout changes :
@@ -1674,7 +1674,7 @@ Su-25 :
             Added 1x FAB-500Sh option
 
 Su-25K :
-    New loadouts:
+    New loadouts :
         8x FAB-500Sh + 2x R-60MK
         8x OFAB-250Sh + 2x R-60MK
     Custom loadout changes :
@@ -1704,20 +1704,20 @@ Su-25K :
             Added 1x FAB-500Sh option
 
 Tu-2S, Tu-2S-44, Tu-2S-59, ␗Tu-2S-44 :
-    Loadouts changed:
+    Loadouts changed :
         1x FAB-100M-43 (stock) :
             Total damage changed : 1393 -> 1599
         9x FAB-100M-43 (stock) :
             Total damage changed : 12537 -> 14391
 
 Tu-14T :
-    Loadouts changed:
+    Loadouts changed :
         16x FAB-100M-43 (stock) :
             Reward multiplier changed : 0.85 -> 0.77
             Total damage changed : 22288 -> 25584
 
 Yak-141 :
-    New loadouts:
+    New loadouts :
         4x FAB-500Sh
         4x OFAB-250Sh
     Custom loadout changes :
@@ -1735,12 +1735,12 @@ Yak-141 :
             Added 1x FAB-500Sh option
 
 Buccaneer S.2 :
-    Loadouts changed:
+    Loadouts changed :
         1x Flares/Chaff large :
             Required modification changed : Flares/Chaff -> Flares/Chaff
 
 F-4J(UK) Phantom II, Phantom FG.1, Phantom FGR.2 :
-    New loadouts:
+    New loadouts :
         11x 1000-фн Mk.13 №117
     Custom loadout changes :
         Slot 1 changed :
@@ -1755,7 +1755,7 @@ F-4J(UK) Phantom II, Phantom FG.1, Phantom FGR.2 :
             Added 2x 1000-фн Mk.13 №117 option
 
 Harrier GR.7 :
-    New loadouts:
+    New loadouts :
         5x 1000-фн Mk.13 №117
     Custom loadout changes :
         Slot 2 changed :
@@ -1771,7 +1771,7 @@ Harrier GR.7 :
 
 Hornet Mk.I, Hornet Mk.III :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x 500 lb :
             Removed Required modification HMBC mk.2
             Added Weapons of the loadout/option :
@@ -1795,7 +1795,7 @@ Hornet Mk.I, Hornet Mk.III :
             Added Weapons of the loadout/option :
                 Added 4x RP-3
                 Added 4x RP-3
-    Removed loadouts:
+    Removed loadouts :
         2x 500 lb + 2x AP Mk I
         2x 500 lb + 2x AP Mk II
         2x 500 lb + 2x RP-3
@@ -1805,11 +1805,11 @@ Hornet Mk.I, Hornet Mk.III :
 
 Hunter F.6 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         24x AP Mk II
         6x HVAR
         8x RP-3
-    Loadouts changed:
+    Loadouts changed :
         4x 500 lb :
             Removed Required modification 500 LB
             Added Weapons of the loadout/option :
@@ -1830,7 +1830,7 @@ Hunter F.6 :
             Removed Required modification SRAAM
             Added Weapons of the loadout/option :
                 Added 4x SRAAM
-    Removed loadouts:
+    Removed loadouts :
         2x 500 lb
         2x 500 lb + 36x SNEB type 23 rocket
         2x 1000 lb
@@ -1840,17 +1840,17 @@ Hunter F.6 :
 
 Hunter FGA.9 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         24x AP Mk II
         6x HVAR
         8x RP-3
         36x SNEB type 23 rocket
-    Loadouts changed:
+    Loadouts changed :
         2x AIM-9E :
             Removed Required modification AIM-9E
             Added Weapons of the loadout/option :
                 Added 2x AIM-9E
-    Removed loadouts:
+    Removed loadouts :
         2x 500 lb
         2x 500 lb + 36x SNEB type 23 rocket
         2x 1000 lb
@@ -1858,7 +1858,7 @@ Hunter FGA.9 :
         2x 1000 lb + 36x SNEB type 23 rocket
 
 Lancaster B Mk I, Lancaster B Mk III :
-    Loadouts changed:
+    Loadouts changed :
         8x 250 lb + 6x 500 lb (stock) :
             Reward multiplier changed : 0.9 -> 0.71
             Total damage changed : 20546 -> 28576
@@ -1882,7 +1882,7 @@ Lancaster B Mk I, Lancaster B Mk III :
 
 Scimitar F Mk.1 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         4x 1000 lb :
             Removed Required modification 1000 LB
             Added Weapons of the loadout/option :
@@ -1903,7 +1903,7 @@ Scimitar F Mk.1 :
             Removed Required modification 25 lb A.P. Mark II
             Added Weapons of the loadout/option :
                 Added 24x AP Mk II
-    Removed loadouts:
+    Removed loadouts :
         2x 1000 lb + 12x AP Mk II
         2x 1000 lb + 2x AIM-9B
         2x AIM-9B + 2x AGM-12B Bullpup
@@ -1914,9 +1914,9 @@ Tornado F.3 :
             Option changed : 1x Drop tank (stock) -> 1x Drop tank (stock), must be equipped together with 1x Drop tank on slot 4
 
 Tornado GR.1 :
-    New loadouts:
+    New loadouts :
         12x 1000-фн Mk.13 №117
-    Loadouts changed:
+    Loadouts changed :
         1x Flares/Chaff large :
             Required modification changed : Flares/Chaff -> Flares/Chaff
     Custom loadout changes :
@@ -1947,7 +1947,7 @@ Tornado GR.1 :
 
 Wyvern S4 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         3x 500 lb :
             Total damage changed : 5265 -> 7848
             Removed Required modification HMBC mk.2
@@ -1991,7 +1991,7 @@ Wyvern S4 :
                 Added 2x Red Angel
 
 A-5C :
-    New loadouts:
+    New loadouts :
         4x 250-4
     Custom loadout changes :
         Slot 4 changed :
@@ -1999,7 +1999,7 @@ A-5C :
 
 ␗F-100A :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x 750 lb M117 :
             Removed Required modification M117
             Added Weapons of the loadout/option :
@@ -2025,7 +2025,7 @@ A-5C :
                 Added 2x M116A2
 
 ␗F-16A MLU :
-    New loadouts:
+    New loadouts :
         12x Mk 82 Snakeye
     Custom loadout changes :
         Slot 3 changed :
@@ -2038,7 +2038,7 @@ A-5C :
             Added 3x Mk 82 Snakeye option
 
 J-7D, J-7E :
-    New loadouts:
+    New loadouts :
         4x 250-4
         2x 500-4
     Custom loadout changes :
@@ -2054,9 +2054,9 @@ J-7D, J-7E :
             Added 1x 250-4 option
 
 J-8B :
-    New loadouts:
+    New loadouts :
         2x 250-4
-    Loadouts changed:
+    Loadouts changed :
         2x 250-3 -> 8x 250-3 :
             Total damage changed : 17471 -> 17705
         2x 250-3 + 2x PL-5B -> 8x 250-3 + 2x PL-5B :
@@ -2076,14 +2076,14 @@ J-8B :
             Added 1x 250-4 option
 
 Q-5A :
-    New loadouts:
+    New loadouts :
         4x 250-4
     Custom loadout changes :
         Slot 3 changed :
             Added 4x 250-4 option
 
 Q-5L :
-    New loadouts:
+    New loadouts :
         8x 250-4
         2x 500-4
     Custom loadout changes :
@@ -2102,14 +2102,14 @@ Q-5L :
 
 G.91 pre-serie :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         4x 12.7 mm M3 Browning machine gun (stock) :
             Added Weapons of the loadout/option :
                 Added 4x 12.7 mm M3 Browning machine gun (stock)
 
 G.91 R/1 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x 12.7 mm M3 Browning machine gun + 2x AS-20 Nord :
             Removed Required modification Nord AS.20
             Added Weapons of the loadout/option :
@@ -2141,7 +2141,7 @@ G.91 R/1 :
 
 G.91 R/4 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x 12.7 mm M3 Browning machine gun + 4x AS-20 Nord :
             Removed Required modification Nord AS.20
             Added Weapons of the loadout/option :
@@ -2175,17 +2175,17 @@ G.91 R/4 :
         4x 12.7 mm M3 Browning machine gun (stock) :
             Added Weapons of the loadout/option :
                 Added 4x 12.7 mm M3 Browning machine gun (stock)
-    Removed loadouts:
+    Removed loadouts :
         2x 12.7 mm M3 Browning machine gun + 2x AA-20 Nord
         2x 12.7 mm M3 Browning machine gun + 2x AS-20 Nord
         2x 12.7 mm M3 Browning machine gun + 2x 500 lb + 2x AS-20 Nord
         2x 12.7 mm M3 Browning machine gun + 2x 500 lb + 2x AA-20 Nord
 
 ▄Tornado IDS (1995) :
-    New loadouts:
+    New loadouts :
         7x Mk 83 AIR
         12x Mk 83 AIR
-    Loadouts changed:
+    Loadouts changed :
         1x Flares/Chaff large :
             Required modification changed : Flares/Chaff -> Flares/Chaff
     Custom loadout changes :
@@ -2215,7 +2215,7 @@ G.91 R/4 :
 
 ▄F-100D :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         6x 750 lb M117 :
             Removed Required modification M117
             Added Weapons of the loadout/option :
@@ -2244,7 +2244,7 @@ G.91 R/4 :
 
 F4U-7 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         10x 100 №.1 :
             Removed Required modification 100 GPs
             Added Weapons of the loadout/option :
@@ -2279,7 +2279,7 @@ F4U-7 :
                 Added 10x T10 151
 
 Martin 167-A3 :
-    Loadouts changed:
+    Loadouts changed :
         8x DT2 (stock) :
             Total damage changed : 6160 -> 5656
         16x DT2 :
@@ -2287,7 +2287,7 @@ Martin 167-A3 :
 
 Mystere IVA :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x 500 lb :
             Removed Required modification ALCAN 502 500
             Added Weapons of the loadout/option :
@@ -2317,7 +2317,7 @@ Mystere IVA :
             Added Weapons of the loadout/option :
                 Added 6x T10 151
                 Added 6x T10 151
-    Removed loadouts:
+    Removed loadouts :
         2x 500 lb + 55x SNEB type 23
         2x 1000 lb + 55x SNEB type 23
         2x AA-20 Nord + 55x SNEB type 23
@@ -2326,7 +2326,7 @@ Mystere IVA :
         38x SNEB type 23 rocket + 55x SNEB type 23
 
 Mirage 2000C-S5 :
-    New loadouts:
+    New loadouts :
         7x 250 kg Type 25 200
     Custom loadout changes :
         Slot 2 changed :
@@ -2345,7 +2345,7 @@ Mirage 2000C-S5 :
             Added 1x 250 kg Type 25 200 option
 
 Mirage 2000D-R1 :
-    New loadouts:
+    New loadouts :
         9x 250 kg Type 25 200
         8x SAMP Mk 82 250 Snakeye
     Custom loadout changes :
@@ -2379,11 +2379,11 @@ Mirage 2000D-R1 :
             Added 1x SAMP Mk 82 250 Snakeye option
 
 ▄SB2C-5 :
-    New loadouts:
+    New loadouts :
         1x 2000 lb
 
 SAAB-105G :
-    New loadouts:
+    New loadouts :
         6x Mk 82 Snakeye
     Custom loadout changes :
         Slot 1 changed :
@@ -2401,7 +2401,7 @@ SAAB-105G :
 
 A21A-3 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         1x m/40 :
             Removed Required modification m/40(250)
             Added Weapons of the loadout/option :
@@ -2429,14 +2429,14 @@ A21A-3 :
             Removed Required modification m/51
             Added Weapons of the loadout/option :
                 Added 8x m/51
-    Removed loadouts:
+    Removed loadouts :
         1x m/40 + 4x m/47
         2x m/49 + 1x m/40
         8x m/49B + 1x m/40
         8x m/51 + 1x m/40
 
 Ayit :
-    New loadouts:
+    New loadouts :
         2x Mk 81 Snakeye (stock)
         2x Mk 82 Snakeye
     Custom loadout changes :
@@ -2458,20 +2458,20 @@ Ayit :
 
 M.D.450B Ouragan :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x Mk.2 :
             Removed Required modification Mk2
             Added Weapons of the loadout/option :
                 Added 2x Mk.2
-    Removed loadouts:
+    Removed loadouts :
         2x 500 lb + 4x T10 140
         2x 500 lb + 4x T10 151
 
 Mystere IVA :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         4x 500 kg
-    Loadouts changed:
+    Loadouts changed :
         4x 250 kg :
             Removed Required modification 250/50 G.P.
             Added Weapons of the loadout/option :
@@ -2497,7 +2497,7 @@ Ayit :
             Added Weapons of the loadout/option :
                 Added 12x T10 151
                 Added 12x T10 151
-    Removed loadouts:
+    Removed loadouts :
         2x 250 kg
         2x 250 kg + 2x 500 kg
         2x 250 kg + 2x 500 kg + 55x SNEB type 23
@@ -2518,7 +2518,7 @@ Ayit :
 
 Sa'ar :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         18x 100 kg -> 2x 100 kg :
             Reward multiplier changed : 0.52 -> 0.64
             Total damage changed : 32904 -> 24280
@@ -2572,7 +2572,7 @@ Sa'ar :
             Removed Required modification LAU-10/A
             Added Weapons of the loadout/option :
                 Added 32x Zuni Mk32
-    Removed loadouts:
+    Removed loadouts :
         16x 100 kg + 2x Shafrir 2
         4x 250 kg + 2x Shafrir 2
         8x 250 lb + 2x Shafrir 2
@@ -2589,7 +2589,7 @@ Sa'ar :
 
 Sambad :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         8x 100 kg :
             Total damage changed : 14624 -> 10312
             Removed Required modification 100/50 G.P.
@@ -2622,7 +2622,7 @@ Sambad :
                 Added 6x T10 151
 
 Nesher :
-    New loadouts:
+    New loadouts :
         2x SAMP Mk 82 250 Snakeye
     Custom loadout changes :
         Slot 2 changed :
@@ -2638,7 +2638,7 @@ Nesher :
 
 P-51D-20-NA :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x 250 lb :
             Removed Required modification FSBC mk.5
             Added Weapons of the loadout/option :
@@ -2655,61 +2655,22 @@ Nesher :
             Removed Required modification FRC mk.2
             Added Weapons of the loadout/option :
                 Added 8x AR
-    Removed loadouts:
+    Removed loadouts :
         2x 250 lb + 6x AR
         2x 500 lb + 6x AR
 
-AH-1G, AH-1S Kisarazu, AH-1S, Tzefa A, Tzefa B :
-    Loadouts changed:
-        7x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-        19x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
-        28x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-        76x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
-
-H-34 :
-    Loadouts changed:
-        4x 12.7 mm M3 Browning machine gun + 32x FFAR Mighty Mouse (stock) -> 1x AGM-12B Bullpup (stock) :
-            Removed Total rocket mass 8.12
-
-UH-1B, UH-1C :
-    Loadouts changed:
-        19x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-        19x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
-        38x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-        76x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
-
-UH-1C XM-30 :
-    Loadouts changed:
-        19x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-        19x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-        38x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-        76x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-
 BO 105 CB-2 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         2x 12.7 mm FN M3P machine gun + 2x Flares/Chaff + 6x FFAR Mighty Mouse
         8x BGM-71C ITOW (stock)
         2x Flares/Chaff
-    Loadouts changed:
+    Loadouts changed :
         2x 12.7 mm FN M3P machine gun + 2x Flares/Chaff -> 2x 12.7 mm FN M3P machine gun :
             Removed Required modification FN HMP400 LCC / LTC.
             Added Weapons of the loadout/option :
                 Added 2x 12.7 mm FN M3P machine gun
         2x 12.7 mm FN M3P machine gun + 2x Flares/Chaff + 6x FFAR Mighty Mouse -> 2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
             Removed Required modification FN RMP LC / LTC
             Added Weapons of the loadout/option :
                 Added 2x 12.7 mm FN M3P machine gun
@@ -2717,22 +2678,22 @@ BO 105 CB-2 :
         8x BGM-71C ITOW (stock) -> 4x BGM-71C ITOW (stock) :
             Added Weapons of the loadout/option :
                 Added 4x BGM-71C ITOW (stock)
-    Removed loadouts:
+    Removed loadouts :
         1x 12.7 mm FN M3P machine gun + 4x BGM-71C ITOW + 1x Flares/Chaff
         1x 12.7 mm FN M3P machine gun + 4x BGM-71C ITOW + 1x Flares/Chaff + 3x FFAR Mighty Mouse
 
 BO 105 PAH-1 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         2x 12.7 mm FN M3P machine gun
         2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse
         2x Flares/Chaff
         6x HOT-2 (stock)
-    Loadouts changed:
+    Loadouts changed :
         6x HOT-1 (stock) :
             Added Weapons of the loadout/option :
                 Added 6x HOT-1 (stock)
-    Removed loadouts:
+    Removed loadouts :
         1x 12.7 mm FN M3P machine gun + 1x Flares/Chaff + 3x HOT-2
         1x 12.7 mm FN M3P machine gun + 3x FFAR Mighty Mouse + 1x Flares/Chaff + 3x HOT-2
         2x 12.7 mm FN M3P machine gun + 2x Flares/Chaff
@@ -2740,41 +2701,23 @@ BO 105 PAH-1 :
 
 BO 105 PAH-1A1 :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         2x 12.7 mm FN M3P machine gun
         2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse
         2x Flares/Chaff
         6x HOT-2 (stock)
-    Loadouts changed:
+    Loadouts changed :
         6x HOT-2 (stock) -> 6x HOT-1 (stock) :
             Added Weapons of the loadout/option :
                 Added 6x HOT-1 (stock)
-    Removed loadouts:
+    Removed loadouts :
         1x 12.7 mm FN M3P machine gun + 1x Flares/Chaff + 3x HOT-2
         1x 12.7 mm FN M3P machine gun + 3x FFAR Mighty Mouse + 1x Flares/Chaff + 3x HOT-2
         2x 12.7 mm FN M3P machine gun + 2x Flares/Chaff
         2x 12.7 mm FN M3P machine gun + 2x Flares/Chaff + 6x FFAR Mighty Mouse
 
-EC-665 Tiger UHT :
-    Loadouts changed:
-        2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
-        1x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
-        19x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-        38x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-
-◄UH-1D :
-    Loadouts changed:
-        19x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-        38x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-
 Mi-35M :
-    New loadouts:
+    New loadouts :
         2x 9M114 Shturm (stock)
     Custom loadout changes :
         Slot 4 changed :
@@ -2782,10 +2725,10 @@ Mi-35M :
 
 Mi-4AV :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         2x 9М17М Falanga (stock)
         2x 9М17М Falanga
-    Loadouts changed:
+    Loadouts changed :
         4x 9М17М Falanga + 4x FAB-250M-46 -> 2x 9М17М Falanga + 4x FAB-250M-46 :
             Removed Required modification 2P32M/K-4V + FAB-250
             Added Weapons of the loadout/option :
@@ -2793,7 +2736,6 @@ Mi-4AV :
                 Added 4x FAB-250M-46
                 Added 2x 9М17М Falanga
         x Empty (stock) -> 96x S-5K (stock) :
-            Added Total rocket mass 3.64
             Added Weapons of the loadout/option :
                 Added 96x S-5K (stock)
         6x FAB-100 :
@@ -2804,21 +2746,19 @@ Mi-4AV :
             Removed Required modification FAB-250
             Added Weapons of the loadout/option :
                 Added 4x FAB-250M-46
-    Removed loadouts:
+    Removed loadouts :
         2x 9М17М Falanga + 96x S-5K (stock)
         4x 9М17М Falanga + 96x S-5K
         4x 9М17М Falanga + 6x FAB-100
         96x S-5K (stock)
 
 ▅AH-1E :
-    Loadouts changed:
+    Loadouts changed :
         28x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
             Weapons of the loadout/option changed :
                 Removed 28x FFAR Mighty Mouse (stock)
                 Added 28x FFAR Mighty Mouse (stock)
         76x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
             Weapons of the loadout/option changed :
                 Removed 76x FFAR Mighty Mouse
                 Added 76x FFAR Mighty Mouse
@@ -2836,20 +2776,14 @@ Mi-4AV :
             Option changed : 7x FFAR Mighty Mouse (stock) -> 7x FFAR Mighty Mouse (stock)
             Option changed : 19x FFAR Mighty Mouse -> 19x FFAR Mighty Mouse
 
-▅UH-1B :
-    Loadouts changed:
-        19x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-
 A.109EOA-2 :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         2x 12.7 mm FN M3P machine gun :
             Removed Required modification FN HMP400 LCC
             Added Weapons of the loadout/option :
                 Added 2x 12.7 mm FN M3P machine gun
         2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
             Removed Required modification FN RMP LC
             Added Weapons of the loadout/option :
                 Added 2x 12.7 mm FN M3P machine gun
@@ -2859,55 +2793,22 @@ A.109EOA-2 :
             Added Weapons of the loadout/option :
                 Added 4x BGM-71C ITOW
         28x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
             Added Weapons of the loadout/option :
                 Added 28x FFAR Mighty Mouse (stock)
-    Removed loadouts:
+    Removed loadouts :
         2x 12.7 mm FN M3P machine gun + 14x FFAR Mighty Mouse
         2x 12.7 mm FN M3P machine gun + 14x FFAR Mighty Mouse
         2x 12.7 mm FN M3P machine gun + 4x BGM-71C ITOW
         2x 12.7 mm FN M3P machine gun + 4x BGM-71C ITOW + 6x FFAR Mighty Mouse
         4x BGM-71C ITOW + 14x FFAR Mighty Mouse
 
-A-129 International (p) :
-    Loadouts changed:
-        2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
-        2x 12.7 mm FN M3P machine gun + 8x BGM-71D TOW-2 + 6x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
-        2x 12.7 mm FN M3P machine gun + 8x AGM-114B Hellfire + 6x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
-        1x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
-
-A129CBT :
-    Loadouts changed:
-        2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
-        1x FFAR Mighty Mouse :
-            Total rocket mass changed : 8.12 -> 8.98
-
-AB 205 A-1 :
-    Loadouts changed:
-        7x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-        14x FFAR Mighty Mouse (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-        14x FFAR Mighty Mouse + 2x M134 Minigun (stock) :
-            Total rocket mass changed : 8.12 -> 8.98
-
-▄H-34 :
-    Loadouts changed:
-        4x 7.62 mm Browning machine gun + 2x AS.11 + 6x HVAR (stock) -> 1x AS.11 (stock) :
-            Removed Total rocket mass 62.8
-
 IAR 316B :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         6x 9M14-2 Malyutka-2 (stock)
         16x S-5K (stock)
         24x S-5K (stock)
-    Loadouts changed:
+    Loadouts changed :
         6x 9M14-2 Malyutka-2 + 32x S-5K (stock) :
             Added Weapons of the loadout/option :
                 Added 6x 9M14-2 Malyutka-2 (stock)
@@ -2916,7 +2817,7 @@ IAR 316B :
 
 SA.341F Gazelle :
     Added custom loadouts
-    Loadouts changed:
+    Loadouts changed :
         1x 20 mm GIAT M.621 cannon + 2x HOT-1 -> 2x HOT-1 :
             Removed Required modification HOT
             Added Weapons of the loadout/option :
@@ -2931,18 +2832,16 @@ SA.341F Gazelle :
                 Added 2x Mistral
                 Added 1x 20 mm GIAT M.621 cannon (stock)
         1x 20 mm GIAT M.621 cannon + 7x FFAR Mighty Mouse (stock) :
-            Added Total rocket mass 8.98
             Added Weapons of the loadout/option :
                 Added 7x FFAR Mighty Mouse (stock)
                 Added 1x 20 mm GIAT M.621 cannon (stock)
 
 SA.342M Gazelle :
     Added custom loadouts
-    New loadouts:
+    New loadouts :
         2x HOT-1 (stock)
-    Loadouts changed:
+    Loadouts changed :
         14x FFAR Mighty Mouse (stock) :
-            Added Total rocket mass 8.98
             Added Weapons of the loadout/option :
                 Added 14x FFAR Mighty Mouse (stock)
         4x HOT-1 :
@@ -2958,18 +2857,18 @@ SA.342M Gazelle :
             Removed Required modification ATAM
             Added Weapons of the loadout/option :
                 Added 4x Mistral
-    Removed loadouts:
+    Removed loadouts :
         7x FFAR Mighty Mouse + 2x Mistral
         2x HOT-1 + 2x Mistral
         2x HOT-2 + 2x Mistral
 
 RN Andrea Doria :
-    Loadouts changed:
+    Loadouts changed :
         2x 450 mm A 110/450 (stock) :
             Added Required modification Stock torpedoes
             No longer available stock
 
 Freccia P-493 :
-    New loadouts:
+    New loadouts :
         2x 40 mm/70 Breda-Bofors type 107 auto cannon + 2x S.I.270
 
