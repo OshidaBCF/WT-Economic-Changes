@@ -1,5 +1,5 @@
 Statcard changes :
 
-TBF-1C, ▄Avenger Mk II :
-    Crew : 3 -> 4
+Lancaster MR.7 :
+    Crew : 4 -> 6
 

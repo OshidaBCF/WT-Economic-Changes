@@ -2,169 +2,6 @@
 
 Removed vehicles:
 
-AA Gunner (US) :
-    Rank 7
-    BR : 11.3
-    Hidden
-    Non-researchable vehicle
-    Stock Repair Cost : 8050 / 7310 / 8810 SL
-    Spaded Repair Cost : 9474 / 8603 / 10369 SL
-
-Antitank (US) :
-    Rank 7
-    BR : 11.3
-    Hidden
-    Non-researchable vehicle
-    Stock Repair Cost : 8050 / 7310 / 8810 SL
-    Spaded Repair Cost : 9474 / 8603 / 10369 SL
-
-Assault (US) :
-    Rank 7
-    BR : 11.3
-    Hidden
-    Non-researchable vehicle
-    Stock Repair Cost : 8050 / 7310 / 8810 SL
-    Spaded Repair Cost : 9474 / 8603 / 10369 SL
-
-Sniper (US) :
-    Rank 7
-    BR : 11.3
-    Hidden
-    Non-researchable vehicle
-    Stock Repair Cost : 8050 / 7310 / 8810 SL
-    Spaded Repair Cost : 9474 / 8603 / 10369 SL
-
-AA Gunner (USSR) :
-    Rank 7
-    BR : 11.3
-    Hidden
-    Non-researchable vehicle
-    Stock Repair Cost : 8050 / 7310 / 8810 SL
-    Spaded Repair Cost : 9474 / 8603 / 10369 SL
-
-Antitank (USSR) :
-    Rank 7
-    BR : 11.3
-    Hidden
-    Non-researchable vehicle
-    Stock Repair Cost : 8050 / 7310 / 8810 SL
-    Spaded Repair Cost : 9474 / 8603 / 10369 SL
-
-Assault (USSR) :
-    Rank 7
-    BR : 11.3
-    Hidden
-    Non-researchable vehicle
-    Stock Repair Cost : 8050 / 7310 / 8810 SL
-    Spaded Repair Cost : 9474 / 8603 / 10369 SL
-
-Sniper (USSR) :
-    Rank 7
-    BR : 11.3
-    Hidden
-    Non-researchable vehicle
-    Stock Repair Cost : 8050 / 7310 / 8810 SL
-    Spaded Repair Cost : 9474 / 8603 / 10369 SL
-
-----------------------------------------------------------------------------------------------------
-
-New vehicles:
-
-BF2C-1 (US) :
-    Rank 1
-    BR : 1.0
-    First in line before the F3F-2
-    Repair Cost : 0 SL
-
-F-14B (US) :
-    Rank 8
-    BR : 12.0
-    Located after the F-14A Early
-    Stock Repair Cost : 4560 / 9160 / 15250 SL
-    Spaded Repair Cost : 7542 / 15150 / 25223 SL
-
-M4/T26 (US) :
-    Rank 4
-    BR : 6.0
-    Located after the M4A3 (76) W
-    Stock Repair Cost : 2720 / 3300 / 4140 SL
-    Spaded Repair Cost : 3500 / 4247 / 5328 SL
-
-M1 KVT (US) :
-    Rank 6
-    BR : 10.3
-    Event or pack premium
-    Repair Cost : 4560 SL
-
-◊Su-22M4 (GER) :
-    Rank 7
-    BR : 11.3 / 11.0 / 10.7
-    Located after the ◊Su-22UM3K
-    Stock Repair Cost : 3240 / 7690 / 12120 SL
-    Spaded Repair Cost : 5391 / 12796 / 20167 SL
-
-Pz.38(t) n.A. (GER) :
-    Rank 2
-    BR : 2.3
-    Located after the Sd.Kfz.251/9
-    Stock Repair Cost : 310 / 340 / 380 SL
-    Spaded Repair Cost : 422 / 463 / 518 SL
-
-Raketenautomat (GER) :
-    Rank 5
-    BR : 7.3
-    Located after the Jagdtiger
-    Stock Repair Cost : 3830 / 4900 / 6820 SL
-    Spaded Repair Cost : 4967 / 6355 / 8845 SL
-
-Z46 (GER) :
-    Rank 3
-    BR : 4.7
-    Located after the Z43
-    Stock Repair Cost : 2490 / 3300 SL
-    Spaded Repair Cost : 3237 / 4290 SL
-
-Su-25T (USSR) :
-    Rank 7
-    BR : 11.3
-    Located after the Su-25
-    Stock Repair Cost : 3240 / 7700 / 11850 SL
-    Spaded Repair Cost : 5391 / 12812 / 19718 SL
-
-Su-39 (USSR) :
-    Rank 7
-    BR : 11.3
-    Event or pack premium
-    Repair Cost : 5400 SL
-
-BTR-80A (USSR) :
-    Rank 4
-    BR : 5.7
-    Located after the PT-76B
-    Stock Repair Cost : 1480 / 1520 / 2180 SL
-    Spaded Repair Cost : 2326 / 2389 / 3426 SL
-
-Object 435 (USSR) :
-    Rank 6
-    BR : 8.3
-    Located after the T-10M
-    Stock Repair Cost : 6280 / 7150 / 7120 SL
-    Spaded Repair Cost : 7768 / 8844 / 8807 SL
-
-Bravy (USSR) :
-    Rank 4
-    BR : 5.3
-    In a new line
-    Stock Repair Cost : 9960 / 15470 SL
-    Spaded Repair Cost : 12918 / 20064 SL
-
-SARC MkIVa (UK) :
-    Rank 1
-    BR : 1.3
-    First in line before the SARC MkVI (2pdr)
-    Stock Repair Cost : 150 / 160 / 200 SL
-    Spaded Repair Cost : 204 / 218 / 273 SL
-
 uk_t_90s_bheeshma (UK) :
     Rank 6
     BR : 10.7
@@ -173,297 +10,53 @@ uk_t_90s_bheeshma (UK) :
     Stock Repair Cost : 3840 / 4290 / 5560 SL
     Spaded Repair Cost : 6143 / 6863 / 8895 SL
 
-HMS Daring (UK) :
-    Rank 3
-    BR : 4.7
-    Located after the HMS Diana
-    Stock Repair Cost : 2890 / 4110 SL
-    Spaded Repair Cost : 3702 / 5264 SL
+----------------------------------------------------------------------------------------------------
 
-Type 87 RCV (P) (JP) :
-    Rank 4
-    BR : 5.7
-    Located after the ▅M4A3 (76) W
-    Stock Repair Cost : 2280 / 2760 / 3380 SL
-    Spaded Repair Cost : 3584 / 4338 / 5313 SL
+New vehicles:
 
-IJN Ise (JP) :
+uk_vijayanta (UK) :
     Rank 5
-    BR : 7.0
-    Located after the IJN Hyuga
-    Stock Repair Cost : 23580 / 30660 SL
-    Spaded Repair Cost : 30701 / 39919 SL
+    BR : 7.3 / 7.7 / 7.7
+    Hidden
+    8200 GE premium
+    Repair Cost : 2420 / 2420 / 3390 SL
 
-J-8F (CN) :
-    Rank 8
-    BR : 12.0
-    Located after the J-8B
-    Stock Repair Cost : 4010 / 8840 / 15740 SL
-    Spaded Repair Cost : 6889 / 15187 / 27041 SL
-
-Object 211 (CN) :
-    Rank 3
-    BR : 5.0
-    Located after the ␗M24
-    Stock Repair Cost : 1630 / 2000 / 1830 SL
-    Spaded Repair Cost : 2342 / 2874 / 2629 SL
-
-ZTZ88B (CN) :
-    Rank 6
-    BR : 8.7
-    Located after the ZTZ59D1
-    Stock Repair Cost : 4300 / 4880 / 5660 SL
-    Spaded Repair Cost : 6789 / 7705 / 8937 SL
-
-Tornado ADV (IT) :
-    Rank 8
-    BR : 11.3
-    Located after the G.91 YS
-    Stock Repair Cost : 3630 / 8750 / 10500 SL
-    Spaded Repair Cost : 6893 / 16616 / 19939 SL
-
-Freccia (IT) :
-    Rank 7
-    BR : 10.0
-    Located after the VCC-80/30
-    Stock Repair Cost : 5010 / 4730 / 4470 SL
-    Spaded Repair Cost : 8476 / 8003 / 7563 SL
-
-Lancaster MR.7 (FR) :
-    Rank 4
-    BR : 5.0 / 5.3 / 6.0
-    Located after the ▄PB4Y-2
-    Stock Repair Cost : 2330 / 6800 / 8530 SL
-    Spaded Repair Cost : 3303 / 9343 / 11720 SL
-
-Mirage 2000-5F (FR) :
-    Rank 8
-    BR : 12.0
-    Located after the Mirage 2000C-S5
-    Stock Repair Cost : 4550 / 8720 / 14360 SL
-    Spaded Repair Cost : 8190 / 15696 / 25848 SL
-
-AuF1 (FR) :
-    Rank 5
-    BR : 7.0
-    Located after the ELC bis
-    Stock Repair Cost : 5610 / 5940 / 7140 SL
-    Spaded Repair Cost : 7281 / 7710 / 9267 SL
-
-Bourrasque (FR) :
-    Rank 1
-    BR : 3.7
-    First in line before the Milan
-    Stock Repair Cost : 420 / 540 SL
-    Spaded Repair Cost : 538 / 692 SL
-
-Chacal (FR) :
-    Rank 1
-    BR : 3.7
-    First in line before the Vautour
-    Repair Cost : 0 SL
-
-Panthere (FR) :
-    Rank 1
-    BR : 3.7
-    250 GE premium
-    Repair Cost : 130 / 190 SL
-
-Milan (FR) :
-    Rank 2
-    BR : 4.3
-    Located after the Bourrasque
-    Stock Repair Cost : 1360 / 1810 SL
-    Spaded Repair Cost : 1770 / 2356 SL
-
-Vautour (FR) :
-    Rank 2
-    BR : 4.3
-    Located after the Chacal
-    Stock Repair Cost : 1060 / 1420 SL
-    Spaded Repair Cost : 1380 / 1848 SL
-
-Jeanne d'Arc (FR) :
-    Rank 3
-    BR : 4.7
-    Located after the Milan
-    Stock Repair Cost : 3670 / 4900 SL
-    Spaded Repair Cost : 4759 / 6355 SL
-
-Le Malin (FR) :
-    Rank 3
-    BR : 4.7
-    Located after the Vautour
-    Stock Repair Cost : 1870 / 2520 SL
-    Spaded Repair Cost : 2434 / 3281 SL
-
-Primaguet (FR) :
-    Rank 3
-    BR : 5.0
-    Located after the Le Malin
-    Stock Repair Cost : 3490 / 4650 SL
-    Spaded Repair Cost : 4735 / 6310 SL
-
-Colbert (FR) :
-    Rank 4
-    BR : 5.3
-    Located after the Primaguet
-    Stock Repair Cost : 7140 / 8850 SL
-    Spaded Repair Cost : 9688 / 12009 SL
-
-AJS37 (SWE) :
-    Rank 7
-    BR : 11.3
-    Located after the AJ37
-    Stock Repair Cost : 3850 / 10320 / 17130 SL
-    Spaded Repair Cost : 5397 / 14468 / 24016 SL
-
-Sherman III/IV (SWE) :
-    Rank 3
-    BR : 3.7
-    1300 GE premium
-    Repair Cost : 630 / 650 / 970 SL
-
-CV9030FIN (SWE) :
+fr_vbci2_mct30 (FR) :
     Rank 6
     BR : 9.0
-    Located after the Ikv 91-105
-    Stock Repair Cost : 4180 / 4430 / 6800 SL
-    Spaded Repair Cost : 6997 / 7415 / 11383 SL
+    Hidden
+    8910 GE premium
+    Repair Cost : 4560 SL
 
-Magach Hydra (ISR) :
+il_magach_6b_gal (ISR) :
     Rank 6
-    BR : 8.3
-    Located after the Magach 6R (in a folder with it)
-    Stock Repair Cost : 4330 / 5080 / 7090 SL
-    Spaded Repair Cost : 6096 / 7152 / 9982 SL
+    BR : 9.0
+    440k RP squadron vehicle
+    Stock Repair Cost : 4600 / 5470 / 6890 SL
+    Spaded Repair Cost : 6844 / 8139 / 10252 SL
 
 ----------------------------------------------------------------------------------------------------
 
 Tech-tree changes:
 
-F3F-2 (US) :
-    First in line before the F2A-1 -> Located after the BF2C-1, but without connection
-
-P-51D-10 (US) :
-    Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else -> Hidden for everyone
-
-P-47M-1-RE (US) :
-    Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else -> Hidden for everyone
-    Event or pack premium -> 6090 GE premium
-
-T25 (US) :
-    Located after the M4A3 (76) W -> Located after the M4/T26
-
-▃Stuart VI (5th CAD) (US) :
-    Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else -> Hidden for everyone
-
-M18 "Black Cat" (US) :
-    Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else -> Shown for everyone
-    Event or pack premium -> 2980 GE premium
-
-◄MiG-21 SPS-K (GER) :
-    Hidden for everyone -> Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else
-
-▀La-5FN (GER) :
-    Shown for everyone -> Hidden for everyone
-
-Sd.Kfz.234/2 (GER) :
-    Located after the Sd.Kfz.251/9 -> Located after the Pz.38(t) n.A.
-
-DF105 (GER) :
-    Located after the Jagdtiger -> Located after the Raketenautomat
-
-Leipzig (GER) :
-    Located after the Z43 -> Located after the Z46
-
-▂Pokryshkin's P-39N-0 (USSR) :
-    Shown for everyone -> Hidden for everyone
-
-Dolgushin's La-7 (USSR) :
-    Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else -> Hidden for everyone
-
-Su-7BMK (USSR) :
-    Hidden for everyone -> Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else
-
-Golovachev's Yak-9M (USSR) :
-    Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else -> Hidden for everyone
-
-▂Spitfire Mk IXc (USSR) :
-    Shown for everyone -> Hidden for everyone
-
-T-64A (1971) (USSR) :
-    Located after the T-10M -> Located after the Object 435
-
-ASU-85 (USSR) :
-    Located after the PT-76B -> Located after the BTR-80A
-
-T-34-85E (USSR) :
-    Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else -> Hidden for everyone
-
-IS-2 "Revenge" (USSR) :
-    Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else -> Hidden for everyone
-    Event or pack premium -> 7480 GE premium
-
-Typhoon Mk Ib (UK) :
-    Shown for everyone -> Hidden for everyone
-
-Spitfire FR Mk XIVe (UK) :
-    Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else -> Hidden for everyone
-
-Plagis' Spitfire LF Mk IXc (UK) :
-    Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else -> Hidden for everyone
-    Event or pack premium -> 6090 GE premium
-
-Hunter FGA.9 (UK) :
-    Shown for everyone -> Hidden for everyone
-
-SARC MkVI (2pdr) (UK) :
-    First in line before the SARC MkVI (6pdr) -> Located after the SARC MkIVa, but without connection
-
-Achilles (65 Rg.) (UK) :
-    Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else -> Hidden for everyone
-    Event or pack premium -> 1300 GE premium
-
-HMS Glorious (UK) :
-    Located after the HMS Diana -> Located after the HMS Daring
-
-T-2 Early (JP) :
-    Hidden for everyone -> Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else
-
-▅M41A1 (JP) :
-    Located after the ▅M4A3 (76) W -> Located after the Type 87 RCV (P)
-
 ␗PT-76 (CN) :
-    Shown for everyone -> Hidden for everyone
-    Located after the ␗M24 -> Located after the Object 211, but without connection (in a folder with it)
+    Hidden for everyone -> Shown for everyone
+    Located after the Object 211, but without connection (in a folder with it) -> Located after the Object 211
 
 Type 63-I (CN) :
-    Located after the ␗PT-76 -> Located after the cn_76_211_group folder
+    Located after the cn_76_211_group folder -> Located after the ␗PT-76
 
-ZTZ88A (CN) :
-    Located after the ZTZ59D1 -> Located after the ZTZ88B
+Chacal (FR) :
+    First in line before the Vautour -> First in line before the Milan
 
-S.O.4050 Vautour IIB (FR) :
-    Located after the ▄PB4Y-2 -> Located after the Lancaster MR.7
+Vautour (FR) :
+    Located after the Chacal -> Located after the Bourrasque
+
+Bourrasque (FR) :
+    First in line before the Milan -> First in line before the Vautour
 
 Milan (FR) :
-    Hidden for everyone -> Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else
-
-AMX-50 Foch (FR) :
-    Located after the ELC bis -> Located after the AuF1
-
-J35A (SWE) :
-    Hidden for everyone -> Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else
-
-Strf 9040B (SWE) :
-    Located after the Ikv 91-105 -> Located after the CV9030FIN
-
-A-4E (ISR) :
-    Hidden for everyone -> Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else
-
-Magach 6B (ISR) :
-    Located after the Magach 6R -> Located after the Magach 6R/6R folder
+    Located after the Bourrasque -> Located after the Chacal
 
 ----------------------------------------------------------------------------------------------------
 
