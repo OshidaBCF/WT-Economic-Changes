@@ -1,371 +1,572 @@
 Weapon changes :
 
-F-105D :
+F-4C Phantom II, F-4S Phantom II :
     New loadouts :
-        10x Mk 82 Snakeye (stock)
+        1x Drop tank (stock)
+    Custom loadout changes :
+        Slot 6 changed :
+            Added 1x Drop tank (stock) option
+
+F-4E Phantom II, F-4EJ Phantom II, F-4EJ ADTW, F-4EJ Kai Phantom II, Kurnass :
+    Loadouts changed :
+        x Empty (stock) -> 1x Drop tank (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x Drop tank (stock)
+    Custom loadout changes :
+        Slot 6 changed :
+            Added 1x Drop tank (stock) option
+
+F-4J Phantom II :
+    Loadouts changed :
+        24x 250 lb -> 24x Mk 81 Snakeye :
+            Weapons of the loadout/option changed :
+                Removed 18x 250 lb
+                Removed 6x 250 lb
+                Added 18x Mk 81 Snakeye
+                Added 6x Mk 81 Snakeye
+
+F-14B :
+    Loadouts changed :
+        1x LANTIRN (stock) :
+            Added Required modification LANTIRN
+            No longer available stock
+
+◄F-4F Early, ◄F-4F, MiG-27K, MiG-27M :
+    Loadouts changed :
+        x Empty (stock) -> 1x Drop tank (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x Drop tank (stock)
+    Custom loadout changes :
+        Slot 4 changed :
+            Added 1x Drop tank (stock) option
+
+◊MiG-23BN :
+    Loadouts changed :
+        x Empty (stock) -> 1x Drop tank (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x Drop tank (stock)
+    Custom loadout changes :
+        Slot 4 changed :
+            Added 1x Drop tank (stock) option
+            Removed 16x S-5K (stock) option
+            Removed 32x S-5K option
+            Removed 20x S-8KO option
+            Removed 1x S-24B option
+            Removed 4x OFAB-100 option
+            Removed 1x FAB-250M-62 option
+            Removed 1x FAB-500M-62 option
+            Removed 1x ZB-500 option
+        Slot 5 changed :
+            Added 16x S-5K (stock) option
+            Added 32x S-5K option
+            Added 20x S-8KO option
+            Added 1x S-24B option
+            Added 4x OFAB-100 option
+            Added 1x ZB-500 option
+            Removed 1x OFAB-100 option
+        Slot 6 changed :
+            Added 1x OFAB-100 option
+            Removed 1x Kh-23M option
+            Removed 16x S-5K (stock) option
+            Removed 32x S-5K option
+            Removed 20x S-8KO option
+            Removed 1x S-24B option
+            Removed 4x OFAB-100 (stock) option
+            Removed 2x FAB-250M-62 option
+            Removed 2x FAB-500M-62 option
+            Removed 1x ZB-500 option
+            Removed 1x 23 mm GSh-23L cannon option
+        Added slot 7 :
+            1x Kh-23M option
+            16x S-5K (stock) option
+            32x S-5K option
+            20x S-8KO option
+            1x S-24B option
+            4x OFAB-100 (stock) option
+            1x FAB-250M-62 option
+            2x FAB-250M-62 option
+            1x FAB-500M-62 option
+            2x FAB-500M-62 option
+            1x ZB-500 option
+            1x 23 mm GSh-23L cannon option
+
+◊MiG-23MF :
+    New loadouts :
+        1x Flares/Chaff large
+    Loadouts changed :
+        x Empty (stock) -> 1x Drop tank (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x Drop tank (stock)
     Custom loadout changes :
         Slot 1 changed :
-            Added 1x Mk 82 Snakeye (stock) option
-        Slot 2 changed :
-            Added 4x Mk 82 Snakeye (stock) option
+            Option changed : 1x R-23R, can't be equipped together with 1x R-23T on slot 4 -> 1x R-23R, can't be equipped together with 1x R-23T on slot 5
+            Option changed : 1x R-23T, can't be equipped together with 1x R-23R on slot 4 -> 1x R-23T, can't be equipped together with 1x R-23R on slot 5
         Slot 3 changed :
-            Added 6x Mk 82 Snakeye (stock) option
+            Added 1x Drop tank (stock) option
+            Added 12x Flares/Chaff large option
+            Removed 1x R-13M1 option
+            Removed 2x R-60MK option
+            Removed 1x R-3S option
+            Removed 16x S-5K option
+            Removed 1x S-24B option
+            Removed 4x OFAB-100 option
+            Removed 1x FAB-250M-62 option
+            Removed 1x Delta-NG option
         Slot 4 changed :
-            Added 4x Mk 82 Snakeye (stock) option
-        Slot 5 changed :
-            Added 1x Mk 82 Snakeye (stock) option
+            Added 1x R-13M1 option
+            Added 2x R-60MK option
+            Added 1x Delta-NG option
+            Removed 1x R-13M1 (stock) option
+            Removed 1x R-60MK option
+            Removed 1x R-23R option, can't be equipped together with 1x R-23T on slot 1
+            Removed 1x R-23T option, can't be equipped together with 1x R-23R on slot 1
+            Removed 32x S-5K option
+            Removed 1x Kh-23M option, must be equipped together with 1x Delta-NG on slot 3
+            Removed 1x FAB-500M-62 option
+            Removed 1x ZB-500 option
+        Added slot 5 :
+            1x R-13M1 (stock) option
+            1x R-60MK option
+            1x R-23R option, can't be equipped together with 1x R-23T on slot 1
+            1x R-23T option, can't be equipped together with 1x R-23R on slot 1
+            1x R-3S option
+            16x S-5K option
+            32x S-5K option
+            1x S-24B option
+            1x Kh-23M option, must be equipped together with 1x delta_ng on slot 3
+            4x OFAB-100 option
+            1x FAB-250M-62 option
+            1x FAB-500M-62 option
+            1x ZB-500 option
+
+◊MiG-23MLA :
+    New loadouts :
+        1x Flares/Chaff large
+    Loadouts changed :
+        x Empty (stock) -> 1x Drop tank (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x Drop tank (stock)
+    Custom loadout changes :
+        Slot 3 changed :
+            Added 1x Drop tank (stock) option
+            Added 12x Flares/Chaff large option
+            Removed 1x R-13M1 option
+            Removed 2x R-60MK option
+            Removed 4x OFAB-100 option
+            Removed 1x FAB-250M-62 option
+            Removed 16x S-5K option
+            Removed 1x S-24B option
+            Removed 1x Delta-NG option
+        Slot 4 changed :
+            Added 1x R-13M1 option
+            Added 2x R-60MK option
+            Added 1x Delta-NG option
+            Removed 1x R-13M1 (stock) option
+            Removed 1x R-60MK option
+            Removed 1x R-23R option
+            Removed 1x R-23T option
+            Removed 1x R-24R option
+            Removed 1x R-24T option
+            Removed 1x FAB-500M-62 option
+            Removed 1x ZB-500 option
+            Removed 32x S-5K option
+            Removed 20x S-8KO option
+            Removed 1x Kh-23M option, must be equipped together with 1x Delta-NG on slot 3
+            Removed 1x 23 mm GSh-23L cannon option
+        Added slot 5 :
+            1x R-13M1 (stock) option
+            1x R-60MK option
+            1x R-23R option
+            1x R-23T option
+            1x R-24R option
+            1x R-24T option
+            4x OFAB-100 option
+            1x FAB-250M-62 option
+            1x FAB-500M-62 option
+            1x ZB-500 option
+            16x S-5K option
+            32x S-5K option
+            20x S-8KO option
+            1x S-24B option
+            1x Kh-23M option, must be equipped together with 1x delta_ng on slot 3
+            1x 23 mm GSh-23L cannon option
 
 ◊Su-22M4, ◊Su-22UM3K, Su-17M4, Su-22M3 :
     Loadouts changed :
-        4x OFAB-250Sh :
-            Weapons of the loadout/option changed :
-                OFAB-250Sh changed : 6x -> 3x
-                Added 3x OFAB-250Sh
+        x Empty (stock) -> 1x Drop tank (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x Drop tank (stock)
+                Added 1x Drop tank (stock)
     Custom loadout changes :
+        Slot 4 changed :
+            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 5
         Slot 5 changed :
-            Option changed : 3x OFAB-250Sh -> 3x OFAB-250Sh
-
-I-185 (M-71) :
-    New loadouts :
-        4x FAB-50
-
-IL-2 (1942) :
-    New loadouts :
-        12x AO-25M-1 (stock)
-        4x RBS-82
-        4x RBS-132
-        4x ROFS-132
-        4x ROS-82
-    Loadouts changed :
-        1x FAB-50 :
-            Removed Required modification Der-21
-            Now available stock
-        2x FAB-50 -> 4x FAB-50 (stock) :
-            Total damage changed : 2272 -> 4544
-            Weapons of the loadout/option changed :
-                FAB-50 changed : 2x -> 4x
-            Now available stock
-        1x FAB-100 :
-            Removed Required modification Der-21
-            Now available stock
-        2x FAB-100 -> 4x FAB-100 (stock) :
-            Total damage changed : 2786 -> 5572
-            Weapons of the loadout/option changed :
-                FAB-100 changed : 2x -> 4x
-            Now available stock
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 2x ROS-82 option
-            Added 2x RBS-82 option
-            Added 2x ROS-132 option
-            Added 2x ROFS-132 option
-            Added 2x RBS-132 option
-            Removed 1x FAB-50 option
-            Removed 1x FAB-100 option
-            Removed 1x FAB-250 option
-        Slot 2 changed :
-            Added 1x FAB-50 (stock) option, can't be equipped together with 1x AO-25M-1 on slot 3 or 1x FAB-50 on slot 3 or 1x FAB-100 on slot 3
-            Added 1x FAB-100 (stock) option, can't be equipped together with 1x AO-25M-1 on slot 3 or 1x FAB-50 on slot 3 or 1x FAB-100 on slot 3
-            Added 1x FAB-250 option, can't be equipped together with 1x AO-25M-1 on slot 3 or 1x FAB-50 on slot 3 or 1x FAB-100 on slot 3
-            Removed 1x FAB-50 option
-            Removed 1x FAB-100 option
-            Removed 1x FAB-250 option
-        Added slot 3 :
-            6x AO-25M-1 (stock) option, can't be equipped together with 1x FAB-50 on slot 2 or 1x FAB-100 on slot 2 or 1x FAB-250 on slot 2
-            2x FAB-50 (stock) option, can't be equipped together with 1x FAB-50 on slot 2 or 1x FAB-100 on slot 2 or 1x FAB-250 on slot 2
-            2x FAB-100 (stock) option, can't be equipped together with 1x FAB-50 on slot 2 or 1x FAB-100 on slot 2 or 1x FAB-250 on slot 2
-        Added slot 4 :
-            6x AO-25M-1 (stock) option, can't be equipped together with 1x FAB-50 on slot 5 or 1x FAB-100 on slot 5 or 1x FAB-250 on slot 5
-            2x FAB-50 (stock) option, can't be equipped together with 1x FAB-50 on slot 5 or 1x FAB-100 on slot 5 or 1x FAB-250 on slot 5
-            2x FAB-100 (stock) option, can't be equipped together with 1x FAB-50 on slot 5 or 1x FAB-100 on slot 5 or 1x FAB-250 on slot 5
-        Added slot 5 :
-            1x FAB-50 (stock) option, can't be equipped together with 1x AO-25M-1 on slot 4 or 1x FAB-50 on slot 4 or 1x FAB-100 on slot 4
-            1x FAB-100 (stock) option, can't be equipped together with 1x AO-25M-1 on slot 4 or 1x FAB-50 on slot 4 or 1x FAB-100 on slot 4
-            1x FAB-250 option, can't be equipped together with 1x AO-25M-1 on slot 4 or 1x FAB-50 on slot 4 or 1x FAB-100 on slot 4
-        Added slot 6 :
-            2x ROS-82 option
-            2x RBS-82 option
-            2x ROS-132 option
-            2x ROFS-132 option
-            2x RBS-132 option
+            Added 1x Drop tank (stock) option
 
 IL-2 M-82 :
     New loadouts :
-        4x RBS-82
-        4x RBS-132
-        4x ROFS-132
-        4x ROS-82
-        4x ROS-132
-    Removed loadouts :
-        4x M-8
-        8x RBS-82
+        12x AO-25M-1 (stock)
+    Custom loadout changes :
+        Slot 2 changed :
+            Option changed : 1x FAB-50 (stock), can't be equipped together with 1x FAB-50 on slot 3 or 1x FAB-100 on slot 3 -> 1x FAB-50 (stock), can't be equipped together with 1x AO-25M-1 on slot 3 or 1x FAB-50 on slot 3 or 1x FAB-100 on slot 3
+            Option changed : 1x FAB-100 (stock), can't be equipped together with 1x FAB-50 on slot 3 or 1x FAB-100 on slot 3 -> 1x FAB-100 (stock), can't be equipped together with 1x AO-25M-1 on slot 3 or 1x FAB-50 on slot 3 or 1x FAB-100 on slot 3
+            Option changed : 1x FAB-250, can't be equipped together with 1x FAB-50 on slot 3 or 1x FAB-100 on slot 3 -> 1x FAB-250, can't be equipped together with 1x AO-25M-1 on slot 3 or 1x FAB-50 on slot 3 or 1x FAB-100 on slot 3
+        Slot 3 changed :
+            Added 6x AO-25M-1 (stock) option, can't be equipped together with 1x FAB-50 on slot 2 or 1x FAB-100 on slot 2 or 1x FAB-250 on slot 2
+        Slot 4 changed :
+            Added 6x AO-25M-1 (stock) option, can't be equipped together with 1x FAB-50 on slot 5 or 1x FAB-100 on slot 5 or 1x FAB-250 on slot 5
+        Slot 5 changed :
+            Option changed : 1x FAB-50 (stock), can't be equipped together with 1x FAB-50 on slot 4 or 1x FAB-100 on slot 4 -> 1x FAB-50 (stock), can't be equipped together with 1x AO-25M-1 on slot 4 or 1x FAB-50 on slot 4 or 1x FAB-100 on slot 4
+            Option changed : 1x FAB-100 (stock), can't be equipped together with 1x FAB-50 on slot 4 or 1x FAB-100 on slot 4 -> 1x FAB-100 (stock), can't be equipped together with 1x AO-25M-1 on slot 4 or 1x FAB-50 on slot 4 or 1x FAB-100 on slot 4
+            Option changed : 1x FAB-250, can't be equipped together with 1x FAB-50 on slot 4 or 1x FAB-100 on slot 4 -> 1x FAB-250, can't be equipped together with 1x AO-25M-1 on slot 4 or 1x FAB-50 on slot 4 or 1x FAB-100 on slot 4
+
+MiG-23M :
+    New loadouts :
+        1x Flares/Chaff large
+    Loadouts changed :
+        x Empty (stock) -> 1x Drop tank (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x Drop tank (stock)
     Custom loadout changes :
         Slot 1 changed :
-            Added 2x ROS-82 option
-            Option changed : 4x RBS-82 -> 2x RBS-82
-            Added 2x ROS-132 option
-            Added 2x ROFS-132 option
-            Added 2x RBS-132 option
-            Removed 2x M-8 option
-        Slot 6 changed :
-            Added 2x ROS-82 option
-            Option changed : 4x RBS-82 -> 2x RBS-82
-            Added 2x ROS-132 option
-            Added 2x ROFS-132 option
-            Added 2x RBS-132 option
-            Removed 2x M-8 option
+            Option changed : 1x R-23R, can't be equipped together with 1x R-23T on slot 4 -> 1x R-23R, can't be equipped together with 1x R-23T on slot 5
+            Option changed : 1x R-23T, can't be equipped together with 1x R-23R on slot 4 -> 1x R-23T, can't be equipped together with 1x R-23R on slot 5
+        Slot 3 changed :
+            Added 1x Drop tank (stock) option
+            Added 12x Flares/Chaff large option
+            Removed 1x R-13M1 option
+            Removed 2x R-60M option
+            Removed 1x R-3S option
+            Removed 16x S-5K option
+            Removed 1x S-24B option
+            Removed 4x OFAB-100 option
+            Removed 1x FAB-250M-62 option
+            Removed 1x Delta-NG option
+        Slot 4 changed :
+            Added 1x R-13M1 option
+            Added 2x R-60M option
+            Added 1x Delta-NG option
+            Removed 1x R-13M1 (stock) option
+            Removed 1x R-60M option
+            Removed 1x R-23R option, can't be equipped together with 1x R-23T on slot 1
+            Removed 1x R-23T option, can't be equipped together with 1x R-23R on slot 1
+            Removed 32x S-5K option
+            Removed 1x Kh-23M option, must be equipped together with 1x Delta-NG on slot 3
+            Removed 1x FAB-500M-62 option
+            Removed 1x ZB-500 option
+        Added slot 5 :
+            1x R-13M1 (stock) option
+            1x R-60M option
+            1x R-23R option, can't be equipped together with 1x R-23T on slot 1
+            1x R-23T option, can't be equipped together with 1x R-23R on slot 1
+            1x R-3S option
+            16x S-5K option
+            32x S-5K option
+            1x S-24B option
+            1x Kh-23M option, must be equipped together with 1x delta_ng on slot 3
+            4x OFAB-100 option
+            1x FAB-250M-62 option
+            1x FAB-500M-62 option
+            1x ZB-500 option
+
+MiG-23ML :
+    New loadouts :
+        1x Flares/Chaff large
+    Loadouts changed :
+        x Empty (stock) -> 1x Drop tank (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x Drop tank (stock)
+    Custom loadout changes :
+        Slot 1 changed :
+            Option changed : 1x R-24R, can't be equipped together with 1x R-23T on slot 4 or 1x R-24T on slot 4 -> 1x R-24R, can't be equipped together with 1x R-23T on slot 5 or 1x R-24T on slot 5
+            Option changed : 1x R-24T, can't be equipped together with 1x R-23R on slot 4 or 1x R-24R on slot 4 -> 1x R-24T, can't be equipped together with 1x R-23R on slot 5 or 1x R-24R on slot 5
+        Slot 3 changed :
+            Added 1x Drop tank (stock) option
+            Added 12x Flares/Chaff large option
+            Removed 1x R-13M1 option
+            Removed 2x R-60M option
+            Removed 4x OFAB-100 option
+            Removed 1x FAB-250M-62 option
+            Removed 16x S-5K option
+            Removed 1x S-24B option
+            Removed 1x Delta-NG option
+        Slot 4 changed :
+            Added 1x R-13M1 option
+            Added 2x R-60M option
+            Added 1x Delta-NG option
+            Removed 1x R-13M1 (stock) option
+            Removed 1x R-60M option
+            Removed 1x R-23R option
+            Removed 1x R-23T option
+            Removed 1x R-24R option, can't be equipped together with 1x R-23T on slot 1 or 1x R-24T on slot 1
+            Removed 1x R-24T option, can't be equipped together with 1x R-23R on slot 1 or 1x R-24R on slot 1
+            Removed 1x FAB-500M-62 option
+            Removed 1x ZB-500 option
+            Removed 32x S-5K option
+            Removed 20x S-8KO option
+            Removed 1x Kh-23M option, must be equipped together with 1x Delta-NG on slot 3
+            Removed 1x 23 mm GSh-23L cannon option
+        Added slot 5 :
+            1x R-13M1 (stock) option
+            1x R-60M option
+            1x R-23R option
+            1x R-23T option
+            1x R-24R option, can't be equipped together with 1x R-23T on slot 1 or 1x R-24T on slot 1
+            1x R-24T option, can't be equipped together with 1x R-23R on slot 1 or 1x R-24R on slot 1
+            4x OFAB-100 option
+            1x FAB-250M-62 option
+            1x FAB-500M-62 option
+            1x ZB-500 option
+            16x S-5K option
+            32x S-5K option
+            20x S-8KO option
+            1x S-24B option
+            1x Kh-23M option, must be equipped together with 1x delta_ng on slot 3
+            1x 23 mm GSh-23L cannon option
+
+MiG-23MLD :
+    New loadouts :
+        1x Flares/Chaff large
+    Loadouts changed :
+        x Empty (stock) -> 1x Drop tank (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x Drop tank (stock)
+    Custom loadout changes :
+        Slot 3 changed :
+            Added 1x Drop tank (stock) option
+            Added 12x Flares/Chaff large option
+            Removed 1x R-13M1 option
+            Removed 2x R-60M option
+            Removed 4x OFAB-100 option
+            Removed 1x FAB-250M-62 option
+            Removed 16x S-5K option
+            Removed 1x S-24B option
+            Removed 1x Delta-NG option
+        Slot 4 changed :
+            Added 1x R-13M1 option
+            Added 2x R-60M option
+            Added 1x Delta-NG option
+            Removed 1x R-13M1 (stock) option
+            Removed 1x R-60M option
+            Removed 1x R-23R option
+            Removed 1x R-23T option
+            Removed 1x R-24R option
+            Removed 1x R-24T option
+            Removed 1x FAB-500M-62 option
+            Removed 1x ZB-500 option
+            Removed 32x S-5K option
+            Removed 20x S-8KO option
+            Removed 1x Kh-23M option, must be equipped together with 1x Delta-NG on slot 3
+            Removed 1x 23 mm GSh-23L cannon option
+        Added slot 5 :
+            1x R-13M1 (stock) option
+            1x R-60M option
+            1x R-23R option
+            1x R-23T option
+            1x R-24R option
+            1x R-24T option
+            4x OFAB-100 option
+            1x FAB-250M-62 option
+            1x FAB-500M-62 option
+            1x ZB-500 option
+            16x S-5K option
+            32x S-5K option
+            20x S-8KO option
+            1x S-24B option
+            1x Kh-23M option, must be equipped together with 1x delta_ng on slot 3
+            1x 23 mm GSh-23L cannon option
 
 Su-17M2 :
     Loadouts changed :
-        4x OFAB-250Sh :
-            Weapons of the loadout/option changed :
-                OFAB-250Sh changed : 6x -> 3x
-                Added 3x OFAB-250Sh
+        x Empty (stock) -> 1x Drop tank (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x Drop tank (stock)
+                Added 1x Drop tank (stock)
     Custom loadout changes :
-        Slot 4 changed :
-            Option changed : 3x OFAB-250Sh -> 3x OFAB-250Sh
-
-Buccaneer S.1 :
-    New loadouts :
-        8x 1000 lb Mk.13 No.117
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 1x 1000 lb Mk.13 No.117 option
-        Slot 2 changed :
-            Added 1x 1000 lb Mk.13 No.117 option
         Slot 3 changed :
-            Added 4x 1000 lb Mk.13 No.117 option
+            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 4
         Slot 4 changed :
-            Added 1x 1000 lb Mk.13 No.117 option
+            Added 1x Drop tank (stock) option
+
+Su-25, Su-25K :
+    Loadouts changed :
+        x Empty (stock) -> 1x Drop tank (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x Drop tank (stock)
+                Added 1x Drop tank (stock)
+    Custom loadout changes :
         Slot 5 changed :
-            Added 1x 1000 lb Mk.13 No.117 option
-
-Buccaneer S.2 :
-    New loadouts :
-        4x 1000 lb Mk.13 No.117
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 3x 1000 lb Mk.13 No.117 option
-        Slot 2 changed :
-            Added 3x 1000 lb Mk.13 No.117 option
-        Slot 3 changed :
-            Added 4x 1000 lb Mk.13 No.117 option
-        Slot 4 changed :
-            Added 3x 1000 lb Mk.13 No.117 option
-        Slot 5 changed :
-            Added 3x 1000 lb Mk.13 No.117 option
-
-Sea Harrier FRS.1, Harrier GR.1, Harrier GR.3 :
-    New loadouts :
-        3x 1000 lb Mk.13 No.117
-        4x 1000 lb Mk.13 No.117
-    Custom loadout changes :
-        Slot 2 changed :
-            Added 1x 1000 lb Mk.13 No.117 option
-            Added 2x 1000 lb Mk.13 No.117 option
-        Slot 3 changed :
-            Added 1x 1000 lb Mk.13 No.117 option
-        Slot 4 changed :
-            Added 1x 1000 lb Mk.13 No.117 option
-            Added 2x 1000 lb Mk.13 No.117 option
-
-Jaguar GR.1 :
-    New loadouts :
-        4x 1000 lb Mk.13 No.117
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 1x 1000 lb Mk.13 No.117 option
-        Slot 2 changed :
-            Added 2x 1000 lb Mk.13 No.117 option
-        Slot 3 changed :
-            Added 2x 1000 lb Mk.13 No.117 option
-        Slot 4 changed :
-            Added 2x 1000 lb Mk.13 No.117 option
-        Slot 5 changed :
-            Added 1x 1000 lb Mk.13 No.117 option
-
-Jaguar GR.1A :
-    New loadouts :
-        4x 1000 lb Mk.13 No.117
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 1x 1000 lb Mk.13 No.117 option
-        Slot 2 changed :
-            Added 2x 1000 lb Mk.13 No.117 option
-        Slot 4 changed :
-            Added 2x 1000 lb Mk.13 No.117 option
+            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 6
         Slot 6 changed :
-            Added 2x 1000 lb Mk.13 No.117 option
+            Added 1x Drop tank (stock) option
+
+Su-25T :
+    Loadouts changed :
+        x Empty (stock) -> 1x Drop tank (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x Drop tank (stock)
+                Added 1x Drop tank (stock)
+    Custom loadout changes :
+        Slot 5 changed :
+            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 7
         Slot 7 changed :
-            Added 1x 1000 lb Mk.13 No.117 option
+            Added 1x Drop tank (stock) option
+
+Su-39 :
+    New loadouts :
+        2x KAB-500Kr + 1x Mercury + 2x R-60M
+    Loadouts changed :
+        1x Kopyo-25 + 2x R-60M (stock) -> 1x Drop tank (stock) :
+            Weapons of the loadout/option changed :
+                Removed 2x R-60M (stock)
+                Removed 1x Kopyo-25 (stock)
+                Added 1x Drop tank (stock)
+                Added 1x Drop tank (stock)
+    Custom loadout changes :
+        Slot 5 changed :
+            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 7
+        Slot 7 changed :
+            Added 1x Drop tank (stock) option
+
+Tornado GR.1 :
+    New loadouts :
+        4x PGM 500
+        2x PGM 2000
+    Custom loadout changes :
+        Slot 3 changed :
+            Added 1x PGM 500 option
+        Slot 4 changed :
+            Added 1x PGM 500 option
+            Added 1x PGM 2000 option
+        Slot 6 changed :
+            Option changed : 1x 1000 lb, can't be equipped together with 2x 1000 lb on slots 4, 5, 7, 8 or 2x 1000 lb Mk.13 No.117 on slots 4, 5, 7, 8 or 2x 1000 lb on slots 4, 5, 7, 8 or 1x GBU-24 Paveway III on slot 8 -> 1x 1000 lb, can't be equipped together with 2x 1000 lb on slots 4, 5, 7, 8 or 2x 1000 lb Mk.13 No.117 on slots 4, 5, 7, 8 or 2x 1000 lb on slots 4, 5, 7, 8 or 1x PGM 500 on slots 4, 8 or 1x PGM 2000 on slots 4, 8 or 1x GBU-24 Paveway III on slot 8
+            Option changed : 1x 1000 lb Mk.13 No.117, can't be equipped together with 2x 1000 lb on slots 4, 5, 7, 8 or 2x 1000 lb Mk.13 No.117 on slots 4, 5, 7, 8 or 2x 1000 lb on slots 4, 5, 7, 8 or 1x GBU-24 Paveway III on slot 8 -> 1x 1000 lb Mk.13 No.117, can't be equipped together with 2x 1000 lb on slots 4, 5, 7, 8 or 2x 1000 lb Mk.13 No.117 on slots 4, 5, 7, 8 or 2x 1000 lb on slots 4, 5, 7, 8 or 1x PGM 500 on slots 4, 8 or 1x PGM 2000 on slots 4, 8 or 1x GBU-24 Paveway III on slot 8
+            Option changed : 1x 1000 lb, can't be equipped together with 2x 1000 lb on slots 4, 5, 7, 8 or 2x 1000 lb Mk.13 No.117 on slots 4, 5, 7, 8 or 2x 1000 lb on slots 4, 5, 7, 8 or 1x GBU-24 Paveway III on slot 8 -> 1x 1000 lb, can't be equipped together with 2x 1000 lb on slots 4, 5, 7, 8 or 2x 1000 lb Mk.13 No.117 on slots 4, 5, 7, 8 or 2x 1000 lb on slots 4, 5, 7, 8 or 1x PGM 500 on slots 4, 8 or 1x PGM 2000 on slots 4, 8 or 1x GBU-24 Paveway III on slot 8
+            Option changed : 1x Mk.13, can't be equipped together with 2x 1000 lb on slots 4, 5, 7, 8 or 2x 1000 lb Mk.13 No.117 on slots 4, 5, 7, 8 or 2x 1000 lb on slots 4, 5, 7, 8 or 1x GBU-24 Paveway III on slot 8, must be equipped together with 1x TIALD on slot 4 -> 1x Mk.13, can't be equipped together with 2x 1000 lb on slots 4, 5, 7, 8 or 2x 1000 lb Mk.13 No.117 on slots 4, 5, 7, 8 or 2x 1000 lb on slots 4, 5, 7, 8 or 1x PGM 500 on slots 4, 8 or 1x PGM 2000 on slots 4, 8 or 1x GBU-24 Paveway III on slot 8, must be equipped together with 1x TIALD on slot 4
+        Slot 8 changed :
+            Added 1x PGM 500 option
+            Added 1x PGM 2000 option
+        Slot 9 changed :
+            Added 1x PGM 500 option
 
 ␗F-100A :
     New loadouts :
-        4x AIM-9E
+        2x 500 lb
+        2x Mk 82 Snakeye
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x 500 lb option
+            Added 1x Mk 82 Snakeye option
+        Slot 2 changed :
+            Added 1x 500 lb option
+            Added 1x Mk 82 Snakeye option
+
+␗F-104G :
+    New loadouts :
+        3x Mk 82 Snakeye
+    Custom loadout changes :
+        Slot 2 changed :
+            Added 1x Mk 82 Snakeye option
+        Slot 4 changed :
+            Added 1x Mk 82 Snakeye option
+        Slot 6 changed :
+            Added 1x Mk 82 Snakeye option
+
+J-8B :
+    Loadouts changed :
+        8x 250-3 :
+            Total damage changed : 17705 -> 17837
+            Weapons of the loadout/option changed :
+                Removed 2x 250-3
+                Added 2x 250-3
+        8x 250-3 + 2x PL-5B :
+            Total damage changed : 17705 -> 17837
+            Weapons of the loadout/option changed :
+                Removed 2x 250-3
+                Added 2x 250-3
+    Custom loadout changes :
+        Slot 2 changed :
+            Option changed : 1x 250-3 -> 1x 250-3
+        Slot 6 changed :
+            Option changed : 1x 250-3 -> 1x 250-3
+
+J-8F :
+    Loadouts changed :
+        4x PL-8 -> 6x PL-8 :
+            Weapons of the loadout/option changed :
+                PL-8 changed : 4x -> 6x
+    Removed loadouts :
+        2x PL-11
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x PL-8 option
+        Slot 2 changed :
+            Removed 1x PL-11 option
+        Slot 6 changed :
+            Removed 1x PL-11 option
+        Slot 7 changed :
+            Added 1x PL-8 option
+
+F-104S :
+    New loadouts :
+        7x Mk 82 Snakeye + 1x M61A1
+    Custom loadout changes :
+        Slot 2 changed :
+            Added 1x Mk 82 Snakeye option
+        Slot 3 changed :
+            Added 1x Mk 82 Snakeye option
+        Slot 4 changed :
+            Added 1x Mk 82 Snakeye option
+        Slot 6 changed :
+            Added 1x Mk 82 Snakeye option
+        Slot 7 changed :
+            Added 1x Mk 82 Snakeye option
+        Slot 8 changed :
+            Added 1x Mk 82 Snakeye option
+        Slot 9 changed :
+            Added 1x Mk 82 Snakeye option
 
 Etendard IVM :
-    Loadouts changed :
-        2x 1000 lb + 2x 30 mm DEFA 552 cannon :
-            Removed Required modification Mk83
-            Now available stock
-    Removed loadouts :
-        2x 30 mm DEFA 552 cannon + 4x 500 lb
-        2x 30 mm DEFA 552 cannon + 72x SNEB type 23 rocket
+    Added custom loadouts
+    New loadouts :
         2x 30 mm DEFA 552 cannon + 2x AIM-9B
-        2x 30 mm DEFA 552 cannon + 2x 500 lb + 36x SNEB type 23 rocket
-        2x 30 mm DEFA 552 cannon + 2x 500 lb + 2x AIM-9B
-        2x 30 mm DEFA 552 cannon + 2x AIM-9B + 36x SNEB type 23 rocket
+        2x 30 mm DEFA 552 cannon + 72x SNEB type 23 rocket
+        2x 30 mm DEFA 552 cannon + 4x 500 lb
+        2x 30 mm DEFA 552 cannon + 2x SAMP 400 kg Type 21
+        4x 250 kg Type 25 + 2x 30 mm DEFA 552 cannon
         2x AS-20 Nord
         2x AS-30 Nord
+    Loadouts changed :
+        2x 30 mm DEFA 552 cannon (stock) :
+            Added Weapons of the loadout/option :
+                Added 2x 30 mm DEFA 552 cannon (stock)
+        2x 1000 lb + 2x 30 mm DEFA 552 cannon (stock) :
+            Added Weapons of the loadout/option :
+                Added 2x 1000 lb
+                Added 2x 30 mm DEFA 552 cannon (stock)
+            No longer available stock
 
-Jaguar A, Jaguar E :
-    New loadouts :
-        2x 250 kg Type 25 200
-        8x SAMP 400 kg Type 21 200
+Ka-52 :
+    Loadouts changed :
+        12x 9K127 Vikhr :
+            Weapons of the loadout/option changed :
+                Removed 12x 9K127 Vikhr
+                Added 12x 9K127 Vikhr
+    Custom loadout changes :
+        Slot 2 changed :
+            Option changed : 6x 9K127 Vikhr -> 6x 9K127 Vikhr
+        Slot 5 changed :
+            Option changed : 6x 9K127 Vikhr -> 6x 9K127 Vikhr
+
+Mi-28NM :
+    Loadouts changed :
+        12x 9K127 Vikhr :
+            Weapons of the loadout/option changed :
+                Removed 12x 9K127 Vikhr
+                Added 12x 9K127 Vikhr
     Custom loadout changes :
         Slot 1 changed :
-            Added 1x 250 kg Type 25 200 option
-            Added 1x SAMP 400 kg Type 21 200 option
-        Slot 2 changed :
-            Added 3x 250 kg Type 25 200 option
-            Added 2x SAMP 400 kg Type 21 200 option
-        Slot 3 changed :
-            Added 3x 250 kg Type 25 200 option
-            Added 2x SAMP 400 kg Type 21 200 option
+            Option changed : 6x 9K127 Vikhr -> 6x 9K127 Vikhr
         Slot 4 changed :
-            Added 3x 250 kg Type 25 200 option
-            Added 2x SAMP 400 kg Type 21 200 option
-        Slot 5 changed :
-            Added 1x 250 kg Type 25 200 option
-            Added 1x SAMP 400 kg Type 21 200 option
-
-Mirage IIIC, Mirage IIIE :
-    New loadouts :
-        2x 250 kg Type 25 200
-        2x SAMP 400 kg Type 21 200
-    Custom loadout changes :
-        Slot 4 changed :
-            Added 2x 250 kg Type 25 200 option
-            Added 2x SAMP 400 kg Type 21 200 option
-
-Mirage 5F :
-    New loadouts :
-        2x 250 kg Type 25 200
-        4x SAMP 400 kg Type 21 200
-    Custom loadout changes :
-        Slot 3 changed :
-            Added 1x 250 kg Type 25 200 option
-            Added 1x SAMP 400 kg Type 21 200 option
-        Slot 4 changed :
-            Added 2x 250 kg Type 25 200 option
-            Added 2x SAMP 400 kg Type 21 200 option
-        Slot 5 changed :
-            Added 1x 250 kg Type 25 200 option
-            Added 1x SAMP 400 kg Type 21 200 option
-
-Mirage F1C, Mirage F1C-200 :
-    New loadouts :
-        5x 250 kg Type 25 200
-        5x SAMP 400 kg Type 21 200
-    Custom loadout changes :
-        Slot 2 changed :
-            Added 1x 250 kg Type 25 200 option
-            Added 1x SAMP 400 kg Type 21 200 option
-        Slot 3 changed :
-            Added 1x 250 kg Type 25 200 option
-            Added 1x SAMP 400 kg Type 21 200 option
-        Slot 4 changed :
-            Added 1x 250 kg Type 25 200 option
-            Added 1x SAMP 400 kg Type 21 200 option
-        Slot 5 changed :
-            Added 1x 250 kg Type 25 200 option
-            Added 1x SAMP 400 kg Type 21 200 option
-        Slot 6 changed :
-            Added 1x 250 kg Type 25 200 option
-            Added 1x SAMP 400 kg Type 21 200 option
-
-Mirage F1CT :
-    New loadouts :
-        4x SAMP 400 kg Type 21 200
-    Custom loadout changes :
-        Slot 2 changed :
-            Added 1x SAMP 400 kg Type 21 200 option
-        Slot 3 changed :
-            Added 1x SAMP 400 kg Type 21 200 option
-        Slot 4 changed :
-            Added 1x SAMP 400 kg Type 21 200 option
-            Added 4x SAMP 400 kg Type 21 200 option
-        Slot 5 changed :
-            Added 1x SAMP 400 kg Type 21 200 option
-        Slot 6 changed :
-            Added 1x SAMP 400 kg Type 21 200 option
-
-Milan :
-    New loadouts :
-        10x 250 kg Type 25 200
-        6x SAMP 400 kg Type 21 200
-    Custom loadout changes :
-        Slot 2 changed :
-            Added 4x 250 kg Type 25 200 option
-            Added 2x SAMP 400 kg Type 21 200 option
-        Slot 3 changed :
-            Added 2x 250 kg Type 25 200 option
-            Added 2x SAMP 400 kg Type 21 200 option
-        Slot 4 changed :
-            Added 4x 250 kg Type 25 200 option
-            Added 2x SAMP 400 kg Type 21 200 option
-
-A-4E Early (M), A-4H :
-    New loadouts :
-        8x SAMP Mk 82 250 Snakeye
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 1x SAMP Mk 82 250 Snakeye option
-        Slot 2 changed :
-            Added 3x SAMP Mk 82 250 Snakeye option
-        Slot 3 changed :
-            Added 6x SAMP Mk 82 250 Snakeye option
-        Slot 4 changed :
-            Added 3x SAMP Mk 82 250 Snakeye option
-        Slot 5 changed :
-            Added 1x SAMP Mk 82 250 Snakeye option
-
-Kfir C.2, Kfir C.7 :
-    New loadouts :
-        4x SAMP Mk 82 250 Snakeye
-    Custom loadout changes :
-        Slot 2 changed :
-            Added 3x SAMP Mk 82 250 Snakeye option
-        Slot 3 changed :
-            Added 2x SAMP Mk 82 250 Snakeye option
-        Slot 4 changed :
-            Added 5x SAMP Mk 82 250 Snakeye option
-        Slot 5 changed :
-            Added 2x SAMP Mk 82 250 Snakeye option
-        Slot 6 changed :
-            Added 3x SAMP Mk 82 250 Snakeye option
-
-Kfir Canard :
-    New loadouts :
-        2x SAMP Mk 82 250 Snakeye
-    Custom loadout changes :
-        Slot 2 changed :
-            Added 3x SAMP Mk 82 250 Snakeye option
-        Slot 3 changed :
-            Added 1x SAMP Mk 82 250 Snakeye option
-        Slot 4 changed :
-            Added 5x SAMP Mk 82 250 Snakeye option
-        Slot 5 changed :
-            Added 1x SAMP Mk 82 250 Snakeye option
-        Slot 6 changed :
-            Added 3x SAMP Mk 82 250 Snakeye option
-
-Shahak :
-    New loadouts :
-        2x 250 kg Type 25 200
-        2x SAMP 400 kg Type 21 200
-    Custom loadout changes :
-        Slot 2 changed :
-            Added 2x 250 kg Type 25 200 option
-            Added 2x SAMP 400 kg Type 21 200 option
+            Option changed : 6x 9K127 Vikhr -> 6x 9K127 Vikhr
 

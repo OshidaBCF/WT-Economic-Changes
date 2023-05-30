@@ -1,62 +1,65 @@
 ----------------------------------------------------------------------------------------------------
 
-Removed vehicles:
-
-uk_t_90s_bheeshma (UK) :
-    Rank 6
-    BR : 10.7
-    Hidden
-    520k RP squadron vehicle
-    Stock Repair Cost : 3840 / 4290 / 5560 SL
-    Spaded Repair Cost : 6143 / 6863 / 8895 SL
-
-----------------------------------------------------------------------------------------------------
-
 New vehicles:
 
-uk_vijayanta (UK) :
+GL.832HY (FR) :
+    Rank 1
+    BR : 1.3
+    Hidden
+    Non-researchable vehicle
+    Stock Repair Cost : 230 / 420 / 130 SL
+    Spaded Repair Cost : 283 / 517 / 160 SL
+
+▄PBY-5A Late (FR) :
+    Rank 1
+    BR : 1.7 / 1.7 / 2.0
+    550 GE premium
+    Repair Cost : 180 / 230 / 180 SL
+
+Paris (FR) :
     Rank 5
-    BR : 7.3 / 7.7 / 7.7
-    Hidden
-    8200 GE premium
-    Repair Cost : 2420 / 2420 / 3390 SL
+    BR : 6.3
+    Located after the Colbert
+    Stock Repair Cost : 18220 / 24340 SL
+    Spaded Repair Cost : 22884 / 30571 SL
 
-fr_vbci2_mct30 (FR) :
-    Rank 6
-    BR : 9.0
-    Hidden
-    8910 GE premium
-    Repair Cost : 4560 SL
-
-il_magach_6b_gal (ISR) :
-    Rank 6
-    BR : 9.0
-    440k RP squadron vehicle
-    Stock Repair Cost : 4600 / 5470 / 6890 SL
-    Spaded Repair Cost : 6844 / 8139 / 10252 SL
+Lorraine (FR) :
+    Rank 5
+    BR : 6.7
+    Located after the Paris
+    Stock Repair Cost : 22910 / 32110 SL
+    Spaded Repair Cost : 28774 / 40330 SL
 
 ----------------------------------------------------------------------------------------------------
 
 Tech-tree changes:
 
-␗PT-76 (CN) :
+BTR-80A (USSR) :
+    Rank : 4 -> 5
+    Located after the PT-76B -> Located after the SU-100P
+
+ASU-85 (USSR) :
+    Located after the BTR-80A -> Located after the PT-76B
+
+BMP-1 (USSR) :
+    Located after the SU-100P -> Located after the BTR-80A
+
+Vijayanta (UK) :
     Hidden for everyone -> Shown for everyone
-    Located after the Object 211, but without connection (in a folder with it) -> Located after the Object 211
+    8200 GE premium -> 8560 GE premium
 
-Type 63-I (CN) :
-    Located after the cn_76_211_group folder -> Located after the ␗PT-76
+Type 87 RCV (P) (JP) :
+    Rank : 4 -> 5
+    Located after the ▅M4A3 (76) W -> Located after the Type 60 ATM
 
-Chacal (FR) :
-    First in line before the Vautour -> First in line before the Milan
+▅M41A1 (JP) :
+    Located after the Type 87 RCV (P) -> Located after the ▅M4A3 (76) W
 
-Vautour (FR) :
-    Located after the Chacal -> Located after the Bourrasque
+Type 87 RCV (JP) :
+    Located after the Type 60 ATM -> Located after the Type 87 RCV (P)
 
-Bourrasque (FR) :
-    First in line before the Milan -> First in line before the Vautour
-
-Milan (FR) :
-    Located after the Bourrasque -> Located after the Chacal
+VBCI-2 (MCT30) (FR) :
+    Hidden for everyone -> Shown for everyone
 
 ----------------------------------------------------------------------------------------------------
 
