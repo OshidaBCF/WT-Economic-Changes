@@ -1,5 +1,10 @@
 Statcard changes :
 
-Lancaster MR.7 :
-    Crew : 4 -> 6
+F-100D, ▄F-100D :
+    Max Speed : 405.0 -> 398.0 m/s
+    Climb Speed : 79.2 -> 105.0 s
+
+␗F-100A :
+    Max Speed : 380.6 -> 405.0 m/s
+    Climb Speed : 121.0 -> 132.0 s
 
