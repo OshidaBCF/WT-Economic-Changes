@@ -2,64 +2,22 @@
 
 New vehicles:
 
-GL.832HY (FR) :
+Leopard (FR) :
     Rank 1
-    BR : 1.3
-    Hidden
-    Non-researchable vehicle
-    Stock Repair Cost : 230 / 420 / 130 SL
-    Spaded Repair Cost : 283 / 517 / 160 SL
-
-▄PBY-5A Late (FR) :
-    Rank 1
-    BR : 1.7 / 1.7 / 2.0
-    550 GE premium
-    Repair Cost : 180 / 230 / 180 SL
-
-Paris (FR) :
-    Rank 5
-    BR : 6.3
-    Located after the Colbert
-    Stock Repair Cost : 18220 / 24340 SL
-    Spaded Repair Cost : 22884 / 30571 SL
-
-Lorraine (FR) :
-    Rank 5
-    BR : 6.7
-    Located after the Paris
-    Stock Repair Cost : 22910 / 32110 SL
-    Spaded Repair Cost : 28774 / 40330 SL
+    BR : 3.7
+    Located after the Bourrasque
+    Stock Repair Cost : 200 / 260 SL
+    Spaded Repair Cost : 256 / 333 SL
 
 ----------------------------------------------------------------------------------------------------
 
 Tech-tree changes:
 
-BTR-80A (USSR) :
-    Rank : 4 -> 5
-    Located after the PT-76B -> Located after the SU-100P
+Bourrasque (FR) :
+    First in line before the Vautour -> First in line before the Leopard
 
-ASU-85 (USSR) :
-    Located after the BTR-80A -> Located after the PT-76B
-
-BMP-1 (USSR) :
-    Located after the SU-100P -> Located after the BTR-80A
-
-Vijayanta (UK) :
-    Hidden for everyone -> Shown for everyone
-    8200 GE premium -> 8560 GE premium
-
-Type 87 RCV (P) (JP) :
-    Rank : 4 -> 5
-    Located after the ▅M4A3 (76) W -> Located after the Type 60 ATM
-
-▅M41A1 (JP) :
-    Located after the Type 87 RCV (P) -> Located after the ▅M4A3 (76) W
-
-Type 87 RCV (JP) :
-    Located after the Type 60 ATM -> Located after the Type 87 RCV (P)
-
-VBCI-2 (MCT30) (FR) :
-    Hidden for everyone -> Shown for everyone
+Vautour (FR) :
+    Located after the Bourrasque -> Located after the Leopard
 
 ----------------------------------------------------------------------------------------------------
 

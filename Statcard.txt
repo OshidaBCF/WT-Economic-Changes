@@ -1,20 +1,5 @@
 Statcard changes :
 
-F-100D, ▄F-100D :
-    Max Speed : 1458.0 -> 1432.8 km/h
-    Climb Speed : 79.2 -> 105.0 m/s
-
-␗F-100A :
-    Max Speed : 1370.16 -> 1458.0 km/h
-    Climb Speed : 121.0 -> 132.0 m/s
-
-Object 435 :
-    Hull Thickness : [100.0, 80.0, 45.0] -> [120.0, 80.0, 40.0] mm
-    Turret Thickness : [200.0, 160.0, 66.0] -> [250.0, 160.0, 65.0] mm
-
-IJN Ise :
-    Citadel Thickness : [224.0, 299.0, 32.0] -> [200.0, 300.0, 32.0] mm
-
-Jeanne d'Arc :
-    Max Speed : 50.04 -> 51.48 km/h
+Lancaster MR.7 :
+    Crew : 6 -> 4
 
