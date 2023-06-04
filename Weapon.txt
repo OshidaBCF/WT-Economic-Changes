@@ -223,7 +223,7 @@ Kurnass :
 
 Kurnass 2000 :
     New loadouts :
-        6x Phyton 3
+        2x Phyton 3
     Loadouts changed :
         x Empty (stock) -> 1x Drop tank (stock) :
             Added Weapons of the loadout/option :
@@ -286,7 +286,7 @@ Kfir C.2 :
         4x 500 lb + 2x AIM-9G + 16x Zuni Mk32
         4x 500 lb + 2x AIM-9G + 76x FFAR Mighty Mouse
         8x 750 lb M117 + 2x AIM-9G
-        4x 1000 lb + 2x AIM-9G
+        8x 1000 lb + 2x AIM-9G
         2x 2000 lb + 2x AIM-9G
     Custom loadout changes :
         Slot 1 changed :
