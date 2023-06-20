@@ -1,23 +1,6 @@
 ----------------------------------------------------------------------------------------------------
 
-New vehicles:
-
-Leopard (FR) :
-    Rank 1
-    BR : 3.7
-    Located after the Bourrasque
-    Stock Repair Cost : 200 / 260 SL
-    Spaded Repair Cost : 256 / 333 SL
-
-----------------------------------------------------------------------------------------------------
-
 Tech-tree changes:
-
-Bourrasque (FR) :
-    First in line before the Vautour -> First in line before the Leopard
-
-Vautour (FR) :
-    Located after the Bourrasque -> Located after the Leopard
 
 ----------------------------------------------------------------------------------------------------
 
