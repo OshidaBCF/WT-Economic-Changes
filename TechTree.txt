@@ -2,18 +2,24 @@
 
 Tech-tree changes:
 
-F3F-2 (US) :
-    Located after the BF2C-1, but without connection -> Located after the BF2C-1
+J2M4 Kai (JP) :
+    Hidden for everyone -> Shown for everyone
 
-SARC MkVI (2pdr) (UK) :
-    Located after the SARC MkIVa, but without connection -> Located after the SARC MkIVa
+Type 74 (G) (JP) :
+    Hidden for everyone -> Shown for everyone
+    Event or pack premium -> 8730 GE premium
 
-␗PT-76 (CN) :
-    Shown for everyone -> Hidden for everyone
-    Located after the Object 211 -> Located after the Object 211, but without connection (in a folder with it)
+IJN Kiyoshimo (JP) :
+    Hidden for everyone -> Shown for everyone
+    Event or pack premium -> 4880 GE premium
 
-Type 63-I (CN) :
-    Located after the ␗PT-76 -> Located after the Object 211 folder
+J29D (SWE) :
+    Hidden for everyone -> Shown for everyone
+    Event or pack premium -> 8910 GE premium
+
+J35A (SWE) :
+    Shown on PS4, PS5, Xbox One, Xbox One S/X, hidden everywhere else -> Shown for everyone
+    Event or pack premium -> 9090 GE premium
 
 ----------------------------------------------------------------------------------------------------
 
