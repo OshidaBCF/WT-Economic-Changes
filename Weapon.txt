@@ -1,30 +1,1400 @@
 Weapon changes :
 
-AV-8A, ◄MiG-21 SPS-K, AJ37, AJS37 :
+A2D-1 :
+    Added custom loadouts
+    New loadouts :
+        1x 4000 lb
     Loadouts changed :
-        1x Flares/Chaff :
-            Removed Required modification Flares/Chaff
-            Now available stock
+        20x 250 lb (stock) -> 22x 250 lb (stock) :
+            Reward multiplier changed : 0.77 -> 0.72
+            Total damage changed : 33700 -> 37070
+            Added Weapons of the loadout/option :
+                Added 22x 250 lb (stock)
+        10x 500 lb -> 12x 500 lb :
+            Reward multiplier changed : 0.82 -> 0.73
+            Total damage changed : 30590 -> 36708
+            Removed Required modification M64
+            Added Weapons of the loadout/option :
+                Added 12x 500 lb
+        2x 1000 lb -> 3x 1000 lb :
+            Total damage changed : 11576 -> 17364
+            Removed Required modification M65
+            Added Weapons of the loadout/option :
+                Added 3x 1000 lb
+        2x 2000 lb -> 3x 2000 lb :
+            Reward multiplier changed : 0.99 -> 0.75
+            Total damage changed : 23300 -> 34950
+            Removed Required modification M66
+            Added Weapons of the loadout/option :
+                Added 3x 2000 lb
+        20x HVAR -> 22x HVAR :
+            Removed Required modification FRC mk.2
+            Added Weapons of the loadout/option :
+                Added 22x HVAR
+        2x Mk.13/44 :
+            Removed Required modification Mk.13
+            Added Weapons of the loadout/option :
+                Added 2x Mk.13/44
+    Removed loadouts :
+        2x 2000 lb + 8x 500 lb
+        2x 2000 lb + 20x HVAR
 
-◄Tornado IDS ASSTA1, MiG-23M, Buccaneer S.2, Tornado GR.1, ▄Tornado IDS (1995) :
-    Loadouts changed :
-        1x Flares/Chaff large :
-            Removed Required modification Flares/Chaff
-            Now available stock
-
-◄Tornado IDS :
-    Loadouts changed :
-        1x Flares/Chaff large :
-            Removed Required modification Flares/Chaff
-            Now available stock
+A-10A, A-10A Late :
+    New loadouts :
+        6x us_2000lb_mk_84_ldgp_air
     Custom loadout changes :
+        Slot 3 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
         Slot 4 changed :
-            Option changed : 1x AS.34, can't be equipped together with 2x 1000 lb on slots 5, 7, 8 or 1x 1000 lb on slots 5, 7, 8 or 1x 1000 lb on slot 5 -> 1x AS.34, can't be equipped together with 2x 1000 lb on slots 5, 7, 8 or 1x 1000 lb on slots 5, 7, 8 or 1x 1000 lb on slot 5 or 1x Mk 83 AIR on slot 5 or 2x Mk 83 AIR on slot 5
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 5 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 6 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 7 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
         Slot 8 changed :
-            Option changed : 1x AS.34, can't be equipped together with 2x 1000 lb on slots 4, 5, 7 or 1x 1000 lb on slots 4, 5, 7 or 1x 1000 lb on slot 7 -> 1x AS.34, can't be equipped together with 2x 1000 lb on slots 4, 5, 7 or 1x 1000 lb on slots 4, 5, 7 or 1x 1000 lb on slot 7 or 1x Mk 83 AIR on slot 7 or 2x Mk 83 AIR on slot 7
+            Added 1x us_2000lb_mk_84_ldgp_air option
 
-Po-2 :
+A-4B :
+    New loadouts :
+        1x us_2000lb_mk_84_ldgp_air
+    Custom loadout changes :
+        Slot 2 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+
+A-4E Early :
+    New loadouts :
+        1x us_2000lb_mk_84_ldgp_air
+    Custom loadout changes :
+        Slot 3 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+
+A-6E TRAM :
+    New loadouts :
+        5x us_2000lb_mk_84_ldgp_air
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 2 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 3 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 4 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 5 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+
+A-7D, A-7E, A-7K :
+    New loadouts :
+        6x us_2000lb_mk_84_ldgp_air
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 2 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 3 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 6 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 7 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 8 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+
+A-1H :
+    Custom loadout changes :
+        Slot 2 changed :
+            Added 1x 500 lb option
+
+F-105D :
+    New loadouts :
+        3x us_2000lb_mk_84_ldgp_air
+    Custom loadout changes :
+        Slot 2 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 3 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 4 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+
+F-4C Phantom II, F-4E Phantom II :
+    New loadouts :
+        3x us_2000lb_mk_84_ldgp_air
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 6 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 11 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+
+F-5E :
+    New loadouts :
+        1x us_2000lb_mk_84_ldgp_air
     Custom loadout changes :
         Slot 4 changed :
-            Option changed : 2x FAB-50 (stock), can't be equipped together with 1x FAB-100 on slots 3, 5 -> 2x FAB-50 (stock)
+            Added 1x us_2000lb_mk_84_ldgp_air option
+
+F-8E :
+    New loadouts :
+        2x us_2000lb_mk_84_ldgp_air
+    Loadouts changed :
+        2x AIM-9D + 4x Zuni Mk32 :
+            Weapons of the loadout/option changed :
+                AIM-9D changed : 1x -> 2x
+                Removed 1x AIM-9D (stock)
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 3 changed :
+            Option changed : 1x AIM-9D (stock) + 2x Zuni Mk32 (stock) -> 1x AIM-9D + 2x Zuni Mk32
+        Slot 4 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+
+F4U-4 :
+    Added custom loadouts
+    New loadouts :
+        2x 250 lb
+        2x 500 lb
+    Loadouts changed :
+        8x 100 lb + 2x 500 lb -> 8x 100 lb :
+            Total damage changed : 14694 -> 8576
+            Removed Required modification FMBC mk.1
+            Added Weapons of the loadout/option :
+                Added 8x 100 lb
+        2x 1000 lb :
+            Removed Required modification FLBC mk.1
+            Added Weapons of the loadout/option :
+                Added 2x 1000 lb
+        8x HVAR :
+            Removed Required modification FRC mk.2
+            Added Weapons of the loadout/option :
+                Added 8x HVAR
+    Removed loadouts :
+        4x 100 lb + 2x 250 lb + 2x 500 lb
+
+F4U-4B, F4U-4B VMF-214 :
+    Added custom loadouts
+    New loadouts :
+        2x 500 lb
+    Loadouts changed :
+        4x 250 lb + 2x 500 lb -> 4x 250 lb :
+            Total damage changed : 12858 -> 6740
+            Removed Required modification FMBC mk.1
+            Added Weapons of the loadout/option :
+                Added 4x 250 lb
+        2x 1000 lb :
+            Removed Required modification FLBC mk.1
+            Added Weapons of the loadout/option :
+                Added 2x 1000 lb
+        8x HVAR :
+            Removed Required modification FRC mk.2
+            Added Weapons of the loadout/option :
+                Added 8x HVAR
+
+F6F-5, ▄Hellcat Mk II, ▄F6F-5, ▄F6F-5N :
+    Added custom loadouts
+    New loadouts :
+        2x 500 lb
+        1x 2000 lb
+        1x AN-Mk 1
+    Removed loadouts :
+        2x 1000 lb + 6x HVAR
+
+F6F-5N :
+    Added custom loadouts
+    New loadouts :
+        2x 500 lb
+    Removed loadouts :
+        2x 1000 lb + 6x HVAR
+
+F8F-1, F8F-1B :
+    Added custom loadouts
+    New loadouts :
+        2x 500 lb
+    Loadouts changed :
+        4x 12.7 mm M2 Browning machine gun (secondary) :
+            Removed Required modification DGP-1
+            Added Weapons of the loadout/option :
+                Added 4x 12.7 mm M2 Browning machine gun (secondary)
+        3x 1000 lb :
+            Removed Required modification FLBC mk.1
+            Added Weapons of the loadout/option :
+                Added 3x 1000 lb
+        4x HVAR :
+            Removed Required modification FRC mk.2
+            Added Weapons of the loadout/option :
+                Added 4x HVAR
+        2x Tiny Tim :
+            Removed Required modification LFRC mk.12
+            Added Weapons of the loadout/option :
+                Added 2x Tiny Tim
+    Removed loadouts :
+        1x 1000 lb + 4x HVAR
+        1x 1000 lb
+        1x 1000 lb + 2x 500 lb
+
+F-14A Early :
+    New loadouts :
+        4x us_2000lb_mk_84_ldgp_air
+    Custom loadout changes :
+        Slot 3 changed :
+            Added 2x us_2000lb_mk_84_ldgp_air option
+        Slot 4 changed :
+            Added 2x us_2000lb_mk_84_ldgp_air option
+
+F-14B :
+    New loadouts :
+        4x us_2000lb_mk_84_ldgp_air
+    Custom loadout changes :
+        Slot 3 changed :
+            Option changed : 2x AIM-7M, can't be equipped together with 1x AIM-54A on slot 5 or 1x AIM-54C on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 or 1x 2000 lb on slot 5 or 1x GBU-10 Paveway II on slot 5 or 1x Mk 82 AIR on slot 5 or 1x Mk 83 AIR on slot 5 or 1x GBU-24 Paveway III on slot 5 -> 2x AIM-7M, can't be equipped together with 1x AIM-54A on slot 5 or 1x AIM-54C on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 or 1x 2000 lb on slot 5 or 1x GBU-12 Paveway II on slot 5 or 1x GBU-16 Paveway II on slot 5 or 1x GBU-10 Paveway II on slot 5 or 1x Mk 82 AIR on slot 5 or 1x Mk 83 AIR on slot 5 or 1x GBU-24 Paveway III on slot 5
+            Added 2x us_2000lb_mk_84_ldgp_air option
+        Slot 4 changed :
+            Added 2x us_2000lb_mk_84_ldgp_air option
+
+F-16A :
+    New loadouts :
+        4x us_2000lb_mk_84_ldgp_air
+    Custom loadout changes :
+        Slot 3 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 4 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 6 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+        Slot 7 changed :
+            Added 1x us_2000lb_mk_84_ldgp_air option
+
+P-47D-25, P-47M-1-RE, ⋠P-47M-1-RE, ␗P-47D-30, ▄P-47D-30 :
+    Added custom loadouts
+    New loadouts :
+        3x 250 lb
+        3x 500 lb
+    Removed loadouts :
+        1x 500 lb
+        1x 500 lb + 10x HVAR
+        2x 1000 lb + 1x 500 lb
+        2x 1000 lb + 10x HVAR
+        2x 1000 lb + 1x 500 lb + 10x HVAR
+
+P-47D-28 :
+    Added custom loadouts
+    New loadouts :
+        3x 250 lb
+        3x 500 lb
+    Removed loadouts :
+        1x 500 lb
+        1x 500 lb + 10x HVAR
+        2x 500 lb + 6x M8
+        3x 500 lb + 10x HVAR
+        2x 1000 lb + 1x 500 lb
+        2x 1000 lb + 1x 500 lb + 10x HVAR
+        2x 1000 lb + 10x HVAR
+
+P-47D-22-RE, ▄Thunderbolt Mk.1 :
+    Added custom loadouts
+    New loadouts :
+        3x 250 lb
+        3x 500 lb
+    Removed loadouts :
+        1x 500 lb
+        1x 500 lb + 6x M8
+        2x 1000 lb + 1x 500 lb
+
+P-51H-5-NA :
+    Custom loadout changes :
+        Slot 2 changed :
+            Option changed : 3x M8 -> 3x M8, can't be equipped together with 1x Mk 78 on slot 3
+        Slot 7 changed :
+            Option changed : 3x M8 -> 3x M8, can't be equipped together with 1x Mk 78 on slot 6
+
+PBY-5 Catalina :
+    Added custom loadouts
+    New loadouts :
+        x Empty (stock)
+    Loadouts changed :
+        16x 100 lb (stock) :
+            Added Weapons of the loadout/option :
+                Added 16x 100 lb (stock)
+        4x 500 lb :
+            Removed Required modification MBC-5
+            Added Weapons of the loadout/option :
+                Added 4x 500 lb
+        4x 1000 lb :
+            Removed Required modification LBC-5
+            Added Weapons of the loadout/option :
+                Added 4x 1000 lb
+        4x Mk 13 Mod 0 :
+            Removed Required modification Mk 13 Mod 0
+            Added Weapons of the loadout/option :
+                Added 4x Mk 13 Mod 0
+        2x Mk.13 :
+            Removed Required modification LTC-5
+            Added Weapons of the loadout/option :
+                Added 2x Mk.13
+        2x Mk.13/44 :
+            Removed Required modification LTC-5 + Improved torpedo
+            Added Weapons of the loadout/option :
+                Added 2x Mk.13/44
+
+PBY-5A Catalina, ▂PBY-5A Catalina, ▄Catalina Mk IIIa :
+    Added custom loadouts
+    Loadouts changed :
+        16x 100 lb (stock) :
+            Added Weapons of the loadout/option :
+                Added 16x 100 lb (stock)
+        4x 500 lb :
+            Removed Required modification MBC-5
+            Added Weapons of the loadout/option :
+                Added 4x 500 lb
+        4x 1000 lb :
+            Removed Required modification LBC-5
+            Added Weapons of the loadout/option :
+                Added 4x 1000 lb
+        4x Mk 13 Mod 0 :
+            Removed Required modification Mk 13 Mod 0
+            Added Weapons of the loadout/option :
+                Added 4x Mk 13 Mod 0
+        2x Mk.13 :
+            Removed Required modification LTC-5
+            Added Weapons of the loadout/option :
+                Added 2x Mk.13
+        2x Mk.13/44 :
+            Removed Required modification LTC-5 + Improved torpedo
+            Added Weapons of the loadout/option :
+                Added 2x Mk.13/44
+
+PV-2D :
+    Added custom loadouts
+    Loadouts changed :
+        4x 12.7 mm M2 Browning machine gun (secondary) :
+            Removed Required modification DGP-1
+            Added Weapons of the loadout/option :
+                Added 4x 12.7 mm M2 Browning machine gun (secondary)
+        6x 250 lb (stock) :
+            Added Weapons of the loadout/option :
+                Added 6x 250 lb (stock)
+        6x 500 lb + 8x HVAR -> 6x 500 lb :
+            Removed Required modification SBC-17
+            Added Weapons of the loadout/option :
+                Added 6x 500 lb
+        6x 1000 lb + 8x HVAR -> 6x 1000 lb :
+            Removed Required modification LBC-25
+            Added Weapons of the loadout/option :
+                Added 6x 1000 lb
+        8x HVAR :
+            Removed Required modification FRC mk.5
+            Added Weapons of the loadout/option :
+                Added 8x HVAR
+        8x HVAR + 6x Mk 13 Mod 0 -> 6x Mk 13 Mod 0 :
+            Removed Required modification Mk 13 Mod 0
+            Added Weapons of the loadout/option :
+                Added 6x Mk 13 Mod 0
+        8x HVAR + 2x Tiny Tim (stock) -> 2x Tiny Tim (stock) :
+            Added Weapons of the loadout/option :
+                Added 2x Tiny Tim (stock)
+        1x Mk.13/44 :
+            Removed Required modification ITC mk.III
+            Added Weapons of the loadout/option :
+                Added 1x Mk.13/44
+    Removed loadouts :
+        6x 250 lb + 8x HVAR
+        8x HVAR + 1x Mk.13/44
+
+SB2C-4 :
+    Added custom loadouts
+    New loadouts :
+        4x 250 lb (stock)
+        1x AN-Mk 1
+    Loadouts changed :
+        4x 12.7 mm M2 Browning machine gun (secondary) :
+            Removed Required modification DGP-1
+            Added Weapons of the loadout/option :
+                Added 4x 12.7 mm M2 Browning machine gun (secondary)
+        8x HVAR :
+            Removed Required modification FRC mk.2
+            Added Weapons of the loadout/option :
+                Added 8x HVAR
+    Removed loadouts :
+        2x 250 lb (stock)
+        2x 500 lb
+        1x 1000 lb + 2x 500 lb
+
+◄F-4F Early, ◄F-4F :
+    New loadouts :
+        24x 250 lb
+
+Fw 190 D-12, Fw 190 D-9 :
+    Added custom loadouts
+    Removed loadouts :
+        8x SC50
+        1x SC250 + 4x SC50
+        1x SC500 + 4x SC50
+
+Fw 190 D-13 :
+    Removed loadouts :
+        1x C 250
+        1x C 500
+        4x SC50
+        8x SC50
+        1x SC250 + 4x SC50
+        1x SC250
+        1x SC500
+        1x SC500 + 4x SC50
+
+Fw 190 F-8 :
+    Added custom loadouts
+    Loadouts changed :
+        2x 30 mm MK 103 cannon (secondary) :
+            Removed Required modification R3 modification
+            Added Weapons of the loadout/option :
+                Added 2x 30 mm MK 103 cannon (secondary)
+        1x C 250 :
+            Removed Required modification Flamm C 250
+            Added Weapons of the loadout/option :
+                Added 1x C 250
+        1x C 500 :
+            Removed Required modification Flamm C 500
+            Added Weapons of the loadout/option :
+                Added 1x C 500
+        14x Pb2 :
+            Removed Required modification R4/M HL modification
+            Added Weapons of the loadout/option :
+                Added 14x Pb2
+        4x SC50 (stock) :
+            Added Weapons of the loadout/option :
+                Added 4x SC50 (stock)
+        8x SC50 (stock) :
+            Added Weapons of the loadout/option :
+                Added 8x SC50 (stock)
+        1x SC250 (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x SC250 (stock)
+        1x SC500 :
+            Removed Required modification SC 500
+            Added Weapons of the loadout/option :
+                Added 1x SC500
+        1x SC1000 :
+            Removed Required modification C 500/SC 50
+            Added Weapons of the loadout/option :
+                Added 1x SC1000
+    Removed loadouts :
+        1x SC250 + 4x SC50 (stock)
+        1x SC500 + 4x SC50
+        1x SC1000 + 4x SC50
+
+◌Hunter F.58 :
+    Custom loadout changes :
+        Slot 5 changed :
+            Option changed : 1x Drop tank (stock) -> 1x Drop tank (stock), must be equipped together with 1x Drop tank on slot 8
+
+Ju 87 B-2 :
+    Added custom loadouts
+    New loadouts :
+        4x SC50
+    Loadouts changed :
+        1x C 250 :
+            Removed Required modification Flamm C 250
+            Added Weapons of the loadout/option :
+                Added 1x C 250
+        1x C 500 :
+            Removed Required modification Flamm C 500
+            Added Weapons of the loadout/option :
+                Added 1x C 500
+        1x SC250 + 4x SC50 :
+            Removed Required modification SC 50
+            Added Weapons of the loadout/option :
+                Added 4x SC50
+                Added 1x SC250 (stock)
+        1x SC250 (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x SC250 (stock)
+        1x SC500 (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x SC500 (stock)
+
+Ju 87 D-3 :
+    Added custom loadouts
+    New loadouts :
+        4x SC50
+    Loadouts changed :
+        3x C 250 :
+            Removed Required modification Flamm C 250
+            Added Weapons of the loadout/option :
+                Added 3x C 250
+        3x C 500 :
+            Removed Required modification Flamm C 500
+            Added Weapons of the loadout/option :
+                Added 3x C 500
+        1x SC250 :
+            Removed Required modification SC 250
+            Added Weapons of the loadout/option :
+                Added 2x SC250
+                Added 1x SC250
+        2x SC250 + 1x SC500 :
+            Removed Required modification SC 250
+            Added Weapons of the loadout/option :
+                Added 2x SC250
+                Added 1x SC500
+        2x SC500 :
+            Removed Required modification SC 500
+            Added Weapons of the loadout/option :
+                Added 2x SC500
+                Added 1x SC500
+        1x SC1000 :
+            Removed Required modification SC 1000
+            Added Weapons of the loadout/option :
+                Added 1x SC1000
+    Removed loadouts :
+        1x C 250
+        1x C 500
+        1x SC250 (stock)
+        1x SC250 + 4x SC50
+        2x SC250 + 1x SC1000
+        1x SC500 (stock)
+        1x SC500 + 4x SC50
+        1x SC1000 + 4x SC50
+
+Ju 87 D-5 :
+    Added custom loadouts
+    New loadouts :
+        4x SC50
+    Loadouts changed :
+        12x 7.92 mm MG 81 machine gun (secondary) :
+            Removed Required modification WB 81B
+            Added Weapons of the loadout/option :
+                Added 12x 7.92 mm MG 81 machine gun (secondary)
+        4x 20 mm MG 151 cannon (secondary) :
+            Removed Required modification WB 151
+            Added Weapons of the loadout/option :
+                Added 4x 20 mm MG 151 cannon (secondary)
+        3x C 250 :
+            Removed Required modification Flamm C 250
+            Added Weapons of the loadout/option :
+                Added 3x C 250
+        3x C 500 :
+            Removed Required modification Flamm C 500
+            Added Weapons of the loadout/option :
+                Added 3x C 500
+        1x SC250 :
+            Removed Required modification SC 250
+            Added Weapons of the loadout/option :
+                Added 2x SC250
+                Added 1x SC250
+        2x SC250 + 1x SC500 :
+            Removed Required modification SC 250
+            Added Weapons of the loadout/option :
+                Added 2x SC250
+                Added 1x SC500 (stock)
+        1x SC500 (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x SC500 (stock)
+    Removed loadouts :
+        1x C 250
+        1x C 500
+        1x SC250 (stock)
+        1x SC250 + 4x SC50
+        1x SC500 + 4x SC50
+
+Ju 87 R-2, Ju 87 R-2 Libya :
+    Added custom loadouts
+    Loadouts changed :
+        1x C 500 (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x C 500 (stock)
+        1x SC250 (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x SC250 (stock)
+        1x SC500 (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x SC500 (stock)
+        1x SC1000 (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x SC1000 (stock)
+
+◊MiG-23MF :
+    Loadouts changed :
+        1x Flares/Chaff large :
+            Removed Required modification Flares/Chaff
+            Now available stock
+
+◄Sea Hawk Mk.100 :
+    Added custom loadouts
+    New loadouts :
+        10x AP Mk II
+        8x RP-3
+    Loadouts changed :
+        2x 500 lb :
+            Removed Required modification 500 LB
+            Added Weapons of the loadout/option :
+                Added 2x 500 lb
+        4x 500 lb -> 2x 500 lb :
+            Removed Required modification 4 500 LB
+            Added Weapons of the loadout/option :
+                Added 2x 500 lb
+                Added 2x 500 lb
+        2x 1000 lb :
+            Removed Required modification 1000 LB
+            Added Weapons of the loadout/option :
+                Added 2x 1000 lb
+        2x AIM-9B :
+            Removed Required modification Mk.101
+            Added Weapons of the loadout/option :
+                Added 2x AIM-9B
+        30x AP Mk II :
+            Removed Required modification 25 lb A.P. Mark II
+            Added Weapons of the loadout/option :
+                Added 30x AP Mk II
+        8x RP-3 -> 16x RP-3 :
+            Removed Required modification 60 lb S.A.P. Mark I
+            Added Weapons of the loadout/option :
+                Added 16x RP-3
+    Removed loadouts :
+        2x 500 lb + 10x AP Mk II
+        2x 500 lb + 30x AP Mk II
+        2x 500 lb + 8x RP-3
+
+I-185 (M-71) :
+    Added custom loadouts
+    New loadouts :
+        4x ZAB-50FP
+    Removed loadouts :
+        2x FAB-100
+
+I-185 (M-82) :
+    Added custom loadouts
+    Removed loadouts :
+        2x FAB-100
+
+IL-2 (1941) :
+    Loadouts changed :
+        4x FAB-100 + 8x RBS-132 -> 4x FAB-50 + 8x RBS-132 :
+            Total damage changed : 5572 -> 4544
+            Weapons of the loadout/option changed :
+                Removed 4x FAB-100 (stock)
+                Added 4x FAB-50 (stock)
+
+MiG-17, MiG-17AS, J-4 :
+    Loadouts changed :
+        2x OFAB-250 :
+            Required modification changed : BD-2-48 -> D-4-50
+
+MiG-23M, MiG-23MLD :
+    Custom loadout changes :
+        Slot 4 changed :
+            Option changed : 1x Delta-NG -> 1x Delta-NG, must be equipped together with 1x Kh-23M on slots 1, 5
+
+Su-6 (AM-42) :
+    Custom loadout changes :
+        Slot 3 changed :
+            Option changed : 1x 37 mm NS-37 cannon (stock), must be equipped together with 1x 37 mm NS-37 cannon on slot 5 -> 1x 37 mm NS-37 cannon (stock), can't be equipped together with 1x FAB-100 on slots 2, 6 or 1x FAB-250sv on slots 2, 6 or 1x FAB-100sv on slot 4, must be equipped together with 1x 37 mm NS-37 cannon on slot 5
+        Slot 5 changed :
+            Option changed : 1x 37 mm NS-37 cannon (stock), must be equipped together with 1x 37 mm NS-37 cannon on slot 3 -> 1x 37 mm NS-37 cannon (stock), can't be equipped together with 1x FAB-100 on slots 6, 2 or 1x FAB-250sv on slots 6, 2, must be equipped together with 1x 37 mm NS-37 cannon on slot 3
+
+Su-25, Su-25K :
+    Custom loadout changes :
+        Slot 6 changed :
+            Option changed : 1x Drop tank (stock) -> 1x Drop tank (stock), must be equipped together with 1x Drop tank on slot 5
+
+Su-25T :
+    New loadouts :
+        2x R-73
+    Custom loadout changes :
+        Slot 2 changed :
+            Added 1x R-73 option
+        Slot 7 changed :
+            Option changed : 1x Drop tank (stock) -> 1x Drop tank (stock), must be equipped together with 1x Drop tank on slot 5
+        Slot 10 changed :
+            Added 1x R-73 option
+
+Su-39 :
+    New loadouts :
+        1x Kopyo-25 + 2x R-73
+    Custom loadout changes :
+        Slot 2 changed :
+            Added 1x R-73 option
+        Slot 7 changed :
+            Option changed : 1x Drop tank (stock) -> 1x Drop tank (stock), must be equipped together with 1x Drop tank on slot 5
+        Slot 10 changed :
+            Added 1x R-73 option
+
+Tu-1 :
+    Added custom loadouts
+    Loadouts changed :
+        2x 45-36NU :
+            Removed Required modification PKD-2
+            Added Weapons of the loadout/option :
+                Added 2x 45-36NU
+        6x FAB-250M-44 :
+            Removed Required modification PKD-2
+            Added Weapons of the loadout/option :
+                Added 6x FAB-250M-44
+        3x FAB-500M-44 :
+            Removed Required modification PKD-2
+            Added Weapons of the loadout/option :
+                Added 3x FAB-500M-44
+        3x FAB-1000M-44 :
+            Removed Required modification PKD-2
+            Added Weapons of the loadout/option :
+                Added 3x FAB-1000M-44
+
+Beaufighter Mk X :
+    Added custom loadouts
+    Loadouts changed :
+        4x 250 lb :
+            Removed Required modification 250 LB
+            Added Weapons of the loadout/option :
+                Added 4x 250 lb
+        4x 500 lb :
+            Removed Required modification 500 LB
+            Added Weapons of the loadout/option :
+                Added 4x 500 lb
+        2x 1000 lb :
+            Removed Required modification 1000 LB
+            Added Weapons of the loadout/option :
+                Added 2x 1000 lb
+        1x Mk.XII :
+            Removed Required modification TSC mk.II
+            Added Weapons of the loadout/option :
+                Added 1x Mk.XII
+        8x RP-3 :
+            Removed Required modification RSC mk.II
+            Added Weapons of the loadout/option :
+                Added 8x RP-3
+    Removed loadouts :
+        2x 250 lb + 2x 500 lb
+
+Firebrand TF Mk IV :
+    Added custom loadouts
+    Loadouts changed :
+        1x Mark XV :
+            Removed Required modification FTC mk.IV
+            Added Weapons of the loadout/option :
+                Added 1x Mark XV
+        8x RP-3 :
+            Removed Required modification HRC mk.8
+            Added Weapons of the loadout/option :
+                Added 8x RP-3
+        2x Uncle Tom :
+            Removed Required modification Uncle Tom
+            Added Weapons of the loadout/option :
+                Added 2x Uncle Tom
+    Removed loadouts :
+        2x 250 lb + 8x RP-3
+        1x 1000 lb + 2x 500 lb
+        1x 1000 lb + 2x 500 lb
+
+Sea Hawk FGA.6 :
+    Added custom loadouts
+    New loadouts :
+        10x AP Mk II
+        8x RP-3
+    Loadouts changed :
+        2x 500 lb :
+            Removed Required modification 500 LB
+            Added Weapons of the loadout/option :
+                Added 2x 500 lb
+        4x 500 lb -> 2x 500 lb :
+            Removed Required modification 4 500 LB
+            Added Weapons of the loadout/option :
+                Added 2x 500 lb
+                Added 2x 500 lb
+        2x 1000 lb :
+            Removed Required modification 1000 LB
+            Added Weapons of the loadout/option :
+                Added 2x 1000 lb
+        30x AP Mk II :
+            Removed Required modification 25 lb A.P. Mark II
+            Added Weapons of the loadout/option :
+                Added 30x AP Mk II
+        8x RP-3 -> 16x RP-3 :
+            Removed Required modification 60 lb S.A.P. Mark I
+            Added Weapons of the loadout/option :
+                Added 16x RP-3
+    Removed loadouts :
+        2x 500 lb + 10x AP Mk II
+        2x 500 lb + 30x AP Mk II
+        2x 500 lb + 8x RP-3
+
+F1M2 :
+    Loadouts changed :
+        2x 60 kg (stock) -> x Empty (stock) :
+            Removed Total damage 2216
+        x Empty (stock) -> 2x 60 kg (stock) :
+            Added Total damage 2216
+
+A-5C :
+    Loadouts changed :
+        1x 250-4 :
+            Total damage changed : 2463 -> 2544
+        4x 250-4 :
+            Total damage changed : 9852 -> 10176
+
+J-7D :
+    Loadouts changed :
+        1x 250-3 :
+            Total damage changed : 2529 -> 2071
+        2x 250-3 + 2x PL-5B :
+            Total damage changed : 5058 -> 4142
+        2x 250-3 + 2x 500-3 :
+            Total damage changed : 16938 -> 11720
+        2x 250-3 + 14x Type 90-1 HEAT :
+            Total damage changed : 5058 -> 4142
+        4x 250-3 :
+            Total damage changed : 10116 -> 8284
+        1x 250-4 :
+            Total damage changed : 2463 -> 2544
+        4x 250-4 :
+            Total damage changed : 9852 -> 10176
+        1x 500-3 :
+            Total damage changed : 5940 -> 3789
+        2x 500-3 :
+            Total damage changed : 11880 -> 7578
+        2x 500-3 + 8x Type 130-2 :
+            Total damage changed : 11880 -> 7578
+        2x 500-3 + 2x PL-7 :
+            Total damage changed : 11880 -> 7578
+        2x 500-3 + 14x Type 90-1 HEAT :
+            Total damage changed : 11880 -> 7578
+
+J-7E :
+    Loadouts changed :
+        1x 250-3 :
+            Total damage changed : 2529 -> 2071
+        4x 250-3 :
+            Total damage changed : 10116 -> 8284
+        1x 250-4 :
+            Total damage changed : 2463 -> 2544
+        4x 250-4 :
+            Total damage changed : 9852 -> 10176
+        1x 500-3 :
+            Total damage changed : 5940 -> 3789
+        2x 500-3 :
+            Total damage changed : 11880 -> 7578
+
+J-8B :
+    Loadouts changed :
+        1x 250-3 :
+            Total damage changed : 2529 -> 2071
+        2x 250-3 :
+            Total damage changed : 17837 -> 14747
+        2x 250-3 + 2x PL-5B :
+            Total damage changed : 17837 -> 14747
+        6x 250-3 + 4x PL-5B :
+            Total damage changed : 12779 -> 10605
+        6x 250-3 + 2x Aspide-1A + 2x PL-5B :
+            Total damage changed : 12779 -> 10605
+        6x 250-3 :
+            Total damage changed : 2529 -> 2071
+        1x 250-4 :
+            Total damage changed : 2463 -> 2544
+        6x 250-4 :
+            Total damage changed : 2463 -> 2544
+        8x 250-4 :
+            Total damage changed : 17471 -> 17924
+        1x 500-3 :
+            Total damage changed : 5940 -> 3789
+        2x 500-3 :
+            Total damage changed : 11880 -> 7578
+
+J-8F :
+    Loadouts changed :
+        1x 250-3 :
+            Total damage changed : 2529 -> 2071
+        2x 250-3 :
+            Total damage changed : 17837 -> 14747
+        6x 250-3 :
+            Total damage changed : 2529 -> 2071
+        1x 250-4 :
+            Total damage changed : 2463 -> 2544
+        6x 250-4 :
+            Total damage changed : 2463 -> 2544
+        8x 250-4 :
+            Total damage changed : 17471 -> 17924
+        1x 500-3 :
+            Total damage changed : 5940 -> 3789
+        2x 500-3 :
+            Total damage changed : 11880 -> 7578
+
+Q-5A :
+    Loadouts changed :
+        1x 250-3 :
+            Total damage changed : 2529 -> 2071
+        4x 250-3 :
+            Total damage changed : 10116 -> 8284
+        1x 250-4 :
+            Total damage changed : 2463 -> 2544
+        4x 250-4 :
+            Total damage changed : 9852 -> 10176
+
+Q-5L :
+    Loadouts changed :
+        1x 250-3 :
+            Total damage changed : 2529 -> 2071
+        8x 250-3 :
+            Removed Reward multiplier 0.91
+            Total damage changed : 20232 -> 16568
+        1x 250-4 :
+            Total damage changed : 2463 -> 2544
+        8x 250-4 :
+            Reward multiplier changed : 0.93 -> 0.91
+            Total damage changed : 19704 -> 20352
+        1x 500-3 :
+            Total damage changed : 5940 -> 3789
+        2x 500-3 :
+            Total damage changed : 11880 -> 7578
+
+G.91 Y :
+    Loadouts changed :
+        1x 500 lb :
+            Required modification changed : M82-2 + M82-> M82-2
+        2x 500 lb :
+            Weapons of the loadout/option changed :
+                Removed 2x 500 lb
+                Added 2x 500 lb
+        4x 500 lb -> 2x 500 lb :
+            Weapons of the loadout/option changed :
+                500 lb changed : 4x -> 2x
+                Added 2x 500 lb
+        1x Mk 82 Snakeye :
+            Required modification changed : M82-2 + M82-> M82-2
+        4x Mk 82 Snakeye -> 2x Mk 82 Snakeye :
+            Weapons of the loadout/option changed :
+                Mk 82 Snakeye changed : 4x -> 2x
+                Added 2x Mk 82 Snakeye
+    Custom loadout changes :
+        Slot 2 changed :
+            Option changed : 1x 500 lb -> 1x 500 lb
+            Option changed : 1x Mk 82 Snakeye -> 1x Mk 82 Snakeye
+        Slot 3 changed :
+            Option changed : 1x 500 lb -> 1x 500 lb
+            Option changed : 1x Mk 82 Snakeye -> 1x Mk 82 Snakeye
+
+G.91 YS :
+    Loadouts changed :
+        1x 500 lb :
+            Required modification changed : M82-2 + M82-> M82-2
+        2x 500 lb :
+            Weapons of the loadout/option changed :
+                Removed 2x 500 lb
+                Added 2x 500 lb
+        4x 500 lb -> 2x 500 lb :
+            Weapons of the loadout/option changed :
+                500 lb changed : 4x -> 2x
+                Added 2x 500 lb
+        1x 1000 lb :
+            Required modification changed : M83 -> M83-2
+        1x 1000 lb :
+            Required modification changed : M83-2 -> M83
+        2x 1000 lb :
+            Weapons of the loadout/option changed :
+                Removed 2x 1000 lb
+                Added 2x 1000 lb
+        1x Mk 82 Snakeye :
+            Required modification changed : M82-2 + M82-> M82-2
+        4x Mk 82 Snakeye -> 2x Mk 82 Snakeye :
+            Weapons of the loadout/option changed :
+                Mk 82 Snakeye changed : 4x -> 2x
+                Added 2x Mk 82 Snakeye
+    Custom loadout changes :
+        Slot 2 changed :
+            Option changed : 1x 1000 lb -> 1x 1000 lb
+        Slot 3 changed :
+            Option changed : 1x 500 lb -> 1x 500 lb
+            Option changed : 1x Mk 82 Snakeye -> 1x Mk 82 Snakeye
+            Option changed : 1x 1000 lb -> 1x 1000 lb
+        Slot 4 changed :
+            Option changed : 1x 500 lb -> 1x 500 lb
+            Option changed : 1x Mk 82 Snakeye -> 1x Mk 82 Snakeye
+            Option changed : 1x 1000 lb -> 1x 1000 lb
+        Slot 5 changed :
+            Option changed : 1x 1000 lb -> 1x 1000 lb
+
+IAR-81C :
+    Added custom loadouts
+    Loadouts changed :
+        2x SC50 (stock) :
+            Added Weapons of the loadout/option :
+                Added 2x SC50 (stock)
+        1x SC250 (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x SC250 (stock)
+        2x Wfr.Gr.21 :
+            Removed Required modification R6 modification
+            Added Weapons of the loadout/option :
+                Added 2x Wfr.Gr.21
+    Removed loadouts :
+        1x SC250 + 2x SC50 (stock)
+        1x SC250 + 2x Wfr.Gr.21
+
+▄Ju 87 D-3 :
+    Added custom loadouts
+    New loadouts :
+        4x GP 50T
+        4x GP 100T
+    Loadouts changed :
+        1x GP 250 (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x GP 250 (stock)
+        1x GP 500 :
+            Removed Required modification GP500
+            Added Weapons of the loadout/option :
+                Added 1x GP 500
+    Removed loadouts :
+        4x GP 50T + 1x GP 250
+        4x GP 50T + 1x GP 500
+        1x GP 250 + 4x GP 100T
+        1x GP 500 + 4x GP 100T
+
+▄Ju 87 R-2 :
+    Added custom loadouts
+    New loadouts :
+        4x GP 50T
+    Loadouts changed :
+        1x GP 250 (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x GP 250 (stock)
+        1x GP 500 :
+            Removed Required modification GP500
+            Added Weapons of the loadout/option :
+                Added 1x GP 500
+    Removed loadouts :
+        4x GP 50T + 1x GP 250
+        4x GP 50T + 1x GP 500
+
+Re.2005 serie 0 :
+    Added custom loadouts
+    Loadouts changed :
+        2x GP 50T :
+            Removed Required modification GP50
+            Added Weapons of the loadout/option :
+                Added 2x GP 50T
+        2x GP 100T :
+            Removed Required modification GP100
+            Added Weapons of the loadout/option :
+                Added 2x GP 100T
+        1x GP 250 :
+            Removed Required modification GP250
+            Added Weapons of the loadout/option :
+                Added 1x GP 250
+        1x GP 500 :
+            Removed Required modification GP500
+            Added Weapons of the loadout/option :
+                Added 1x GP 500
+    Removed loadouts :
+        2x GP 50T + 1x GP 250
+        2x GP 50T + 1x GP 500
+        1x GP 250 + 2x GP 100T
+        1x GP 500 + 2x GP 100T
+
+Ro.57 Quadriarma :
+    Added custom loadouts
+    New loadouts :
+        1x GP 250
+    Loadouts changed :
+        2x A.P 160 :
+            Removed Required modification GP250
+            Added Weapons of the loadout/option :
+                Added 2x A.P 160
+        2x GP 50T :
+            Removed Required modification GP50
+            Added Weapons of the loadout/option :
+                Added 2x GP 50T
+        2x GP 100T :
+            Removed Required modification GP100
+            Added Weapons of the loadout/option :
+                Added 2x GP 100T
+        1x GP 500 :
+            Removed Required modification GP500
+            Added Weapons of the loadout/option :
+                Added 1x GP 500
+        2x SAP 100M :
+            Removed Required modification GP100
+            Added Weapons of the loadout/option :
+                Added 2x SAP 100M
+    Removed loadouts :
+        2x A.P 160 + 1x GP 250
+        1x GP 250 + 2x SAP 100M
+        1x GP 250 + 2x GP 100T
+
+SM.92 :
+    Added custom loadouts
+    New loadouts :
+        6x A.P 160
+    Loadouts changed :
+        6x GP 50T :
+            Removed Required modification GP50
+            Added Weapons of the loadout/option :
+                Added 6x GP 50T
+        6x GP 100T :
+            Removed Required modification GP100
+            Added Weapons of the loadout/option :
+                Added 6x GP 100T
+        2x GP 250 :
+            Removed Required modification GP250
+            Added Weapons of the loadout/option :
+                Added 2x GP 250
+        2x GP 500 :
+            Removed Required modification GP500
+            Added Weapons of the loadout/option :
+                Added 2x GP 500
+
+▄F8F-1B :
+    Added custom loadouts
+    New loadouts :
+        2x 500 lb
+    Loadouts changed :
+        4x 12.7 mm M2 Browning machine gun (secondary) :
+            Removed Required modification DGP-1
+            Added Weapons of the loadout/option :
+                Added 4x 12.7 mm M2 Browning machine gun (secondary)
+        3x 1000 lb :
+            Removed Required modification FLBC mk.1
+            Added Weapons of the loadout/option :
+                Added 3x 1000 lb
+        4x HVAR :
+            Removed Required modification FRC mk.2
+            Added Weapons of the loadout/option :
+                Added 4x HVAR
+        2x M116A2 :
+            Removed Required modification M116A2
+            Added Weapons of the loadout/option :
+                Added 2x M116A2
+        2x Tiny Tim :
+            Removed Required modification LFRC mk.12
+            Added Weapons of the loadout/option :
+                Added 2x Tiny Tim
+    Removed loadouts :
+        1x 1000 lb + 4x HVAR
+        1x 1000 lb
+        1x 1000 lb + 2x 500 lb
+
+▄SB2C-5 :
+    Added custom loadouts
+    New loadouts :
+        4x 250 lb (stock)
+    Loadouts changed :
+        1x 2000 lb :
+            Removed Required modification M66
+            Added Weapons of the loadout/option :
+                Added 1x 2000 lb
+    Removed loadouts :
+        2x 250 lb (stock)
+        2x 500 lb
+        1x 1000 lb + 2x 500 lb
+
+A21A-3 :
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x m/49B option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            Added 1x m/51 option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            Removed 4x m/49B option, can't be equipped together with 1x m/47 on slot 2 or 1x m/40 on slot 3 or 1x m/41 on slot 3 or 1x m/50 on slot 3 or 1x m/47 on slot 4
+            Removed 4x m/51 option, can't be equipped together with 1x m/47 on slot 2 or 1x m/40 on slot 3 or 1x m/41 on slot 3 or 1x m/50 on slot 3 or 1x m/47 on slot 4
+            Removed 1x m/49 option, can't be equipped together with 1x m/47 on slot 2 or 1x m/40 on slot 3 or 1x m/41 on slot 3 or 1x m/50 on slot 3 or 1x m/47 on slot 4
+        Slot 2 changed :
+            Added 1x m/49B option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            Added 1x m/51 option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            Removed 2x m/47 (stock) option, can't be equipped together with 1x m/49B on slots 1, 5 or 1x m/51 on slots 1, 5 or 1x m/49 on slots 1, 5
+        Slot 3 changed :
+            Added 1x m/49B option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            Added 1x m/51 option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            Added 1x m/49 option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            Removed 1x m/40 option, can't be equipped together with 1x m/49B on slots 1, 5 or 1x m/51 on slots 1, 5 or 1x m/49 on slots 1, 5
+            Removed 1x m/41 option, can't be equipped together with 1x m/49B on slots 1, 5 or 1x m/51 on slots 1, 5 or 1x m/49 on slots 1, 5
+            Removed 1x m/50 option, can't be equipped together with 1x m/49B on slots 1, 5 or 1x m/51 on slots 1, 5 or 1x m/49 on slots 1, 5
+        Slot 4 changed :
+            Added 1x m/49B option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            Added 1x m/51 option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            Removed 2x m/47 (stock) option, can't be equipped together with 1x m/49B on slots 1, 5 or 1x m/51 on slots 1, 5 or 1x m/49 on slots 1, 5
+        Slot 5 changed :
+            Added 2x m/47 (stock) option
+            Removed 4x m/49B option, can't be equipped together with 1x m/47 on slot 2 or 1x m/40 on slot 3 or 1x m/41 on slot 3 or 1x m/50 on slot 3 or 1x m/47 on slot 4
+            Removed 4x m/51 option, can't be equipped together with 1x m/47 on slot 2 or 1x m/40 on slot 3 or 1x m/41 on slot 3 or 1x m/50 on slot 3 or 1x m/47 on slot 4
+            Removed 1x m/49 option, can't be equipped together with 1x m/47 on slot 2 or 1x m/40 on slot 3 or 1x m/41 on slot 3 or 1x m/50 on slot 3 or 1x m/47 on slot 4
+        Added slot 6 :
+            1x m/40 option
+            1x m/41 option
+            1x m/50 option
+        Added slot 7 :
+            2x m/47 (stock) option
+        Added slot 8 :
+            1x m/49B option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            1x m/51 option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+        Added slot 9 :
+            1x m/49B option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            1x m/51 option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            1x m/49 option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+        Added slot 10 :
+            1x m/49B option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            1x m/51 option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+        Added slot 11 :
+            1x m/49B option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+            1x m/51 option, can't be equipped together with 1x m/47 on slot 5 or 1x m/40 on slot 6 or 1x m/41 on slot 6 or 1x m/50 on slot 6 or 1x m/47 on slot 7
+
+AJ37 :
+    New loadouts :
+        16x m/71
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 4x m/71 option
+        Slot 2 changed :
+            Added 4x m/71 option
+        Slot 4 changed :
+            Added 4x m/71 option
+        Slot 5 changed :
+            Added 4x m/71 option
+
+AJS37 :
+    New loadouts :
+        16x m/71
+    Custom loadout changes :
+        Slot 2 changed :
+            Added 4x m/71 option
+        Slot 3 changed :
+            Added 4x m/71 option
+        Slot 5 changed :
+            Added 4x m/71 option
+        Slot 6 changed :
+            Added 4x m/71 option
+
+B17A :
+    Added custom loadouts
+    Loadouts changed :
+        1x m/40 :
+            Removed Required modification m/40(250)
+            Added Weapons of the loadout/option :
+                Added 1x m/40
+        1x m/41 :
+            Removed Required modification m/41
+            Added Weapons of the loadout/option :
+                Added 1x m/41
+        9x m/42 (stock) :
+            Added Weapons of the loadout/option :
+                Added 9x m/42 (stock)
+    Removed loadouts :
+        1x m/40 + 4x m/42
+
+B17B :
+    Added custom loadouts
+    Loadouts changed :
+        1x m/40 :
+            Removed Required modification m/40(250)
+            Added Weapons of the loadout/option :
+                Added 1x m/40
+        9x m/42 (stock) :
+            Added Weapons of the loadout/option :
+                Added 9x m/42 (stock)
+    Removed loadouts :
+        1x m/40 + 4x m/42
+
+A-4E Early (M), A-4E :
+    Loadouts changed :
+        1x GBU-8 :
+            Required modification changed : GBU-8/15 -> GBU-8
+
+Kurnass :
+    Loadouts changed :
+        2x AIM-9G :
+            Weapons of the loadout/option changed :
+                Removed 4x AIM-9G
+                Added 4x AIM-9G
+        1x GBU-8 :
+            Required modification changed : GBU-8/15 -> GBU-8
+    Custom loadout changes :
+        Slot 3 changed :
+            Option changed : 2x AIM-9G, can't be equipped together with 3x AGM-65B on slot 2 or 1x GBU-8 on slot 2 or 1x AGM-62A on slot 2 -> 2x AIM-9G, can't be equipped together with 3x AGM-65B on slot 2 or 1x GBU-8 on slot 2 or 1x AGM-62A on slot 2
+        Slot 9 changed :
+            Option changed : 2x AIM-9G, can't be equipped together with 3x AGM-65B on slot 10 or 1x GBU-8 on slot 10 or 1x AGM-62A on slot 10 -> 2x AIM-9G, can't be equipped together with 3x AGM-65B on slot 10 or 1x GBU-8 on slot 10 or 1x AGM-62A on slot 10
+
+Kurnass 2000 :
+    Loadouts changed :
+        6x AIM-9G :
+            Weapons of the loadout/option changed :
+                Removed 4x AIM-9G
+                Added 4x AIM-9G
+    Custom loadout changes :
+        Slot 3 changed :
+            Option changed : 2x AIM-9G, can't be equipped together with 3x AGM-65D on slot 2 -> 2x AIM-9G, can't be equipped together with 3x AGM-65D on slot 2
+        Slot 9 changed :
+            Option changed : 2x AIM-9G, can't be equipped together with 3x AGM-65D on slot 10 -> 2x AIM-9G, can't be equipped together with 3x AGM-65D on slot 10
+
+AH-1F :
+    Loadouts changed :
+        28x Hydra-70 M247 (stock) :
+            Weapons of the loadout/option changed :
+                Removed 28x Hydra-70 M247 (stock)
+                Added 28x Hydra-70 M247 (stock)
+    Custom loadout changes :
+        Slot 1 changed :
+            Option changed : 7x Hydra-70 M247 (stock) -> 7x Hydra-70 M247 (stock)
+        Slot 2 changed :
+            Option changed : 7x Hydra-70 M247 (stock) -> 7x Hydra-70 M247 (stock)
+        Slot 3 changed :
+            Option changed : 7x Hydra-70 M247 (stock) -> 7x Hydra-70 M247 (stock)
+        Slot 4 changed :
+            Option changed : 7x Hydra-70 M247 (stock) -> 7x Hydra-70 M247 (stock)
+
+AH-6M :
+    Loadouts changed :
+        14x Hydra-70 M247 (stock) :
+            Weapons of the loadout/option changed :
+                Removed 14x Hydra-70 M247 (stock)
+                Added 14x Hydra-70 M247 (stock)
+    Custom loadout changes :
+        Slot 1 changed :
+            Option changed : 7x Hydra-70 M247 (stock) -> 7x Hydra-70 M247 (stock)
+        Slot 4 changed :
+            Option changed : 7x Hydra-70 M247 (stock) -> 7x Hydra-70 M247 (stock)
+
+UH-1C XM-30 :
+    Custom loadout changes :
+        Slot 2 changed :
+            Option changed : 1x 30 mm XM140 cannon (stock), can't be equipped together with 19x FFAR Mighty Mouse on slot 4 or 1x M134 Minigun on slot 1 -> 1x 30 mm XM140 cannon (stock), can't be equipped together with 19x FFAR Mighty Mouse on slot 1 or 1x M134 Minigun on slot 1
+
+◊Mi-24P, ◄Mi-24P HFS 80, ▂Mi-24D, Mi-24P :
+    Loadouts changed :
+        1x 23 mm GSh-23L cannon (stock) :
+            Added Required modification Gun pod UPK-23-250
+            No longer available stock
+
+Wasp HAS.Mk.1 :
+    New loadouts :
+        2x AS.12 (stock)
+
+A129CBT :
+    Loadouts changed :
+        4x AGM-114B Hellfire (stock) :
+            Weapons of the loadout/option changed :
+                Removed 4x AGM-114B Hellfire (stock)
+                Added 4x AGM-114B Hellfire
+            No longer available stock
+        4x AGM-114B Hellfire (stock) :
+            Added Required modification AGM-114 2
+            No longer available stock
+        4x BGM-71C ITOW (stock) :
+            Weapons of the loadout/option changed :
+                Removed 4x BGM-71C ITOW (stock)
+                Added 4x BGM-71C ITOW (stock)
+        4x BGM-71C ITOW (stock) :
+            Added Required modification TOW
+            No longer available stock
+        4x BGM-71D TOW-2 (stock) :
+            Weapons of the loadout/option changed :
+                Removed 4x BGM-71D TOW-2 (stock)
+                Added 4x BGM-71D TOW-2
+            No longer available stock
+        4x BGM-71D TOW-2 (stock) :
+            Added Required modification TOW-2
+            No longer available stock
+    Custom loadout changes :
+        Slot 1 changed :
+            Option changed : 2x BGM-71C ITOW (stock) -> 2x BGM-71C ITOW (stock)
+            Option changed : 2x BGM-71D TOW-2 (stock) -> 2x BGM-71D TOW-2
+            Option changed : 2x AGM-114B Hellfire (stock) -> 2x AGM-114B Hellfire
+        Slot 4 changed :
+            Option changed : 2x BGM-71C ITOW (stock) -> 2x BGM-71C ITOW (stock)
+            Option changed : 2x BGM-71D TOW-2 (stock) -> 2x BGM-71D TOW-2
+            Option changed : 2x AGM-114B Hellfire (stock) -> 2x AGM-114B Hellfire
 
