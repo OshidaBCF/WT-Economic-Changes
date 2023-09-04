@@ -1,11 +1,13 @@
 Statcard changes :
 
-QN506 :
-    Hull Thickness : 100 / 25 / 45 -> 100 / 80 / 45 mm
-VBCI-2 (MCT30) :
-    Hull Thickness : 20 / 20 / 15 -> 35 / 35 / 35 mm
-    Turret Thickness : 38.1 / 25.4 / 25.4 -> 30 / 30 / 30 mm
-Parizhskaya kommuna, Poltava :
-    Main Turrets Thickness : 250 / 250 / 305 -> 203 / 203 / 305 mm
-HMS Renown :
-    Max Speed : 56.95 -> 54.65 km/h
+Zrinyi II :
+    Hull Thickness : 50 / 40 / 25 -> 75 / 25 / 25 mm
+    Turret Thickness : 100 / 70 / 45 -> 75 / 25 / 25 mm
+USS Detroit, USS Raleigh :
+    Crew : 458 -> 612
+    Minimum Crew : 137 -> 183
+
+MC 485 :
+    Crew : 31 -> 26
+    Minimum Crew : 9 -> 7
+
