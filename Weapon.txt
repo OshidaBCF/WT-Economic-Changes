@@ -1,229 +1,103 @@
-Weapon changes :
+Aircraft Weapon changes :
 
 BTD-1 :
-    Added custom loadouts
-    New loadouts :
-        2x 250 lb (stock)
-        1x 500 lb
-        1x 1000 lb
-        2x AN-Mk 1
-        2x Mk 13 Mod 0
     Loadouts changed :
-        2x 500 lb :
-            Removed Required modification SBC mk.I
-            Added Weapons of the loadout/option :
-                Added 2x 500 lb
-        2x 1000 lb :
-            Removed Required modification MBC mk.I
-            Added Weapons of the loadout/option :
-                Added 2x 1000 lb
-        1x AN-Mk 1 :
-            Removed Required modification LBC mk.I
-            Added Weapons of the loadout/option :
-                Added 1x AN-Mk 1
-        2x Mk 13 Mod 0 -> 1x Mk 13 Mod 0 :
-            Total damage changed : 20200 -> 10100
-            Removed Required modification Mk 13 Mod 0
-            Added Weapons of the loadout/option :
-                Added 1x Mk 13 Mod 0
-        2x Mk.13/44 :
-            Removed Required modification TC mk.I
-            Added Weapons of the loadout/option :
-                Added 2x Mk.13/44
-
-F-14B :
-    Loadouts changed :
-        4x AIM-9L + 640x Flares/Chaff :
+        2x 250 lb (stock) -> 2x 100 lb (stock) :
+            Total damage changed : 3370 -> 2144
             Weapons of the loadout/option changed :
-                Removed 4x AIM-9L (stock)
-                Added 4x AIM-9L
-        1x Flares/Chaff :
-            Required modification changed : Flares/Chaff BOL -> AIM-9L
+                Removed 2x 250 lb (stock)
+                Added 2x 100 lb (stock)
+        1x 1000 lb :
+            Required modification changed : MBC mk.I + SBC mk.I-> MBC mk.I
+        1x AN-Mk 1 :
+            Required modification changed : LBC mk.I -> AN-Mk 1
     Custom loadout changes :
         Slot 1 changed :
-            Option changed : 160x Flares/Chaff + 1x AIM-9L -> 160x Flares/Chaff + 1x AIM-9L
-        Slot 2 changed :
-            Option changed : 160x Flares/Chaff + 1x AIM-9L -> 160x Flares/Chaff + 1x AIM-9L
-        Slot 5 changed :
-            Option changed : 160x Flares/Chaff + 1x AIM-9L -> 160x Flares/Chaff + 1x AIM-9L
-        Slot 6 changed :
-            Option changed : 160x Flares/Chaff + 1x AIM-9L -> 160x Flares/Chaff + 1x AIM-9L
+            Option changed : 1x 250 lb (stock) -> 1x 100 lb (stock)
+        Slot 3 changed :
+            Option changed : 1x 250 lb (stock) -> 1x 100 lb (stock)
 
 F-16C :
     Loadouts changed :
-        8x BLU-27/B :
+        1x LITENING II + 4x Mk 82 Snakeye -> 4x GBU-12 Paveway II + 1x LITENING II :
             Weapons of the loadout/option changed :
-                Removed 4x BLU-27/B
-                Removed 4x BLU-27/B
-                Added 8x BLU-27/B
+                Removed 4x Mk 82 Snakeye
+                Added 4x GBU-12 Paveway II
     Custom loadout changes :
         Slot 3 changed :
-            Option changed : 2x BLU-27/B -> 2x BLU-27/B
-        Slot 4 changed :
-            Option changed : 2x BLU-27/B -> 2x BLU-27/B
-        Slot 6 changed :
-            Option changed : 1x LITENING II -> 1x LITENING II, must be equipped together with 2x Mk 82 Snakeye on slot 3 or 1x GBU-24 Paveway III on slots 3, 8 or 2x Mk 82 Snakeye on slot 8
-        Slot 7 changed :
-            Option changed : 2x BLU-27/B -> 2x BLU-27/B
+            Option changed : 2x Mk 82 Snakeye, must be equipped together with 1x LITENING II on slot 6 -> 2x GBU-12 Paveway II, must be equipped together with 1x LITENING II on slot 6
         Slot 8 changed :
-            Option changed : 2x BLU-27/B -> 2x BLU-27/B
+            Option changed : 2x Mk 82 Snakeye, must be equipped together with 1x LITENING II on slot 6 -> 2x GBU-12 Paveway II, must be equipped together with 1x LITENING II on slot 6
 
-◊MiG-15bis, MiG-15bis, MiG-15, J-2 :
-    Removed loadouts :
-        2x FAB-250M-46
-
-◊MiG-23MLA, MiG-23M, MiG-23ML, MiG-23MLD :
-    Custom loadout changes :
-        Slot 1 changed :
-            Option changed : 1x Kh-23M, must be equipped together with 1x Delta-NG on slot 3 -> 1x Kh-23M, must be equipped together with 1x Delta-NG on slot 4
-        Slot 5 changed :
-            Option changed : 1x Kh-23M, must be equipped together with 1x Delta-NG on slot 3 -> 1x Kh-23M, must be equipped together with 1x Delta-NG on slot 4
-
-I-185 (M-82) :
-    New loadouts :
-        2x ZAB-50FP
-
-▄AV-8B Plus :
-    Added custom loadouts
-    New loadouts :
-        2x 250 lb
-        14x 500 lb
-        6x 1000 lb
-        4x AGM-65D
-        2x AIM-9L (stock)
-        2x AIM-9L
-        190x FFAR Mighty Mouse
-        10x GBU-12 Paveway II
-        4x GBU-16 Paveway II
-        16x Mk 81 Snakeye
-        2x Mk 82 Snakeye
-        40x Zuni Mk32
+Tu-1 :
     Loadouts changed :
-        x Empty (stock) -> 1x GAU-12/U (stock) :
-            Added Weapons of the loadout/option :
-                Added 1x GAU-12/U (stock)
+        1x 45-36NU :
+            Required modification changed : PKD-2 -> T-18
 
-Super Etendard :
+Yak-141 :
     New loadouts :
-        1x ATLIS II + 4x GBU-12 Paveway II
-        2x Flares/Chaff
-    Loadouts changed :
-        4x 250 kg Type 25 -> 6x 250 kg Type 25 :
-            Total damage changed : 10180 -> 15270
-            Weapons of the loadout/option changed :
-                250 kg Type 25 changed : 4x -> 6x
-        4x 250 kg Type 25 200 -> 6x 250 kg Type 25 200 :
-            Total damage changed : 10180 -> 15270
-            Weapons of the loadout/option changed :
-                250 kg Type 25 200 changed : 4x -> 6x
-        4x 250 lb -> 6x 250 lb :
-            Total damage changed : 6848 -> 10272
-            Weapons of the loadout/option changed :
-                250 lb changed : 4x -> 6x
-        4x 500 lb -> 6x 500 lb :
-            Total damage changed : 9852 -> 14778
-            Weapons of the loadout/option changed :
-                500 lb changed : 4x -> 6x
-        4x Mk 81 Snakeye -> 6x Mk 81 Snakeye :
-            Total damage changed : 6848 -> 10272
-            Weapons of the loadout/option changed :
-                Mk 81 Snakeye changed : 4x -> 6x
-        4x Mk 82 Snakeye -> 6x Mk 82 Snakeye :
-            Total damage changed : 9852 -> 14778
-            Weapons of the loadout/option changed :
-                Mk 82 Snakeye changed : 4x -> 6x
-        4x SAMP 400 kg Type 21 -> 6x SAMP 400 kg Type 21 :
-            Total damage changed : 12456 -> 18684
-            Weapons of the loadout/option changed :
-                SAMP 400 kg Type 21 changed : 4x -> 6x
-            Added Reward multiplier 0.97
-        4x SAMP 400 kg Type 21 200 -> 6x SAMP 400 kg Type 21 200 :
-            Total damage changed : 12456 -> 18684
-            Weapons of the loadout/option changed :
-                SAMP 400 kg Type 21 200 changed : 4x -> 6x
-            Added Reward multiplier 0.97
+        2x R-27ET
     Custom loadout changes :
         Slot 2 changed :
-            Added 1x GBU-12 Paveway II option, must be equipped together with 1x ATLIS II on slot 4
-            Added 2x GBU-12 Paveway II option, must be equipped together with 1x ATLIS II on slot 4
+            Added 1x R-27ET option
         Slot 3 changed :
-            Added 126x Flares/Chaff option
-            Removed 18x SNEB type 23 rocket option
-            Removed 4x TBA ECC option
-            Removed 4x TBA Multi-Dart 100 AB option
-            Removed 1x 250 lb option
-            Removed 1x Mk 81 Snakeye option
-            Removed 1x 500 lb option
-            Removed 1x Mk 82 Snakeye option
-            Removed 1x 250 kg Type 25 option
-            Removed 1x 250 kg Type 25 200 option
-            Removed 1x SAMP 400 kg Type 21 option
-            Removed 1x SAMP 400 kg Type 21 200 option
-        Slot 4 changed :
-            Added 1x ATLIS II option
-            Added 2x 250 lb option
-            Added 2x Mk 81 Snakeye option
-            Added 2x 500 lb option
-            Added 2x Mk 82 Snakeye option
-            Added 2x 250 kg Type 25 option
-            Added 2x 250 kg Type 25 200 option
-            Added 2x SAMP 400 kg Type 21 option
-            Added 2x SAMP 400 kg Type 21 200 option
-            Removed 1x Matra R550 Magic 1 option
-            Removed 18x SNEB type 23 rocket option
-            Removed 4x TBA ECC option
-            Removed 4x TBA Multi-Dart 100 AB option
-            Removed 1x 250 lb option
-            Removed 1x Mk 81 Snakeye option
-            Removed 1x 500 lb option
-            Removed 1x Mk 82 Snakeye option
-            Removed 1x 250 kg Type 25 option
-            Removed 1x 250 kg Type 25 200 option
-            Removed 1x SAMP 400 kg Type 21 option
-            Removed 1x SAMP 400 kg Type 21 200 option
-        Added slot 5 :
-            126x Flares/Chaff option
-        Added slot 6 :
-            18x SNEB type 23 rocket option
-            4x TBA ECC option
-            4x TBA Multi-Dart 100 AB option
-            1x 250 lb option
-            1x Mk 81 Snakeye option
-            1x 500 lb option
-            1x Mk 82 Snakeye option
-            1x 250 kg Type 25 option
-            1x 250 kg Type 25 200 option
-            1x SAMP 400 kg Type 21 option
-            1x SAMP 400 kg Type 21 200 option
-            1x GBU-12 Paveway II option, must be equipped together with 1x ATLIS II on slot 4
-            2x GBU-12 Paveway II option, must be equipped together with 1x ATLIS II on slot 4
-        Added slot 7 :
-            1x Matra R550 Magic 1 option
-            18x SNEB type 23 rocket option
-            4x TBA ECC option
-            4x TBA Multi-Dart 100 AB option
-            1x 250 lb option
-            1x Mk 81 Snakeye option
-            1x 500 lb option
-            1x Mk 82 Snakeye option
-            1x 250 kg Type 25 option
-            1x 250 kg Type 25 200 option
-            1x SAMP 400 kg Type 21 option
-            1x SAMP 400 kg Type 21 200 option
+            Added 1x R-27ET option
 
-Kurnass 2000 :
+A-5C :
     Loadouts changed :
-        2x Flares/Chaff :
-            Weapons of the loadout/option changed :
-                Flares/Chaff changed : 144x -> 200x
-    Custom loadout changes :
-        Slot 4 changed :
-            Option changed : 72x Flares/Chaff -> 100x Flares/Chaff
-        Slot 8 changed :
-            Option changed : 72x Flares/Chaff -> 100x Flares/Chaff
+        1x 250-3 :
+            Total damage changed : 2463 -> 2544
+        4x 250-3 :
+            Total damage changed : 9852 -> 10176
+        4x 250-3 + 2x Matra R550 Magic 1 + 28x Type 90-1 HEAT :
+            Total damage changed : 9852 -> 10176
+        1x 250-4 :
+            Total damage changed : 2544 -> 2071
+        4x 250-4 :
+            Total damage changed : 10176 -> 8284
 
-Barak II :
-    Custom loadout changes :
-        Slot 6 changed :
-            Option changed : 1x LITENING II -> 1x LITENING II, must be equipped together with 2x GBU-12 Paveway II on slots 3, 8 or 1x GBU-16 Paveway II on slots 3, 8
+J-7D, J-7E, Q-5A :
+    Loadouts changed :
+        1x 250-4 :
+            Total damage changed : 2544 -> 2071
+        4x 250-4 :
+            Total damage changed : 10176 -> 8284
+
+J-8B, J-8F :
+    Loadouts changed :
+        1x 250-4 :
+            Total damage changed : 2544 -> 2071
+        2x 250-4 :
+            Total damage changed : 17924 -> 14747
+        6x 250-4 :
+            Total damage changed : 2544 -> 2071
+
+Q-5L :
+    Loadouts changed :
+        1x 250-4 :
+            Total damage changed : 2544 -> 2071
+        8x 250-4 :
+            Removed Reward multiplier 0.91
+            Total damage changed : 20352 -> 16568
+
+Super Etendard :
+    Loadouts changed :
+        1x Flares/Chaff :
+            Removed Required modification Flares/Chaff
+            Now available stock
+
+OH-58D :
+    Loadouts changed :
+        1x GAU-19 (stock) :
+            Added Required modification Gun pod GP-19
+            No longer available stock
+        1x LR30 (stock) :
+            Added Required modification LR30 cannon
+            No longer available stock
+
+␗OH-58D :
+    Loadouts changed :
+        1x GAU-19 (stock) :
+            Added Required modification Gun pod GP-19
+            No longer available stock
 

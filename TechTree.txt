@@ -1,92 +1,25 @@
 ----------------------------------------------------------------------------------------------------
 
+New vehicles :
+
+jp_type_10_prototype (JP) :
+    Rank 7
+    BR : 10.3
+    Located after the Type 87/89 folder
+    Stock Repair Cost : 4469 / 4329 / 5053 SL
+    Spaded Repair Cost : 6650 / 6442 / 7520 SL
+    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=jp_type_10_prototype
+
+A32A Röd Adam (SWE) :
+    Rank 6
+    BR : 9.0 / 9.3 / 9.0
+    9090 GE premium
+    Repair Cost : 2093 / 6151 / 6891 SL
+    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=saab_a32a_red_adam
+
+----------------------------------------------------------------------------------------------------
+
 Tech-tree changes :
-
-F-104C (US) :
-    Located after the F-104A -> Located after the F-104A (in a folder with it)
-
-F-5E (US) :
-    Located after the F-104C -> Located after the f-104_group folder
-
-F4U-1C (US) :
-    Rank : 3 -> 4
-    Located after the F8F-1 -> Located after the F6F-5N
-
-F6F-5N (US) :
-    Rank : 4 -> 3
-    Located after the F4U-1C -> Located after the F8F-1
-
-F4U-4B (US) :
-    Located after the F6F-5N (in a folder with it) -> Located after the F4U-1C (in a folder with it)
-
-F8F-1B (US) :
-    Located after the F6F folder (in another folder) -> Located after the f4u_late_group folder (in another folder)
-
-A-4E Early (US) :
-    360k RP squadron vehicle -> 400k RP squadron vehicle
-
-M901 (US) :
-    360k RP squadron vehicle -> 400k RP squadron vehicle
-
-Karl Marx (GER) :
-    390k RP squadron vehicle -> 460k RP squadron vehicle
-
-Su-7B (USSR) :
-    Located after the la_200_group folder -> Located after the la_200_group folder (in another folder)
-
-Su-7BKL (USSR) :
-    Located after the Su-7B -> Located after the Su-7B (in a folder with it)
-
-Su-17M2 (USSR) :
-    Located after the Su-7BKL -> Located after the su-7_group folder
-
-MiG-17AS (USSR) :
-    8560 GE premium -> 8730 GE premium
-
-Vijayanta (UK) :
-    8560 GE premium -> 8730 GE premium
-
-HMS Arethusa (UK) :
-    Rank : 4 -> 3
-
-HMS Hawkins (UK) :
-    Rank : 4 -> 3
-
-Object 122MT "MC" (CN) :
-    360k RP squadron vehicle -> 400k RP squadron vehicle
-
-▄AV-8B Plus (IT) :
-    Hidden for everyone -> Shown for everyone
-
-Super Etendard (FR) :
-    Hidden for everyone -> Shown for everyone
-
-F-84F IAF (FR) :
-    8560 GE premium -> 8730 GE premium
-
-Bourrasque (FR) :
-    First in line before the Leopard -> First in line before the Vautour
-
-Leopard (FR) :
-    Located after the Bourrasque -> First in line before the Chacal
-
-Vautour (FR) :
-    Located after the Leopard -> Located after the Bourrasque
-
-Chacal (FR) :
-    First in line before the Milan -> Located after the Leopard
-
-▄Vampire FB 52A (SWE) :
-    Located after the bf_109g_sweden_group folder -> Located after the bf_109g_sweden_group folder (in another folder)
-
-A28B (SWE) :
-    Located after the ▄Vampire FB 52A -> Located after the ▄Vampire FB 52A (in a folder with it)
-
-J34 (SWE) :
-    Located after the A28B -> Located after the vampire_fb_group folder
-
-F-84F (ISR) :
-    8560 GE premium -> 8730 GE premium
 
 ----------------------------------------------------------------------------------------------------
 
