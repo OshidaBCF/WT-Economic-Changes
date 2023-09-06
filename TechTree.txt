@@ -2,24 +2,78 @@
 
 New vehicles :
 
-jp_type_10_prototype (JP) :
-    Rank 7
-    BR : 10.3
-    Located after the Type 87/89 folder
-    Stock Repair Cost : 4469 / 4329 / 5053 SL
-    Spaded Repair Cost : 6650 / 6442 / 7520 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=jp_type_10_prototype
+jp_destroyer_momi (JP) :
+    Rank 1
+    BR : 3.3
+    In a new line
+    Repair Cost : 0 SL
+    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=jp_destroyer_momi
 
-A32A Röd Adam (SWE) :
+Mi-24D (IT) :
+    Rank 5
+    BR : 9.3 / 8.7 / 9.3
+    First in line before the Mi-24V
+    Stock Repair Cost : 8290 / 2345 / 4535 SL
+    Spaded Repair Cost : 13180 / 3728 / 7210 SL
+    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=mi_24d_hungary
+
+Mi-24P (IT) :
     Rank 6
-    BR : 9.0 / 9.3 / 9.0
-    9090 GE premium
-    Repair Cost : 2093 / 6151 / 6891 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=saab_a32a_red_adam
+    BR : 10.0 / 9.7 / 9.7
+    Event or pack premium
+    Repair Cost : 5144 / 2772 / 3859 SL
+    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=mi_24p_hungary
+
+Mi-24V (IT) :
+    Rank 6
+    BR : 10.0 / 9.7 / 9.7
+    Located after the Mi-24D
+    Stock Repair Cost : 8010 / 3488 / 4829 SL
+    Spaded Repair Cost : 13004 / 5662 / 7840 SL
+    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=mi_24v_hungary
 
 ----------------------------------------------------------------------------------------------------
 
 Tech-tree changes :
+
+USS Brooklyn (US) :
+    Located after the USS Fargo -> Located after the USS Fargo (in a folder with it)
+
+USS Texas (US) :
+    Located after the USS Brooklyn -> Located after the us_cruiser_fargo_brooklyn_group folder
+
+HMAS Tobruk (UK) :
+    Located after the HMS Armada -> Located after the HMS Armada (in a folder with it)
+
+HMS Arethusa (UK) :
+    Located after the HMAS Tobruk -> Located after the uk_destroyer_battle_group folder
+
+HMS Daring (UK) :
+    Located after the HMS Diana -> Located after the HMS Diana (in a folder with it)
+
+HMS Dido (UK) :
+    Located after the HMS Daring -> Located after the uk_destroyer_daring_group folder
+
+HMS London (UK) :
+    Located after the HMS York -> Located after the uk_cruiser_kent_norfolk_group folder
+
+HMS Colossus (UK) :
+    Located after the HMS London -> Located after the HMS York
+
+HMS Norfolk (UK) :
+    Located after the HMS Kent -> Located after the HMS Kent (in a folder with it)
+
+HMS Glorious (UK) :
+    Located after the HMS Norfolk -> Located after the HMS London
+
+IJN Mutsuki (JP) :
+    First in line before the JDS Harukaze (DD-101) -> First in line before the IJN Ayanami
+
+JDS Harukaze (DD-101) (JP) :
+    Located after the IJN Mutsuki -> Located after the jp_destroyer_momi, but without connection
+
+IJN Ayanami (JP) :
+    First in line before the IJN Yugumo -> Located after the IJN Mutsuki
 
 ----------------------------------------------------------------------------------------------------
 

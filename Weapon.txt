@@ -1,103 +1,102 @@
 Aircraft Weapon changes :
 
-BTD-1 :
-    Loadouts changed :
-        2x 250 lb (stock) -> 2x 100 lb (stock) :
-            Total damage changed : 3370 -> 2144
-            Weapons of the loadout/option changed :
-                Removed 2x 250 lb (stock)
-                Added 2x 100 lb (stock)
-        1x 1000 lb :
-            Required modification changed : MBC mk.I + SBC mk.I-> MBC mk.I
-        1x AN-Mk 1 :
-            Required modification changed : LBC mk.I -> AN-Mk 1
+F-16C :
+    New loadouts :
+        6x AIM-9M
     Custom loadout changes :
         Slot 1 changed :
-            Option changed : 1x 250 lb (stock) -> 1x 100 lb (stock)
-        Slot 3 changed :
-            Option changed : 1x 250 lb (stock) -> 1x 100 lb (stock)
-
-F-16C :
-    Loadouts changed :
-        1x LITENING II + 4x Mk 82 Snakeye -> 4x GBU-12 Paveway II + 1x LITENING II :
-            Weapons of the loadout/option changed :
-                Removed 4x Mk 82 Snakeye
-                Added 4x GBU-12 Paveway II
-    Custom loadout changes :
-        Slot 3 changed :
-            Option changed : 2x Mk 82 Snakeye, must be equipped together with 1x LITENING II on slot 6 -> 2x GBU-12 Paveway II, must be equipped together with 1x LITENING II on slot 6
-        Slot 8 changed :
-            Option changed : 2x Mk 82 Snakeye, must be equipped together with 1x LITENING II on slot 6 -> 2x GBU-12 Paveway II, must be equipped together with 1x LITENING II on slot 6
-
-Tu-1 :
-    Loadouts changed :
-        1x 45-36NU :
-            Required modification changed : PKD-2 -> T-18
-
-Yak-141 :
-    New loadouts :
-        2x R-27ET
-    Custom loadout changes :
+            Added 1x AIM-9M option
         Slot 2 changed :
-            Added 1x R-27ET option
+            Added 1x AIM-9M option
         Slot 3 changed :
-            Added 1x R-27ET option
+            Added 1x AIM-9M option
+        Slot 6 changed :
+            Option changed : 1x LITENING II, must be equipped together with 2x GBU-12 Paveway II on slot 3 or 1x GBU-24 Paveway III on slots 3, 8 or 2x GBU-12 Paveway II on slot 8 -> 1x LITENING II
+        Slot 8 changed :
+            Added 1x AIM-9M option
+        Slot 9 changed :
+            Added 1x AIM-9M option
+        Slot 10 changed :
+            Added 1x AIM-9M option
 
-A-5C :
-    Loadouts changed :
-        1x 250-3 :
-            Total damage changed : 2463 -> 2544
-        4x 250-3 :
-            Total damage changed : 9852 -> 10176
-        4x 250-3 + 2x Matra R550 Magic 1 + 28x Type 90-1 HEAT :
-            Total damage changed : 9852 -> 10176
-        1x 250-4 :
-            Total damage changed : 2544 -> 2071
-        4x 250-4 :
-            Total damage changed : 10176 -> 8284
+Harrier GR.7 :
+    New loadouts :
+        4x AIM-9M
+        4x AIM-9M + 640x Flares/Chaff
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x AIM-9M option
+            Added 160x Flares/Chaff + 1x AIM-9M option
+        Slot 3 changed :
+            Added 1x AIM-9M option
+            Added 160x Flares/Chaff + 1x AIM-9M option
+        Slot 9 changed :
+            Added 1x AIM-9M option
+            Added 160x Flares/Chaff + 1x AIM-9M option
+        Slot 11 changed :
+            Added 1x AIM-9M option
+            Added 160x Flares/Chaff + 1x AIM-9M option
 
-J-7D, J-7E, Q-5A :
-    Loadouts changed :
-        1x 250-4 :
-            Total damage changed : 2544 -> 2071
-        4x 250-4 :
-            Total damage changed : 10176 -> 8284
+T-2 :
+    New loadouts :
+        2x AIM-9P
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x AIM-9P option
+        Slot 7 changed :
+            Added 1x AIM-9P option
 
-J-8B, J-8F :
-    Loadouts changed :
-        1x 250-4 :
-            Total damage changed : 2544 -> 2071
-        2x 250-4 :
-            Total damage changed : 17924 -> 14747
-        6x 250-4 :
-            Total damage changed : 2544 -> 2071
+T-2 Early :
+    New loadouts :
+        5x 500 lb + 2x AIM-9P
+        5x 750 lb JM117 + 2x AIM-9P
+        2x AIM-9P
+        2x AIM-9P + 76x FFAR Mighty Mouse
+        2x AIM-9P + 16x Zuni Mk32
+    Removed loadouts :
+        5x 500 lb + 2x AIM-9E
+        5x 750 lb JM117 + 2x AIM-9E
+        2x AIM-9E
+        2x AIM-9E + 76x FFAR Mighty Mouse
+        2x AIM-9E + 16x Zuni Mk32
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x AIM-9P option
+        Slot 7 changed :
+            Added 1x AIM-9P option
 
-Q-5L :
-    Loadouts changed :
-        1x 250-4 :
-            Total damage changed : 2544 -> 2071
-        8x 250-4 :
-            Removed Reward multiplier 0.91
-            Total damage changed : 20352 -> 16568
+▄AV-8B Plus :
+    New loadouts :
+        4x AIM-9M
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x AIM-9M option
+        Slot 2 changed :
+            Added 1x AIM-9M option
+        Slot 7 changed :
+            Added 1x AIM-9M option
+        Slot 8 changed :
+            Added 1x AIM-9M option
 
-Super Etendard :
-    Loadouts changed :
-        1x Flares/Chaff :
-            Removed Required modification Flares/Chaff
-            Now available stock
-
-OH-58D :
-    Loadouts changed :
-        1x GAU-19 (stock) :
-            Added Required modification Gun pod GP-19
-            No longer available stock
-        1x LR30 (stock) :
-            Added Required modification LR30 cannon
-            No longer available stock
-
-␗OH-58D :
-    Loadouts changed :
-        1x GAU-19 (stock) :
-            Added Required modification Gun pod GP-19
-            No longer available stock
+Barak II :
+    New loadouts :
+        6x AIM-9M
+        2x GBU-15(V)1/B
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x AIM-9M option
+        Slot 2 changed :
+            Added 1x AIM-9M option
+        Slot 3 changed :
+            Added 1x AIM-9M option
+            Added 1x GBU-15(V)1/B option
+        Slot 6 changed :
+            Option changed : 1x LITENING II, must be equipped together with 2x GBU-12 Paveway II on slots 3, 8 or 1x GBU-16 Paveway II on slots 3, 8 -> 1x LITENING II
+        Slot 8 changed :
+            Added 1x AIM-9M option
+            Added 1x GBU-15(V)1/B option
+        Slot 9 changed :
+            Added 1x AIM-9M option
+        Slot 10 changed :
+            Added 1x AIM-9M option
 

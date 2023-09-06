@@ -1,13 +1,8 @@
 Statcard changes :
 
-Zrinyi II :
-    Hull Thickness : 50 / 40 / 25 -> 75 / 25 / 25 mm
-    Turret Thickness : 100 / 70 / 45 -> 75 / 25 / 25 mm
-USS Detroit, USS Raleigh :
-    Crew : 458 -> 612
-    Minimum Crew : 137 -> 183
-
-MC 485 :
-    Crew : 31 -> 26
-    Minimum Crew : 9 -> 7
-
+Super Etendard :
+    Max Speed : 1100.16 -> 1380.0 km/h
+    Max Speed at Altitude : 0 -> 12000 m
+    Climb Speed : 95 -> 97 m/s
+VIDAR :
+    Hull Thickness : 20 / 10 / 20 -> 14 / 14 / 14 mm
