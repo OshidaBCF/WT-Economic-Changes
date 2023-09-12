@@ -1,102 +1,112 @@
 Aircraft Weapon changes :
 
-F-16C :
-    New loadouts :
-        6x AIM-9M
+◄Sea Hawk Mk.100 :
     Custom loadout changes :
-        Slot 1 changed :
-            Added 1x AIM-9M option
-        Slot 2 changed :
-            Added 1x AIM-9M option
-        Slot 3 changed :
-            Added 1x AIM-9M option
-        Slot 6 changed :
-            Option changed : 1x LITENING II, must be equipped together with 2x GBU-12 Paveway II on slot 3 or 1x GBU-24 Paveway III on slots 3, 8 or 2x GBU-12 Paveway II on slot 8 -> 1x LITENING II
-        Slot 8 changed :
-            Added 1x AIM-9M option
+        Slot 4 changed :
+            Option changed : 1x AP Mk II -> 1x AP Mk II, can't be equipped together with 1x AIM-9B on slot 5
+            Option changed : 3x AP Mk II -> 3x AP Mk II, can't be equipped together with 1x AIM-9B on slot 5
+            Option changed : 1x RP-3 -> 1x RP-3, can't be equipped together with 1x AIM-9B on slot 5
+            Option changed : 2x RP-3 -> 2x RP-3, can't be equipped together with 1x AIM-9B on slot 5
         Slot 9 changed :
-            Added 1x AIM-9M option
-        Slot 10 changed :
-            Added 1x AIM-9M option
+            Option changed : 1x AP Mk II -> 1x AP Mk II, can't be equipped together with 1x AIM-9B on slot 8
+            Option changed : 3x AP Mk II -> 3x AP Mk II, can't be equipped together with 1x AIM-9B on slot 8
+            Option changed : 1x RP-3 -> 1x RP-3, can't be equipped together with 1x AIM-9B on slot 8
+            Option changed : 2x RP-3 -> 2x RP-3, can't be equipped together with 1x AIM-9B on slot 8
 
-Harrier GR.7 :
-    New loadouts :
-        4x AIM-9M
-        4x AIM-9M + 640x Flares/Chaff
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 1x AIM-9M option
-            Added 160x Flares/Chaff + 1x AIM-9M option
-        Slot 3 changed :
-            Added 1x AIM-9M option
-            Added 160x Flares/Chaff + 1x AIM-9M option
-        Slot 9 changed :
-            Added 1x AIM-9M option
-            Added 160x Flares/Chaff + 1x AIM-9M option
-        Slot 11 changed :
-            Added 1x AIM-9M option
-            Added 160x Flares/Chaff + 1x AIM-9M option
-
-T-2 :
-    New loadouts :
-        2x AIM-9P
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 1x AIM-9P option
-        Slot 7 changed :
-            Added 1x AIM-9P option
+Firebrand TF Mk IV :
+    Loadouts changed :
+        2x 500 lb -> 1x 1000 lb :
+            Total damage changed : 5232 -> 3799
+            Weapons of the loadout/option changed :
+                Removed 2x 500 lb
+                Added 1x 1000 lb
+        1x 1000 lb -> 2x 500 lb :
+            Total damage changed : 3799 -> 3510
+            Weapons of the loadout/option changed :
+                Removed 1x 1000 lb
+                Added 2x 500 lb
 
 T-2 Early :
     New loadouts :
-        5x 500 lb + 2x AIM-9P
-        5x 750 lb JM117 + 2x AIM-9P
-        2x AIM-9P
-        2x AIM-9P + 76x FFAR Mighty Mouse
-        2x AIM-9P + 16x Zuni Mk32
-    Removed loadouts :
-        5x 500 lb + 2x AIM-9E
-        5x 750 lb JM117 + 2x AIM-9E
+        2x AIM-9B (stock)
         2x AIM-9E
-        2x AIM-9E + 76x FFAR Mighty Mouse
-        2x AIM-9E + 16x Zuni Mk32
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 1x AIM-9P option
-        Slot 7 changed :
-            Added 1x AIM-9P option
 
 ▄AV-8B Plus :
     New loadouts :
-        4x AIM-9M
+        2x Mk 77
+    Loadouts changed :
+        10x GBU-12 Paveway II -> 10x GBU-12 Paveway II + 1x LITENING II :
+            Weapons of the loadout/option changed :
+                Added 1x LITENING II
+        4x GBU-16 Paveway II -> 4x GBU-16 Paveway II + 1x LITENING II :
+            Weapons of the loadout/option changed :
+                Added 1x LITENING II
+
+Mirage 2000-5F :
+    New loadouts :
+        2x Matra R550 Magic 2 (stock)
+    Loadouts changed :
+        1x Matra R550 Magic 2 (stock) :
+            Added Required modification Matra R550 Magic 2
+            No longer available stock
+        2x Matra R550 Magic 2 (stock) :
+            Weapons of the loadout/option changed :
+                Added 2x Matra R550 Magic 2 (stock)
+            No longer available stock
     Custom loadout changes :
         Slot 1 changed :
-            Added 1x AIM-9M option
+            Added 1x Matra R550 Magic 2 (stock) option
+            Removed 1x Matra R550 Magic 2 (stock) option
         Slot 2 changed :
-            Added 1x AIM-9M option
-        Slot 7 changed :
-            Added 1x AIM-9M option
+            Added 1x Matra R550 Magic 2 option
         Slot 8 changed :
-            Added 1x AIM-9M option
+            Added 1x Matra R550 Magic 2 option
+        Slot 9 changed :
+            Added 1x Matra R550 Magic 2 (stock) option
+            Removed 1x Matra R550 Magic 2 (stock) option
+
+▄SB2C-5 :
+    New loadouts :
+        2x 1000 lb
+    Custom loadout changes :
+        Slot 2 changed :
+            Added 1x 1000 lb option
+        Slot 4 changed :
+            Added 1x 1000 lb option
+
+Super Etendard :
+    Loadouts changed :
+        2x Flares/Chaff (stock) :
+            Weapons of the loadout/option changed :
+                Flares/Chaff (stock) changed : 252x -> 180x
+    Custom loadout changes :
+        Slot 3 changed :
+            Option changed : 126x Flares/Chaff (stock) -> 90x Flares/Chaff (stock)
+        Slot 5 changed :
+            Option changed : 126x Flares/Chaff (stock) -> 90x Flares/Chaff (stock)
 
 Barak II :
     New loadouts :
-        6x AIM-9M
-        2x GBU-15(V)1/B
+        2x AIM-7M
+    Loadouts changed :
+        2x GBU-15(V)1/B -> 2x GBU-15(V)2/B :
+            Weapons of the loadout/option changed :
+                Removed 2x GBU-15(V)1/B
+                Added 2x GBU-15(V)2/B
+    Custom loadout changes :
+        Slot 3 changed :
+            Added 1x AIM-7M option
+            Option changed : 1x GBU-15(V)1/B -> 1x GBU-15(V)2/B
+        Slot 8 changed :
+            Added 1x AIM-7M option
+            Option changed : 1x GBU-15(V)1/B -> 1x GBU-15(V)2/B
+
+AH-1Z :
+    New loadouts :
+        2x AIM-9M
     Custom loadout changes :
         Slot 1 changed :
             Added 1x AIM-9M option
-        Slot 2 changed :
-            Added 1x AIM-9M option
-        Slot 3 changed :
-            Added 1x AIM-9M option
-            Added 1x GBU-15(V)1/B option
         Slot 6 changed :
-            Option changed : 1x LITENING II, must be equipped together with 2x GBU-12 Paveway II on slots 3, 8 or 1x GBU-16 Paveway II on slots 3, 8 -> 1x LITENING II
-        Slot 8 changed :
-            Added 1x AIM-9M option
-            Added 1x GBU-15(V)1/B option
-        Slot 9 changed :
-            Added 1x AIM-9M option
-        Slot 10 changed :
             Added 1x AIM-9M option
 
