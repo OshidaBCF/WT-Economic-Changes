@@ -1,78 +1,17 @@
 ----------------------------------------------------------------------------------------------------
 
-New vehicles :
-
-He 115 C-1 (GER) :
-    Rank 1
-    BR : 1.3
-    Located after the Do 17 folder
-    Stock Repair Cost : 225 / 317 / 427 SL
-    Spaded Repair Cost : 293 / 402 / 541 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=he_115c_1
-
-Impetuoso (IT) :
-    Rank 2
-    BR : 4.0
-    Located after the RN Comandante Margottini
-    Stock Repair Cost : 1856 / 2871 SL
-    Spaded Repair Cost : 2376 / 3676 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=it_destroyer_impetuoso_class_impetuoso
-
-T 2 (SWE) :
-    Rank 1
-    BR : 1.0
-    First in line before the B3C
-    Stock Repair Cost : 105 / 150 / 173 SL
-    Spaded Repair Cost : 135 / 188 / 216 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=he_115a_2_sweden
-
-----------------------------------------------------------------------------------------------------
-
 Tech-tree changes :
 
-XP-55 (US) :
-    Rank : 2 -> 3
-
-BV 138 C-1 (GER) :
-    Located after the Do 17 folder -> Located after the He 115 C-1
-
-KV-2 (ZiS-6) (USSR) :
+YP-38 (US) :
     Hidden for everyone -> Shown for everyone
-    Event or pack premium -> 3850 GE premium
+    Event or pack premium -> 1150 GE premium
 
-Shenyang F-5 (CN) :
-    Rank : 5 -> 6
-    8730 GE premium -> 8910 GE premium
+Plagis' Spitfire LF Mk IXc (UK) :
+    Hidden for everyone -> Shown for everyone
 
-AB 205 A-1 (IT) :
-    First in line before the A.109EOA-2 -> First in line before the ◔Mi-24D
-
-A.109EOA-2 (IT) :
-    Located after the AB 205 A-1 -> Located after the ◔Mi-24D
-
-A129CBT (IT) :
-    Located after the A.109EOA-2 -> Located after the ◔Mi-24V
-
-◔Mi-24D (IT) :
-    First in line before the ◔Mi-24V -> Located after the AB 205 A-1
-
-◔Mi-24V (IT) :
-    Located after the ◔Mi-24D -> Located after the A.109EOA-2
-
-◔Mi-24P (IT) :
-    Event or pack premium -> 8730 GE premium
-
-RN Etna (IT) :
-    Located after the RN Comandante Margottini -> Located after the Impetuoso
-
-B3C (SWE) :
-    First in line before the B18A -> Located after the T 2, but without connection
-
-▄Vampire FB 52A (SWE) :
-    Located after the ▄Bf 109G folder (in another folder) -> Located after the A28B (in a folder with it)
-
-A28B (SWE) :
-    Located after the ▄Vampire FB 52A (in a folder with it) -> Located after the ▄Bf 109G folder (in another folder)
+Spitfire FR Mk XIVe (UK) :
+    Hidden for everyone -> Shown for everyone
+    Event or pack premium -> 6090 GE premium
 
 ----------------------------------------------------------------------------------------------------
 

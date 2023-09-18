@@ -1,13 +1,5 @@
 Statcard changes :
 
-Imp.Chaparral :
-    Hull Thickness : 38 / 25 / 44 -> 0 / 0 / 0 mm
-    Turret Thickness : 12.7 / 12.7 / 12.7 -> 0 / 0 / 0 mm
-KF41 :
-    Hull Thickness : 72 / 52 / 38 -> 20 / 20 / 20 mm
-    Turret Thickness : 40 / 40 / 40 -> 10 / 10 / 10 mm
-Imp.Chaparral :
-    Hull Thickness : 38 / 44 / 38 -> 0 / 0 / 0 mm
-    Turret Thickness : 38 / 25 / 25 -> 0 / 0 / 0 mm
-Marat :
-    Citadel Thickness : 50 / 225 / 75 -> 50 / 225 / 38 mm
+StuG III A, StuG III F :
+    Hull Thickness : 50 / 30 / 30 -> 30 / 30 / 30 mm
+
