@@ -1,46 +1,660 @@
 Aircraft Weapon changes :
 
-F-5E :
-    Removed loadouts :
-        1x Mk 84 Air
+A-7E :
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 38x FFAR Mighty Mouse option, can't be equipped together with 12x Zuni Mk32 on slot 2
+            Added 12x Zuni Mk32 option, can't be equipped together with 38x FFAR Mighty Mouse on slot 2
+            Removed 38x FFAR Mighty Mouse option
+            Removed 12x Zuni Mk32 option
+        Slot 2 changed :
+            Added 38x FFAR Mighty Mouse option, can't be equipped together with 12x Zuni Mk32 on slot 1 or 8x Zuni Mk32 on slot 3
+            Added 12x Zuni Mk32 option, can't be equipped together with 38x FFAR Mighty Mouse on slot 1 or 38x FFAR Mighty Mouse on slot 3
+            Removed 38x FFAR Mighty Mouse option
+            Removed 12x Zuni Mk32 option
+        Slot 3 changed :
+            Added 38x FFAR Mighty Mouse option, can't be equipped together with 12x Zuni Mk32 on slot 2
+            Added 8x Zuni Mk32 option, can't be equipped together with 38x FFAR Mighty Mouse on slot 2
+            Removed 38x FFAR Mighty Mouse option
+            Removed 8x Zuni Mk32 option
+        Slot 6 changed :
+            Added 38x FFAR Mighty Mouse option, can't be equipped together with 12x Zuni Mk32 on slot 7
+            Added 8x Zuni Mk32 option, can't be equipped together with 38x FFAR Mighty Mouse on slot 7
+            Removed 38x FFAR Mighty Mouse option
+            Removed 8x Zuni Mk32 option
+        Slot 7 changed :
+            Added 38x FFAR Mighty Mouse option, can't be equipped together with 12x Zuni Mk32 on slot 8 or 8x Zuni Mk32 on slot 6
+            Added 12x Zuni Mk32 option, can't be equipped together with 38x FFAR Mighty Mouse on slot 8 or 38x FFAR Mighty Mouse on slot 6
+            Removed 38x FFAR Mighty Mouse option
+            Removed 12x Zuni Mk32 option
+        Slot 8 changed :
+            Added 38x FFAR Mighty Mouse option, can't be equipped together with 12x Zuni Mk32 on slot 7
+            Added 12x Zuni Mk32 option, can't be equipped together with 38x FFAR Mighty Mouse on slot 7
+            Removed 38x FFAR Mighty Mouse option
+            Removed 12x Zuni Mk32 option
+
+AM-1 :
+    New loadouts :
+        3x AN-Mk 1
+    Custom loadout changes :
+        Slot 7 changed :
+            Added 1x AN-Mk 1 option
+        Slot 8 changed :
+            Added 1x AN-Mk 1 option
+        Slot 9 changed :
+            Added 1x AN-Mk 1 option
+
+B-17G-60-VE :
+    New loadouts :
+        4x AN-MK 33
+        2x AN-Mk 1
+
+B-57B :
+    New loadouts :
+        8x 750 lb M117
+    Custom loadout changes :
+        Slot 3 changed :
+            Added 1x 750 lb M117 option
+        Slot 4 changed :
+            Added 1x 750 lb M117 option
+        Slot 5 changed :
+            Added 4x 750 lb M117 option
+        Slot 6 changed :
+            Added 1x 750 lb M117 option
+        Slot 7 changed :
+            Added 1x 750 lb M117 option
+
+B-24D-25-CO, PBM-1 "Mariner" :
+    New loadouts :
+        4x AN-Mk 1
+
+B-26B, B-26C :
+    New loadouts :
+        2x AN-Mk 1
+
+AD-2, AD-4, ▄AD-4, ▄AD-4NA :
+    New loadouts :
+        3x AN-MK 33
+        3x AN-Mk 1
+    Custom loadout changes :
+        Slot 7 changed :
+            Added 1x AN-MK 33 option
+            Added 1x AN-Mk 1 option
+        Slot 8 changed :
+            Added 1x AN-MK 33 option
+            Added 1x AN-Mk 1 option
+        Slot 9 changed :
+            Added 1x AN-MK 33 option
+            Added 1x AN-Mk 1 option
+
+F-82E :
+    Added custom loadouts
+    New loadouts :
+        2x 1000 lb
+    Loadouts changed :
+        8x 12.7 mm M2 Browning machine gun (secondary) :
+            Removed Required modification NAGP Mk.I
+            Added Weapons of the loadout/option :
+                Added 8x 12.7 mm M2 Browning machine gun (secondary)
+        2x 500 lb -> 4x 500 lb :
+            Total damage changed : 6118 -> 12236
+            Removed Required modification FMBC mk.1
+            Added Weapons of the loadout/option :
+                Added 4x 500 lb
+        2x 1000 lb :
+            Removed Required modification FLBC mk.1
+            Added Weapons of the loadout/option :
+                Added 2x 1000 lb
+        2x 2000 lb :
+            Removed Required modification FLBC mk.3
+            Added Weapons of the loadout/option :
+                Added 2x 2000 lb
+        10x HVAR -> 25x HVAR :
+            Removed Required modification FRC mk.5
+            Added Weapons of the loadout/option :
+                Added 25x HVAR
+
+F7F-3 :
+    New loadouts :
+        1x 2000 lb
+        1x AN-Mk 1
+    Loadouts changed :
+        1x 1000 lb -> 3x 1000 lb :
+            Total damage changed : 5788 -> 17364
+            Weapons of the loadout/option changed :
+                1000 lb changed : 1 -> 3
+        1x Mk 13 Mod 0 -> 3x Mk 13 Mod 0 :
+            Reward multiplier changed : 0.8 -> 0.66
+            Total damage changed : 10100 -> 30300
+            Weapons of the loadout/option changed :
+                Mk 13 Mod 0 changed : 1 -> 3
+    Custom loadout changes :
+        Slot 5 changed :
+            Added 1x 1000 lb option
+            Added 1x Mk 13 Mod 0 option
+        Slot 6 changed :
+            Added 1x AN-Mk 1 option
+            Added 1x 2000 lb option
+        Slot 7 changed :
+            Added 1x 1000 lb option
+            Added 1x Mk 13 Mod 0 option
+
+F-16C :
     Custom loadout changes :
         Slot 4 changed :
-            Removed 1x Mk 84 Air option
+            Added 6x 500 lb option
+        Slot 7 changed :
+            Added 6x 500 lb option
 
-Bf 109 K-4 :
+PBJ-1H, PBJ-1J :
     New loadouts :
-        1x SC500
-
-◄MiG-21 SPS-K :
+        3x 1000 lb
+        1x 2000 lb
+        2x AN-Mk 1
     Loadouts changed :
-        1x R-3R :
-            Required modification changed : R-3R -> R-3R + R-3S + 
+        12x 100 lb :
+            Removed Required modification SBC-25
+            Now available stock
 
-Harrier GR.7 :
+PBM-3 "Mariner" :
+    New loadouts :
+        8x AN-Mk 1
+
+SB2C-4 :
     Loadouts changed :
-        1x AIM-9L :
-            Required modification changed : Flares/Chaff BOL -> Flares/Chaff BOL + AIM-9L + 
-        2x AIM-9L + 320x Flares/Chaff :
+        1x 500 lb :
+            Removed Required modification MBC mk.I
+            Now available stock
+
+SB2U-2, SB2U-3 :
+    New loadouts :
+        1x AN-Mk 1
+
+SBD-3 :
+    Added custom loadouts
+    New loadouts :
+        2x 100 lb (stock)
+        1x 1000 lb
+        1x AN-MK 33
+        1x AN-Mk 1
+        x Empty (stock)
+    Loadouts changed :
+        4x 12.7 mm M2 Browning machine gun (secondary) :
+            Removed Required modification DGP-1
+            Added Weapons of the loadout/option :
+                Added 4x 12.7 mm M2 Browning machine gun (secondary)
+        2x 100 lb + 1x 1000 lb (stock) -> 2x 100 lb + 1x 500 lb (stock) :
+            Total damage changed : 7932 -> 5203
+            Added Weapons of the loadout/option :
+                Added 2x 100 lb (stock)
+                Added 1x 500 lb (stock)
+        1x 500 lb (stock) :
+            Added Weapons of the loadout/option :
+                Added 1x 500 lb (stock)
+        1x Mk 13 Mod 0 :
+            Removed Required modification Mk 13 Mod 0
+            Added Weapons of the loadout/option :
+                Added 1x Mk 13 Mod 0
+    Removed loadouts :
+        2x 100 lb + 1x 500 lb (stock)
+
+TBF-1C, ▄Avenger Mk II :
+    New loadouts :
+        2x AN-MK 33
+
+Fw 190 F-8 :
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 7x Pb2 option
+            Removed 7x Pb2 option
+        Slot 3 changed :
+            Added 7x Pb2 option
+            Removed 7x Pb2 option
+
+He 111 H-6 :
+    New loadouts :
+        2x PC1000
+
+◌Hunter F.58 :
+    Custom loadout changes :
+        Slot 8 changed :
+            Option changed : 1x Drop tank (stock) -> 1x Drop tank (stock), must be equipped together with 1x Drop tank on slot 5
+
+Ju 87 D-5 :
+    New loadouts :
+        1x PC500 (stock)
+    Custom loadout changes :
+        Slot 2 changed :
+            Added 1x PC500 (stock) option
+
+Yer-2 (ACh-30B) (e), Yer-2 (ACh-30B) (l) :
+    New loadouts :
+        8x BRAB-250
+        8x BRAB-250 + 3x BRAB-1000
+        4x BRAB-500
+        4x BRAB-500 + 3x BRAB-1000
+        3x BRAB-1000
+
+I-153 M-62, Zhukovsky's I-153-M62, I-153P, ␗I-153 M-62 :
+    Loadouts changed :
+        4x FAB-50 -> 2x FAB-50 :
+            Total damage changed : 4544 -> 2272
+
+IL-4 :
+    New loadouts :
+        2x BRAB-250
+        2x BRAB-500
+        1x BRAB-1000
+        1x BRAB-1000 + 2x BRAB-500
+
+MiG-29SMT :
+    Loadouts changed :
+        1x Drop tank (stock) :
             Weapons of the loadout/option changed :
-                Removed 320x Flares/Chaff
-                Added 320x Flares/Chaff
-        1x AIM-9M :
-            Required modification changed : AIM-9M -> AIM-9M + Flares/Chaff BOL + 
-        1x Flares/Chaff :
-            Required modification changed : AIM-9M -> AIM-9M + Flares/Chaff BOL + 
+                Removed 1x Drop tank (stock)
+                Added 1x Drop tank (stock)
+    Custom loadout changes :
+        Slot 4 changed :
+            Option changed : 1x Drop tank (stock) -> 1x Drop tank (stock)
+
+Pe-2-110, Pe-2-205, Pe-2-359, Pe-2-359 :
+    New loadouts :
+        4x BRAB-250
+        2x BRAB-500
     Custom loadout changes :
         Slot 3 changed :
-            Option changed : 160x Flares/Chaff + 1x AIM-9L -> 160x Flares/Chaff + 1x AIM-9L
+            Added 1x BRAB-250 option
+        Slot 4 changed :
+            Added 1x BRAB-250 option
+            Added 1x BRAB-500 option
+        Slot 6 changed :
+            Added 1x BRAB-250 option
+            Added 1x BRAB-500 option
+        Slot 7 changed :
+            Added 1x BRAB-250 option
+
+Po-2 :
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 4x ROS-82 option, can't be equipped together with 1x FAB-50 on slots 2, 3 or 1x FAB-100 on slot 3 or 1x FAB-50 on slot 4
+            Added 4x RBS-82 option, can't be equipped together with 1x FAB-50 on slots 2, 3 or 1x FAB-100 on slot 3 or 1x FAB-50 on slot 4
+            Added 4x ROS-132 option, can't be equipped together with 1x FAB-50 on slots 2, 3 or 1x FAB-100 on slot 3 or 1x FAB-50 on slot 4
+            Removed 4x ROS-82 option, can't be equipped together with 1x FAB-50 on slots 2, 3 or 1x FAB-100 on slot 3 or 1x FAB-50 on slot 4
+            Removed 4x RBS-82 option, can't be equipped together with 1x FAB-50 on slots 2, 3 or 1x FAB-100 on slot 3 or 1x FAB-50 on slot 4
+            Removed 4x ROS-132 option, can't be equipped together with 1x FAB-50 on slots 2, 3 or 1x FAB-100 on slot 3 or 1x FAB-50 on slot 4
+        Slot 7 changed :
+            Added 4x ROS-82 option, can't be equipped together with 1x FAB-50 on slots 6, 5 or 1x FAB-100 on slot 5 or 1x FAB-50 on slot 4
+            Added 4x RBS-82 option, can't be equipped together with 1x FAB-50 on slots 6, 5 or 1x FAB-100 on slot 5 or 1x FAB-50 on slot 4
+            Added 4x ROS-132 option, can't be equipped together with 1x FAB-50 on slots 6, 5 or 1x FAB-100 on slot 5 or 1x FAB-50 on slot 4
+            Removed 4x ROS-82 option, can't be equipped together with 1x FAB-50 on slots 6, 5 or 1x FAB-100 on slot 5 or 1x FAB-50 on slot 4
+            Removed 4x RBS-82 option, can't be equipped together with 1x FAB-50 on slots 6, 5 or 1x FAB-100 on slot 5 or 1x FAB-50 on slot 4
+            Removed 4x ROS-132 option, can't be equipped together with 1x FAB-50 on slots 6, 5 or 1x FAB-100 on slot 5 or 1x FAB-50 on slot 4
+
+Po-2M :
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 4x ROS-82 option, can't be equipped together with 1x FAB-50 on slots 2, 3 or 1x ZAB-50FP on slots 2, 3 or 1x FAB-100 on slot 3
+            Added 4x RBS-82 option, can't be equipped together with 1x FAB-50 on slots 2, 3 or 1x ZAB-50FP on slots 2, 3 or 1x FAB-100 on slot 3
+            Added 4x ROS-132 option, can't be equipped together with 1x FAB-50 on slots 2, 3 or 1x ZAB-50FP on slots 2, 3 or 1x FAB-100 on slot 3
+            Removed 4x ROS-82 option, can't be equipped together with 1x FAB-50 on slots 2, 3 or 1x ZAB-50FP on slots 2, 3 or 1x FAB-100 on slot 3
+            Removed 4x RBS-82 option, can't be equipped together with 1x FAB-50 on slots 2, 3 or 1x ZAB-50FP on slots 2, 3 or 1x FAB-100 on slot 3
+            Removed 4x ROS-132 option, can't be equipped together with 1x FAB-50 on slots 2, 3 or 1x ZAB-50FP on slots 2, 3 or 1x FAB-100 on slot 3
+        Slot 6 changed :
+            Added 4x ROS-82 option, can't be equipped together with 1x FAB-50 on slots 5, 4 or 1x ZAB-50FP on slots 5, 4 or 1x FAB-100 on slot 4
+            Added 4x RBS-82 option, can't be equipped together with 1x FAB-50 on slots 5, 4 or 1x ZAB-50FP on slots 5, 4 or 1x FAB-100 on slot 4
+            Added 4x ROS-132 option, can't be equipped together with 1x FAB-50 on slots 5, 4 or 1x ZAB-50FP on slots 5, 4 or 1x FAB-100 on slot 4
+            Removed 4x ROS-82 option, can't be equipped together with 1x FAB-50 on slots 5, 4 or 1x ZAB-50FP on slots 5, 4 or 1x FAB-100 on slot 4
+            Removed 4x RBS-82 option, can't be equipped together with 1x FAB-50 on slots 5, 4 or 1x ZAB-50FP on slots 5, 4 or 1x FAB-100 on slot 4
+            Removed 4x ROS-132 option, can't be equipped together with 1x FAB-50 on slots 5, 4 or 1x ZAB-50FP on slots 5, 4 or 1x FAB-100 on slot 4
+
+Tu-2S, Tu-2S-44, Tu-2S-59, ␗Tu-2S-44 :
+    New loadouts :
+        6x BRAB-250
+        3x BRAB-500
+        3x BRAB-1000
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x BRAB-250 option
+            Added 1x BRAB-500 option
+            Added 1x BRAB-1000 option
+        Slot 2 changed :
+            Added 2x BRAB-250 option
+            Added 4x BRAB-250 option
+            Added 1x BRAB-500 option
+            Added 1x BRAB-1000 option
+        Slot 3 changed :
+            Added 1x BRAB-250 option
+            Added 1x BRAB-500 option
+            Added 1x BRAB-1000 option
+
+Beaufort Mk VIII, Blenheim Mk IV, Mosquito FB Mk VI, Sea Fury FB 11, Tempest Mk V, Typhoon Mk Ib, Typhoon Mk Ib/L, Whirlwind Mk I :
+    New loadouts :
+        2x 500 lb
+
+Firebrand TF Mk IV :
+    New loadouts :
+        2x 500 lb
+        1x 2000 lb
+    Custom loadout changes :
+        Slot 5 changed :
+            Added 1x 500 lb option
+        Slot 6 changed :
+            Added 1x 2000 lb option
+        Slot 7 changed :
+            Added 1x 500 lb option
+
+Halifax B Mk IIIa :
+    New loadouts :
+        15x 500 lb
+        4x 1000 lb
+
+Hampden TB Mk I :
+    New loadouts :
+        6x 500 lb
+        2x 2000 lb
+
+Sunderland Mk IIIa, Sunderland Mk V :
+    New loadouts :
+        4x 500 lb
+
+Swordfish Mk I :
+    Added custom loadouts
+    New loadouts :
+        2x 500 lb
+        2x 500 lb
+    Loadouts changed :
+        4x 250 lb (stock) :
+            Added Weapons of the loadout/option :
+                Added 4x 250 lb (stock)
+        6x 250 lb -> 4x 250 lb :
+            Removed Required modification UC Mk.1
+            Added Weapons of the loadout/option :
+                Added 4x 250 lb (stock)
+                Added 2x 250 lb
+        1x Mk.XII :
+            Removed Required modification FTC mk.II
+            Added Weapons of the loadout/option :
+                Added 1x Mk.XII
+    Removed loadouts :
+        2x 250 lb + 2x 500 lb
+
+Swordfish Mk II :
+    Added custom loadouts
+    New loadouts :
+        2x 500 lb
+        2x 500 lb
+    Loadouts changed :
+        4x 250 lb (stock) :
+            Added Weapons of the loadout/option :
+                Added 4x 250 lb (stock)
+        6x 250 lb -> 4x 250 lb :
+            Removed Required modification UC Mk.1
+            Added Weapons of the loadout/option :
+                Added 4x 250 lb (stock)
+                Added 2x 250 lb
+        8x AP Mk I :
+            Removed Required modification HRC mk.8
+            Added Weapons of the loadout/option :
+                Added 8x AP Mk I
+        1x Mk.XII :
+            Removed Required modification FTC mk.II
+            Added Weapons of the loadout/option :
+                Added 1x Mk.XII
+        8x RP-3 -> 4x AP Mk I + 4x RP-3 :
+            Removed Required modification HRC mk.8
+            Added Weapons of the loadout/option :
+                Added 4x RP-3
+                Added 4x AP Mk I
+    Removed loadouts :
+        2x 250 lb + 2x 500 lb
+
+Wellington Mk X, Wellington Mk Ic, Wellington Mk Ic/L, Wellington Mk III :
+    New loadouts :
+        9x 500 lb
+        2x 2000 lb
+
+Wyvern S4 :
+    New loadouts :
+        3x 500 lb
+        1x 2000 lb
+    Custom loadout changes :
+        Slot 1 changed :
+            Option changed : 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+            Option changed : 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+            Option changed : 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+            Option changed : 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+        Slot 2 changed :
+            Option changed : 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+            Option changed : 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+            Option changed : 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+            Option changed : 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+        Slot 3 changed :
+            Option changed : 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+            Option changed : 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+            Option changed : 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+            Option changed : 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+        Slot 4 changed :
+            Option changed : 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+            Option changed : 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+            Option changed : 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+            Option changed : 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 -> 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 5 or 1x 500 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5
+        Slot 5 changed :
+            Added 1x 500 lb option, can't be equipped together with 1x AP Mk I on slots 4, 3, 2, 1 or 1x RP-3 on slots 4, 3, 2, 1 or 1x AP Mk I on slots 4, 3, 2, 1 or 1x RP-3 on slots 4, 3, 2, 1
+        Slot 6 changed :
+            Added 1x 500 lb option
+            Added 1x 2000 lb option
+        Slot 7 changed :
+            Added 1x 500 lb option, can't be equipped together with 1x AP Mk I on slots 8, 9, 10, 11 or 1x RP-3 on slots 8, 9, 10, 11 or 1x AP Mk I on slots 8, 9, 10, 11 or 1x RP-3 on slots 8, 9, 10, 11
+        Slot 8 changed :
+            Option changed : 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+            Option changed : 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+            Option changed : 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+            Option changed : 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
         Slot 9 changed :
-            Option changed : 160x Flares/Chaff + 1x AIM-9L -> 160x Flares/Chaff + 1x AIM-9L
+            Option changed : 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+            Option changed : 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+            Option changed : 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+            Option changed : 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+        Slot 10 changed :
+            Option changed : 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+            Option changed : 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+            Option changed : 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+            Option changed : 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+        Slot 11 changed :
+            Option changed : 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+            Option changed : 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+            Option changed : 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x AP Mk I + 1x AP Mk I, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
+            Option changed : 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7 -> 1x RP-3 + 1x RP-3, can't be equipped together with 1x Red Angel on slot 7 or 1x 500 lb on slot 7 or 1x 500 lb on slot 7 or 1x 1000 lb on slot 7
 
-A.109EOA-2 :
+F-104J :
     Loadouts changed :
-        2x 12.7 mm FN M3P machine gun + 6x FFAR Mighty Mouse -> 2x 12.7 mm FN M3P machine gun + 3x FFAR Mighty Mouse :
+        2x AIM-9B -> 4x AIM-9B :
             Weapons of the loadout/option changed :
-                FFAR Mighty Mouse changed : 6x -> 3x
-                Added 3x FFAR Mighty Mouse
+                AIM-9B changed : 2 -> 4
+        4x AIM-9E -> 6x AIM-9E :
+            Weapons of the loadout/option changed :
+                AIM-9E changed : 4 -> 6
+        4x AIM-9P -> 6x AIM-9P :
+            Weapons of the loadout/option changed :
+                AIM-9P changed : 4 -> 6
     Custom loadout changes :
+        Slot 2 changed :
+            Added 1x AIM-9B option
+            Added 1x AIM-9E option
+            Added 1x AIM-9P option
+        Slot 5 changed :
+            Added 1x AIM-9B option
+            Added 1x AIM-9E option
+            Added 1x AIM-9P option
+
+A-5C :
+    Loadouts changed :
+        1x 250-3 :
+            Total damage changed : 2544 -> 2071
+        4x 250-3 :
+            Total damage changed : 10176 -> 8284
+        4x 250-3 + 2x Matra R550 Magic 1 + 28x Type 90-1 HEAT :
+            Total damage changed : 10176 -> 8284
+
+▄AV-8B Plus :
+    Loadouts changed :
+        4x GBU-16 Paveway II + 1x LITENING II :
+            Weapons of the loadout/option changed :
+                Removed 4x GBU-16 Paveway II
+                Added 4x GBU-16 Paveway II
+    Custom loadout changes :
+        Slot 2 changed :
+            Option changed : 1x GBU-16 Paveway II, must be equipped together with 1x LITENING II on slot 5 -> 1x GBU-16 Paveway II, must be equipped together with 1x LITENING II on slot 5
         Slot 3 changed :
-            Option changed : 1x 12.7 mm FN M3P machine gun + 3x FFAR Mighty Mouse -> 1x 12.7 mm FN M3P machine gun + 3x FFAR Mighty Mouse
+            Option changed : 1x GBU-16 Paveway II, must be equipped together with 1x LITENING II on slot 5 -> 1x GBU-16 Paveway II, must be equipped together with 1x LITENING II on slot 5
+        Slot 6 changed :
+            Option changed : 1x GBU-16 Paveway II, must be equipped together with 1x LITENING II on slot 5 -> 1x GBU-16 Paveway II, must be equipped together with 1x LITENING II on slot 5
+        Slot 7 changed :
+            Option changed : 1x GBU-16 Paveway II, must be equipped together with 1x LITENING II on slot 5 -> 1x GBU-16 Paveway II, must be equipped together with 1x LITENING II on slot 5
+
+▄F-100D :
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 19x FFAR Mighty Mouse option
+
+▄F6F-5N :
+    Removed loadouts :
+        1x 2000 lb
+        1x AN-Mk 1
+    Custom loadout changes :
+        Slot 5 changed :
+            Removed 1x AN-Mk 1 option
+            Removed 1x 2000 lb option
+
+▄SB2C-5 :
+    Loadouts changed :
+        1x 500 lb :
+            Required modification changed : MBC mk.I -> SBC mk.I
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 4x HVAR option
+            Removed 4x HVAR option
+        Slot 2 changed :
+            Option changed : 2x 12.7 mm M2 Browning machine gun (secondary), can't be equipped together with 1x HVAR on slot 1 -> 2x 12.7 mm M2 Browning machine gun (secondary), can't be equipped together with 1x HVAR on slot 1
+        Slot 4 changed :
+            Option changed : 2x 12.7 mm M2 Browning machine gun (secondary), can't be equipped together with 1x HVAR on slot 5 -> 2x 12.7 mm M2 Browning machine gun (secondary), can't be equipped together with 1x HVAR on slot 5
+        Slot 5 changed :
+            Added 4x HVAR option
+            Removed 4x HVAR option
+
+SAAB-105G, SAAB-105OE :
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 2x m/56D option
+            Removed 2x m/56D option
+        Slot 2 changed :
+            Added 4x m/55 option
+            Added 2x m/56D option
+            Removed 4x m/55 option
+            Removed 2x m/56D option
+        Slot 3 changed :
+            Added 4x m/55 option
+            Added 2x m/56D option
+            Removed 4x m/55 option
+            Removed 2x m/56D option
+        Slot 4 changed :
+            Added 4x m/55 option
+            Added 2x m/56D option
+            Removed 4x m/55 option
+            Removed 2x m/56D option
+        Slot 5 changed :
+            Added 4x m/55 option
+            Added 2x m/56D option
+            Removed 4x m/55 option
+            Removed 2x m/56D option
+        Slot 6 changed :
+            Added 2x m/56D option
+            Removed 2x m/56D option
+
+J35D :
+    Added custom loadouts
+    Loadouts changed :
+        4x RB24 :
+            Removed Required modification RB24
+            Added Weapons of the loadout/option :
+                Added 4x RB24
+        2x RB24J (stock) :
+            Added Weapons of the loadout/option :
+                Added 2x RB24J (stock)
+        4x RB24J -> 2x RB24J :
+            Removed Required modification RB24J
+            Added Weapons of the loadout/option :
+                Added 2x RB24J (stock)
+                Added 2x RB24J
+        12x m/56D :
+            Removed Required modification m/56d
+            Added Weapons of the loadout/option :
+                Added 12x m/56D
+        38x m/57B :
+            Removed Required modification m/57
+            Added Weapons of the loadout/option :
+                Added 38x m/57B
+    Removed loadouts :
+        2x RB24 + 12x m/56D
+        2x RB24 + 38x m/57B
+        2x RB24J + 12x m/56D
+        2x RB24J + 38x m/57B
+
+SK60B :
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 2x m/56D option
+            Removed 2x m/56D option
+        Slot 2 changed :
+            Added 2x m/56D option
+            Removed 2x m/56D option
+        Slot 3 changed :
+            Added 2x m/56D option
+            Removed 2x m/56D option
+        Slot 4 changed :
+            Added 2x m/56D option
+            Removed 2x m/56D option
+        Slot 5 changed :
+            Added 2x m/56D option
+            Removed 2x m/56D option
+        Slot 6 changed :
+            Added 2x m/56D option
+            Removed 2x m/56D option
+
+◊Mi-24P, ◄Mi-24P HFS 80, Mi-24V, ◔Mi-24V :
+    New loadouts :
+        4x 7.62 mm GShG + 2x YakB-12.7
+    Custom loadout changes :
+        Slot 2 changed :
+            Added 2x 7.62 mm GShG + 1x YakB-12.7 option, can't be equipped together with 1x 7.62 mm GShG on slot 3 or 1x 7.62 mm GShG on slot 4, must be equipped together with 1x 7.62 mm GShG on slot 5
+        Slot 3 changed :
+            Added 2x 7.62 mm GShG + 1x YakB-12.7 option, can't be equipped together with 1x 7.62 mm GShG on slot 2 or 1x 7.62 mm GShG on slot 5, must be equipped together with 1x 7.62 mm GShG on slot 4
+        Slot 4 changed :
+            Added 2x 7.62 mm GShG + 1x YakB-12.7 option, can't be equipped together with 1x 7.62 mm GShG on slot 2 or 1x 7.62 mm GShG on slot 5, must be equipped together with 1x 7.62 mm GShG on slot 3
+        Slot 5 changed :
+            Added 2x 7.62 mm GShG + 1x YakB-12.7 option, can't be equipped together with 1x 7.62 mm GShG on slot 3 or 1x 7.62 mm GShG on slot 4, must be equipped together with 1x 7.62 mm GShG on slot 2
+
+Mi-24P, ◔Mi-24P :
+    New loadouts :
+        4x 7.62 mm GShG + 2x YakB-12.7
+    Loadouts changed :
+        x Empty (stock) -> 4x 9M114 Shturm + 40x S-8KO :
+            Added Weapons of the loadout/option :
+                Added 4x 9M114 Shturm
+                Added 40x S-8KO (stock)
+            No longer available stock
+    Custom loadout changes :
+        Slot 2 changed :
+            Added 2x 7.62 mm GShG + 1x YakB-12.7 option, can't be equipped together with 1x 7.62 mm GShG on slot 3 or 1x 7.62 mm GShG on slot 4, must be equipped together with 1x 7.62 mm GShG on slot 5
+        Slot 3 changed :
+            Added 2x 7.62 mm GShG + 1x YakB-12.7 option, can't be equipped together with 1x 7.62 mm GShG on slot 2 or 1x 7.62 mm GShG on slot 5, must be equipped together with 1x 7.62 mm GShG on slot 4
+        Slot 4 changed :
+            Added 2x 7.62 mm GShG + 1x YakB-12.7 option, can't be equipped together with 1x 7.62 mm GShG on slot 2 or 1x 7.62 mm GShG on slot 5, must be equipped together with 1x 7.62 mm GShG on slot 3
+        Slot 5 changed :
+            Added 2x 7.62 mm GShG + 1x YakB-12.7 option, can't be equipped together with 1x 7.62 mm GShG on slot 3 or 1x 7.62 mm GShG on slot 4, must be equipped together with 1x 7.62 mm GShG on slot 2
+
+T129 :
+    Loadouts changed :
+        19x FZ49 :
+            Required modification changed : HL-19-70 -> FZ49
 

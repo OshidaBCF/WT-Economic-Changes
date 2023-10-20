@@ -1,5 +1,44 @@
 Statcard changes :
 
-StuG III A, StuG III F :
-    Hull Thickness : 50 / 30 / 30 -> 30 / 30 / 30 mm
+◊MiG-29 :
+    Turn Time : 19.4 -> 19.8 s
+
+MiG-29 :
+    Turn Time : 19.7 -> 20.1 s
+
+▄Corsair F Mk II :
+    Max Speed : 711.0 -> 659.99 km/h
+    Max Speed at Altitude : 9000 -> 7000 m
+
+▄Hellcat Mk II :
+    Max Speed : 610.0 -> 646.9 km/h
+    Max Speed at Altitude : 7100 -> 5730 m
+
+Seafire FR 47 :
+    Max Speed : 729.0 -> 720.0 km/h
+    Max Speed at Altitude : 7315 -> 7467 m
+
+Spitfire F Mk 22 :
+    Max Speed at Altitude : 8232 -> 7924 m
+
+Spitfire F Mk 24 :
+    Max Speed at Altitude : 8232 -> 7315 m
+
+Spitfire F Mk XIVc :
+    Max Speed at Altitude : 8537 -> 6400 m
+
+Spitfire F Mk XIVe :
+    Max Speed : 723.0 -> 718.99 km/h
+    Max Speed at Altitude : 8537 -> 6400 m
+
+Spitfire F Mk XVIIIe :
+    Max Speed : 718.2 -> 721.0 km/h
+    Max Speed at Altitude : 7927 -> 6400 m
+
+Object 211 :
+    Crew : 3 -> 4
+
+AMX-10M :
+    Hull Thickness : 50 / 30 / 25 -> 25 / 20 / 20 mm
+    Turret Thickness : 50 / 30 / 25 -> 25 / 20 / 20 mm
 
