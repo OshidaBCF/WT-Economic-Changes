@@ -2,250 +2,41 @@
 
 New vehicles :
 
-F-111A (US) :
-    Rank 7
-    BR : 11.0 / 10.3 / 10.3
-    Located after the F-105D
-    Stock Repair Cost : 3440 / 9075 / 10393 SL
-    Spaded Repair Cost : 4798 / 12657 / 14495 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=f_111a
-
-MH-60L DAP (US) :
-    Rank 7
-    BR : 11.0 / 11.3 / 11.0
+Mi-8AMTSh (USSR) :
+    Rank 6
+    BR : 10.0 / 9.7 / 9.7
     Hidden
-    Located after the OH-58D
-    Stock Repair Cost : 9406 / 4323 / 5569 SL
-    Spaded Repair Cost : 14697 / 6756 / 8701 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=mh_60l_dap
+    Located after the Mi-8TV
+    Stock Repair Cost : 8746 / 3803 / 5274 SL
+    Spaded Repair Cost : 12749 / 5544 / 7688 SL
 
-M109A1 (US) :
-    Rank 4
-    BR : 6.3
-    Located after the M36/M36B2 folder
-    Stock Repair Cost : 2557 / 2909 / 4019 SL
-    Spaded Repair Cost : 3164 / 3600 / 4975 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=us_m109a1
-
-T54E2 (US) :
-    Rank 5
-    BR : 7.7
-    8380 GE premium
-    Repair Cost : 2897 / 3301 / 4496 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=us_t54e2
-
-◄MiG-29G (GER) :
+JH-7A (CN) :
     Rank 8
-    BR : 12.3
-    Located after the ◊MiG-29
-    Stock Repair Cost : 2922 / 8434 / 9931 SL
-    Spaded Repair Cost : 4427 / 12779 / 15047 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=mig_29_9_12g
-
-M109G (GER) :
-    Rank 4
-    BR : 6.0
-    Located after the Nashorn/Waffenträger folder
-    Stock Repair Cost : 2439 / 2872 / 3771 SL
-    Spaded Repair Cost : 3019 / 3555 / 4668 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=germ_m109g
-
-BTR-152D (USSR) :
-    Rank 3
-    BR : 4.0 / 3.7 / 3.7
-    Located after the ZSU-37
-    Stock Repair Cost : 1448 / 1132 / 1710 SL
-    Spaded Repair Cost : 1837 / 1437 / 2170 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=ussr_btr_152d
-
-ussr_object_775 (USSR) :
-    Rank 6
-    BR : 9.3
-    Located after the Shturm-S
-    Stock Repair Cost : 4613 / 5246 / 6670 SL
-    Spaded Repair Cost : 6118 / 6957 / 8846 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=ussr_object_775
-
-Strikemaster Mk.88 (UK) :
-    Rank 4
-    BR : 5.7 / 6.0 / 6.0
-    Hidden
-    Event or pack premium
-    Repair Cost : 1779 / 2777 / 4963 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=strikemaster_mk88
-
-M109A1 (UK) :
-    Rank 4
-    BR : 6.3
-    Located after the FV4005
-    Stock Repair Cost : 3148 / 3601 / 4887 SL
-    Spaded Repair Cost : 3896 / 4457 / 6048 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=uk_m109a1
-
-Vickers Mk.11 (UK) :
-    Rank 6
-    BR : 8.7
-    Located after the Vickers Mk.3
-    Stock Repair Cost : 3252 / 3404 / 3948 SL
-    Spaded Repair Cost : 5236 / 5481 / 6358 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=uk_vickers_mk_11
-
-uk_gay_class_archer (UK) :
-    Rank 2
-    BR : 2.3
-    Hidden
-    Event or pack premium
-    Repair Cost : 583 / 807 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=uk_gay_class_archer
-
-HMS Iron Duke (UK) :
-    Rank 5
-    BR : 6.7
-    Event or pack premium
-    Repair Cost : 12733 / 14714 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=uk_battleship_iron_duke
-
-Tan-SAM-1C (JP) :
-    Rank 7
-    BR : 10.0
-    Located after the Type 93
-    Stock Repair Cost : 4991 / 4869 / 5383 SL
-    Spaded Repair Cost : 6718 / 6553 / 7245 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=jp_type_81_tansam
-
-IJN Yamashiro (JP) :
-    Rank 5
-    BR : 6.7
-    Event or pack premium
-    Repair Cost : 12733 / 14714 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=jp_battleship_yamashiro
-
-PLZ83 (CN) :
-    Rank 4
-    BR : 6.3
-    Located after the ␗SU-100
-    Stock Repair Cost : 3895 / 4375 / 5938 SL
-    Spaded Repair Cost : 4820 / 5415 / 7350 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=cn_plz_83
-
-AH-129D (IT) :
-    Rank 7
-    BR : 11.7
-    Located after the A129CBT
-    Stock Repair Cost : 9856 / 4552 / 6104 SL
-    Spaded Repair Cost : 16878 / 7795 / 10452 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=a_129_d
-
-Breda 90/53 (IT) :
-    Rank 3
-    BR : 4.0
-    Hidden
-    1450 GE premium
-    Repair Cost : 794 / 872 / 1040 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=it_breda_52_autocannone
-
-Leopard 40/70 (IT) :
-    Rank 3
-    BR : 4.7 / 4.3 / 4.3
-    Located after the M42 Contraereo
-    Stock Repair Cost : 1681 / 1336 / 1944 SL
-    Spaded Repair Cost : 2161 / 1717 / 2498 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=it_leopard_bofors
-
-▄M109G (IT) :
-    Rank 4
-    BR : 6.0
-    Located after the M36B1
-    Stock Repair Cost : 3459 / 4021 / 5268 SL
-    Spaded Repair Cost : 4282 / 4976 / 6520 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=it_m109g
-
-Tiger HAD Block 2 (FR) :
-    Rank 7
     BR : 11.7
     Hidden
-    Located after the EC-665 Tiger HAD
-    Stock Repair Cost : 10363 / 4786 / 6417 SL
-    Spaded Repair Cost : 16878 / 7795 / 10452 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=tiger_had_block2_france
+    Located after the Q-5L
+    Stock Repair Cost : 2976 / 7778 / 11397 SL
+    Spaded Repair Cost : 4429 / 11574 / 16961 SL
 
-AMX-10P (FR) :
-    Rank 4
-    BR : 5.3
-    Located after the AMX-13 DCA 40
-    Stock Repair Cost : 2628 / 2085 / 3225 SL
-    Spaded Repair Cost : 3775 / 2996 / 4633 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=fr_amx_10p
-
-▄M26 (FR) :
-    Rank 4
-    BR : 6.7
-    Located after the M4A4 (SA50)
-    Stock Repair Cost : 3325 / 3871 / 5058 SL
-    Spaded Repair Cost : 4274 / 4976 / 6501 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=fr_m26_pershing
-
-Pbv 501 (SWE) :
-    Rank 4
+RN Conte di Cavour (IT) :
+    Rank 6
     BR : 7.0
-    Located after the Pvkv II
-    Stock Repair Cost : 2450 / 2988 / 4010 SL
-    Spaded Repair Cost : 3811 / 4647 / 6237 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=sw_pbv_501
-
-M109 (ISR) :
-    Rank 4
-    BR : 6.0
-    Located after the TCM-20
-    Stock Repair Cost : 2439 / 2872 / 3771 SL
-    Spaded Repair Cost : 3019 / 3555 / 4668 SL
-    Test Drive Link : https://wiki.warthunder.com/Special:GameObjectView?object_id=il_m109
+    Located after the RN Dante Alighieri
+    Stock Repair Cost : 27493 / 33334 SL
+    Spaded Repair Cost : 34496 / 41824 SL
 
 ----------------------------------------------------------------------------------------------------
 
 Tech-tree changes :
 
-M56 (US) :
-    Located after the M36/M36B2 folder -> Located after the M109A1
+USS Des Moines (US) :
+    Rank : 4 -> 5
 
-leKPz M41 (GER) :
-    Located after the Nashorn/Waffenträger folder -> Located after the M109G
+Mi-8TV (USSR) :
+    In a new line -> First in line before the Mi-8AMTSh
 
-Khrizantema-S (USSR) :
-    Located after the Shturm-S -> Located after the ussr_object_775
-
-BTR-ZD (USSR) :
-    Located after the ZSU-37 -> Located after the BTR-152D
-
-VFM5 (UK) :
-    Located after the Vickers Mk.3 -> Located after the Vickers Mk.11
-
-Tortoise (UK) :
-    Located after the FV4005 -> Located after the M109A1
-
-␗M113A1 (TOW) (CN) :
-    Located after the ␗SU-100 -> Located after the PLZ83
-
-R3 T20 FA-HS (IT) :
-    Located after the M42 Contraereo -> Located after the Leopard 40/70
-
-M113A1 (TOW) (IT) :
-    Located after the M36B1 -> Located after the ▄M109G
-
-Lorraine 40t (FR) :
-    Located after the M4A4 (SA50) -> Located after the ▄M26
-
-AMX-30 DCA (FR) :
-    Located after the AMX-13 DCA 40 -> Located after the AMX-10P
-
-Ikv 91 (SWE) :
-    Located after the Pvkv II -> Located after the Pbv 501
-
-TCM-20 (ISR) :
-    First in line before the Zachlam Tager -> First in line before the M109
-
-Zachlam Tager (ISR) :
-    Located after the TCM-20 -> Located after the M109
+Breda 90/53 (IT) :
+    1450 GE premium -> Event or pack premium
 
 ----------------------------------------------------------------------------------------------------
 

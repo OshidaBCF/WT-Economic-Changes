@@ -1,44 +1,28 @@
 Statcard changes :
 
-◊MiG-29 :
-    Turn Time : 19.4 -> 19.8 s
+F-111A :
+    Max Speed : 2166.84 -> 2448.0 km/h
+    Turn Time : 28 -> 33 s
+    Takeoff Length : 1050 -> 1200 m
+    Max Speed at Altitude : 10668 -> 12192 m
+    Climb Speed : 175 -> 125 m/s
 
-MiG-29 :
-    Turn Time : 19.7 -> 20.1 s
+M109G, ▄M109G, M109 :
+    Hull Thickness : 30 / 30 / 30 -> 32 / 32 / 32 mm
+    Turret Thickness : 30 / 30 / 30 -> 32 / 32 / 32 mm
 
-▄Corsair F Mk II :
-    Max Speed : 711.0 -> 659.99 km/h
-    Max Speed at Altitude : 9000 -> 7000 m
+ussr_object_775 :
+    Hull Thickness : 14 / 7 / 7 -> 100 / 80 / 40 mm
+    Turret Thickness : 0 / 0 / 0 -> 200 / 120 / 65 mm
 
-▄Hellcat Mk II :
-    Max Speed : 610.0 -> 646.9 km/h
-    Max Speed at Altitude : 7100 -> 5730 m
+Leopard 40/70 :
+    Hull Thickness : 30 / 25 / 25 -> 70 / 30 / 25 mm
+    Turret Thickness : 15 / 15 / 15 -> 8 / 8 / 0 mm
 
-Seafire FR 47 :
-    Max Speed : 729.0 -> 720.0 km/h
-    Max Speed at Altitude : 7315 -> 7467 m
+AMX-10P :
+    Hull Thickness : 32 / 11 / 11 -> 30 / 20 / 20 mm
+    Turret Thickness : 25 / 25 / 25 -> 30 / 30 / 30 mm
 
-Spitfire F Mk 22 :
-    Max Speed at Altitude : 8232 -> 7924 m
-
-Spitfire F Mk 24 :
-    Max Speed at Altitude : 8232 -> 7315 m
-
-Spitfire F Mk XIVc :
-    Max Speed at Altitude : 8537 -> 6400 m
-
-Spitfire F Mk XIVe :
-    Max Speed : 723.0 -> 718.99 km/h
-    Max Speed at Altitude : 8537 -> 6400 m
-
-Spitfire F Mk XVIIIe :
-    Max Speed : 718.2 -> 721.0 km/h
-    Max Speed at Altitude : 7927 -> 6400 m
-
-Object 211 :
-    Crew : 3 -> 4
-
-AMX-10M :
-    Hull Thickness : 50 / 30 / 25 -> 25 / 20 / 20 mm
-    Turret Thickness : 50 / 30 / 25 -> 25 / 20 / 20 mm
+IJN Yamashiro :
+    Max Speed : 41.65 -> 43.2 km/h
 
