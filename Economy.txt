@@ -1,521 +1,309 @@
-Economy changes :
-
-MiG-29SMT :
-    Full Stock Repair Cost : 2922 / 8434 / 9931 -> 2687 / 7757 / 9134 SL
-    Minimum Repair Cost : 1207 / 1203 / 983 -> 1110 / 1106 / 904 SL/minute
-    Number of modifications needed to unlock Tier 4 : 3 -> 4
+Economy Changes :
+F-111A :
+    Full Stock Repair Cost : 3440 / 9075 / 10393 -> 3185 / 8404 / 9624 SL
+    Minimum Repair Cost : 1274 / 1272 / 996 -> 1180 / 1178 / 922 SL/minute
     Modification changes :
-        Added UV-5-08 as Tier 3 modification
+        Added EFS as Tier 3 modification
+        M60 air targets belt :
+            Spawn cost multiplier : 1.33 -> [1.33, 1.33]
+        M60 armored targets belt :
+            Spawn cost multiplier : 1.33 -> [1.33, 1.33]
+        M60 stealth belt :
+            Spawn cost multiplier : 1.33 -> [1.33, 1.33]
         Compressor :
-            Repair cost coefficient : 0.041 -> 0.044
-            GE cost : 380 -> 400
+            Repair cost coefficient : 0.038 -> 0.041
+            GE cost : 300 -> 320
         Fuselage repair :
-            GE cost : 380 -> 400
+            Repair cost coefficient : 0.007 -> 0.008
+            GE cost : 300 -> 320
         Flares/Chaff :
-            GE cost : 380 -> 400
-        R-27R :
-            GE cost : 380 -> 400
-        30 mm belts :
-            GE cost : 380 -> 400
-        ZB-500 :
-            GE cost : 380 -> 400
-        OFAB-100 :
-            GE cost : 380 -> 400
+            GE cost : 300 -> 320
+        20 mm belts :
+            GE cost : 300 -> 320
+        BLU-1 :
+            GE cost : 300 -> 320
+        LAU-3/A :
+            GE cost : 300 -> 320
         New boosters :
-            Repair cost coefficient : 0.058 -> 0.063
-            GE cost : 510 -> 530
+            Repair cost coefficient : 0.053 -> 0.057
+            GE cost : 410 -> 430
         Airframe :
-            Repair cost coefficient : 0.052 -> 0.056
-            GE cost : 510 -> 530
+            Repair cost coefficient : 0.047 -> 0.051
+            GE cost : 410 -> 430
         G-suit :
-            Repair cost coefficient : 0.058 -> 0.063
-            GE cost : 510 -> 530
-        R-27T :
-            GE cost : 510 -> 530
-        B-8M1 :
-            GE cost : 510 -> 530
-        FAB-250 :
-            GE cost : 510 -> 530
-        Wings repair :
-            Repair cost coefficient : 0.059 -> 0.064
-            RP cost : 22000 -> 19000
-            GE cost : 560 -> 500
-        Cover :
-            Repair cost coefficient : 0.05 -> 0.054
-            RP cost : 22000 -> 19000
-            GE cost : 560 -> 500
-        R-73 :
-            RP cost : 22000 -> 19000
-            GE cost : 560 -> 500
-        New 30 mm cannons/MGs :
-            Repair cost coefficient : 0.023 -> 0.025
-            RP cost : 22000 -> 19000
-            GE cost : 560 -> 500
-        B-13L :
-            RP cost : 22000 -> 19000
-            GE cost : 560 -> 500
-        FAB-500 :
-            RP cost : 22000 -> 19000
-            GE cost : 560 -> 500
-        Engine :
-            Repair cost coefficient : 0.088 -> 0.096
-            GE cost : 710 -> 740
-        EFS :
-            Repair cost coefficient : 0.08 -> 0.087
-            GE cost : 710 -> 740
-        R-27ER :
-            GE cost : 710 -> 740
-        R-27ET :
-            GE cost : 710 -> 740
-        Kh-29T :
-            GE cost : 710 -> 740
-        KAB-500Kr :
-            GE cost : 710 -> 740
-
-Strikemaster Mk.88 :
-    Full Repair Cost : 1779 / 2777 / 4963 -> 1906 / 3066 / 4890 SL
-    Minimum Repair Cost : 603 / 592 / 494 -> 607 / 609 / 499 SL/minute
-    SL multiplier : 2.16 / 3.71 / 12.0 -> 2.17 / 3.84 / 12.0
-    Modification changes :
-        Added MK 77 as Tier 1 modification
-        Added New 7.62 mm cannons/MGs as Tier 2 modification
+            Repair cost coefficient : 0.053 -> 0.057
+            GE cost : 410 -> 430
         Mk82 :
-            Added Previous modification (visually, not required) : MK 77
+            GE cost : 410 -> 430
+        AIM-9B :
+            GE cost : 410 -> 430
+        Wings repair :
+            Repair cost coefficient : 0.054 -> 0.059
+            RP cost : 22000 -> 18000
+            GE cost : 450 -> 380
+        Cover :
+            Repair cost coefficient : 0.046 -> 0.05
+            RP cost : 22000 -> 18000
+            GE cost : 450 -> 380
+        New 20 mm cannons/MGs :
+            Repair cost coefficient : 0.015 -> 0.017
+            RP cost : 22000 -> 18000
+            GE cost : 450 -> 380
+        M117 :
+            RP cost : 22000 -> 18000
+            GE cost : 450 -> 380
+        AGM-12B Bullpup :
+            RP cost : 22000 -> 18000
+            GE cost : 450 -> 380
+        Engine :
+            Repair cost coefficient : 0.081 -> 0.087
+            GE cost : 970 -> 1000
+        Gun pod SUU-16/A. :
+            GE cost : 970 -> 1000
+        Mk84 :
+            GE cost : 970 -> 1000
+
+◄MiG-29G :
+    Number of modifications needed to unlock Tier 3 : 3 -> 2
+    Modification changes :
+        Removed R-60MK modification
+        Compressor :
+            GE cost : 370 -> 350
+        Fuselage repair :
+            GE cost : 370 -> 350
+        Flares/Chaff :
+            GE cost : 370 -> 350
+        30 mm belts :
+            GE cost : 370 -> 350
+        R-27R1 :
+            GE cost : 370 -> 350
+        S-24 :
+            GE cost : 370 -> 350
+        ZB-500 :
+            GE cost : 370 -> 350
+        New boosters :
+            RP cost : 20000 -> 24000
+            GE cost : 490 -> 560
+        Airframe :
+            RP cost : 20000 -> 24000
+            GE cost : 490 -> 560
+        G-suit :
+            RP cost : 20000 -> 24000
+            GE cost : 490 -> 560
+        B-8M1 :
+            RP cost : 20000 -> 24000
+            GE cost : 490 -> 560
+        OFAB-100 :
+            RP cost : 20000 -> 24000
+            GE cost : 490 -> 560
+        Wings repair :
+            GE cost : 540 -> 510
+        Cover :
+            GE cost : 540 -> 510
+        New 30 mm cannons/MGs :
+            GE cost : 540 -> 510
+        R-73E :
+            Required modification : R-60MK -> R-27R1
+            GE cost : 540 -> 510
+        R-27T1 :
+            GE cost : 540 -> 510
+        FAB-250 :
+            GE cost : 540 -> 510
+        Engine :
+            GE cost : 830 -> 790
+        EFS :
+            GE cost : 830 -> 790
+        R-27ER1 :
+            GE cost : 830 -> 790
+        R-27ET1 :
+            GE cost : 830 -> 790
+        FAB-500 :
+            GE cost : 830 -> 790
+
+JH-7A :
+    Full Stock Repair Cost : 2976 / 7778 / 11397 -> 2941 / 7685 / 11262 SL
+    Minimum Repair Cost : 1225 / 1224 / 944 -> 1210 / 1210 / 933 SL/minute
+    Number of modifications needed to unlock Tier 3 : 1 -> 3
+    Number of modifications needed to unlock Tier 4 : 1 -> 3
+    Modification changes :
+        Added Сhaff only
+        Added Flares reinforced
+        Added Mixed
+        Added Flare priority
+        Added Fuselage repair as Tier 1 modification
+        Added Flares/Chaff as Tier 1 modification
+        Added HF-6 as Tier 1 modification
+        Added PL-5B as Tier 1 modification
+        Added G-suit as Tier 2 modification
+        Added HF-14 as Tier 2 modification
+        Added K/ADC03A as Tier 2 modification
+        Added PL-5C as Tier 2 modification
+        Added Type 250 as Tier 3 modification
+        Added LS-500J as Tier 3 modification
+        Added PL-8 as Tier 3 modification
+        Added Type 500 as Tier 4 modification
+        Added LS-1000J as Tier 4 modification
+        Removed Fuselage repair modification
+        Removed G-suit modification
+        Compressor :
+            Repair cost coefficient : 0.04 -> 0.041
+            RP cost : 34000 -> 10000
+        23 mm belts :
+            RP cost : 34000 -> 10000
+        New boosters :
+            Added Previous modification (visually, not required) : Compressor
+            Repair cost coefficient : 0.045 -> 0.057
+            RP cost : 58000 -> 12000
+            GE cost : 640 -> 440
+        Airframe :
+            Added Previous modification (visually, not required) : Fuselage repair
+            Added Category : Flight performance
+            RP cost : 58000 -> 12000
+            GE cost : 640 -> 440
+        Wings repair :
+            Added Previous modification (visually, not required) : Airframe
+            Repair cost coefficient : 0.058 -> 0.059
+            RP cost : 64000 -> 15000
+            GE cost : 700 -> 550
+        New 23 mm cannons/MGs :
+            Repair cost coefficient : 0.016 -> 0.017
+            RP cost : 64000 -> 15000
+            GE cost : 700 -> 550
+        Engine :
+            Added Previous modification (visually, not required) : New boosters
+            Repair cost coefficient : 0.086 -> 0.087
+            RP cost : 42000 -> 20000
+            GE cost : 460 -> 730
+        Cover :
+            Added Previous modification (visually, not required) : Wings repair
+            Added Category : Flight performance
+            Repair cost coefficient : 0.049 -> 0.05
+            RP cost : 42000 -> 20000
+            GE cost : 460 -> 730
+        EFS :
+            Previous modification (visually, not required) : New 23 mm cannons/MGs -> G-suit
+            Removed Category : Weaponry
+            Repair cost coefficient : 0.079 -> 0.08
+            RP cost : 42000 -> 20000
+            GE cost : 460 -> 730
 
 Q-5L :
     Modification changes :
         Fuselage repair :
-            RP cost : 19000 -> 11000
-            GE cost : 410 -> 390
+            RP cost : 11000 -> 19000
+            GE cost : 390 -> 410
         Compressor :
-            RP cost : 19000 -> 11000
-            GE cost : 410 -> 390
+            RP cost : 11000 -> 19000
+            GE cost : 390 -> 410
         23 mm belts :
-            RP cost : 19000 -> 11000
-            GE cost : 410 -> 390
+            RP cost : 11000 -> 19000
+            GE cost : 390 -> 410
         HF-6 :
-            RP cost : 19000 -> 11000
-            GE cost : 410 -> 390
+            RP cost : 11000 -> 19000
+            GE cost : 390 -> 410
         Airframe :
-            RP cost : 21000 -> 13000
-            GE cost : 450 -> 460
+            RP cost : 13000 -> 21000
+            GE cost : 460 -> 450
         New boosters :
-            RP cost : 21000 -> 13000
-            GE cost : 450 -> 460
+            RP cost : 13000 -> 21000
+            GE cost : 460 -> 450
         Type 250 :
-            RP cost : 21000 -> 13000
-            GE cost : 450 -> 460
+            RP cost : 13000 -> 21000
+            GE cost : 460 -> 450
         K/PZS-01 :
-            RP cost : 21000 -> 13000
-            GE cost : 450 -> 460
+            RP cost : 13000 -> 21000
+            GE cost : 460 -> 450
         Wings repair :
-            RP cost : 24000 -> 14000
-            GE cost : 510 -> 500
+            RP cost : 14000 -> 24000
+            GE cost : 500 -> 510
         New 23 mm cannons/MGs :
-            RP cost : 24000 -> 14000
-            GE cost : 510 -> 500
+            RP cost : 14000 -> 24000
+            GE cost : 500 -> 510
         TS250 :
-            RP cost : 24000 -> 14000
-            GE cost : 510 -> 500
+            RP cost : 14000 -> 24000
+            GE cost : 500 -> 510
         HF-14 :
-            RP cost : 24000 -> 14000
-            GE cost : 510 -> 500
+            RP cost : 14000 -> 24000
+            GE cost : 500 -> 510
         Cover :
-            RP cost : 21000 -> 12000
-            GE cost : 450 -> 430
+            RP cost : 12000 -> 21000
+            GE cost : 430 -> 450
         Engine :
-            RP cost : 21000 -> 12000
-            GE cost : 450 -> 430
+            RP cost : 12000 -> 21000
+            GE cost : 430 -> 450
         G-suit :
-            RP cost : 21000 -> 12000
-            GE cost : 450 -> 430
+            RP cost : 12000 -> 21000
+            GE cost : 430 -> 450
         Type 500 :
-            RP cost : 21000 -> 12000
-            GE cost : 450 -> 430
+            RP cost : 12000 -> 21000
+            GE cost : 430 -> 450
         LS-500J :
-            RP cost : 21000 -> 12000
-            GE cost : 450 -> 430
+            RP cost : 12000 -> 21000
+            GE cost : 430 -> 450
         EFS :
-            RP cost : 21000 -> 12000
-            GE cost : 450 -> 430
-
-MH-60L DAP :
-    Modification changes :
-        Compressor :
-            RP cost : 34000 -> 20000
-        Flak jacket :
-            RP cost : 34000 -> 20000
-        Flares/Chaff :
-            RP cost : 34000 -> 20000
-        Replacing helicopter blades :
-            RP cost : 23000 -> 14000
-        Helicopter frame :
-            RP cost : 23000 -> 14000
-        AGM-114 :
-            RP cost : 23000 -> 14000
-        APKWS II :
-            RP cost : 23000 -> 14000
-        IRCM :
-            RP cost : 23000 -> 14000
-        Engine :
-            RP cost : 32000 -> 19000
-        EFS :
-            RP cost : 32000 -> 19000
-        AIM-92 Stinger :
-            RP cost : 32000 -> 19000
-        NVD :
-            RP cost : 32000 -> 19000
-        Cover :
-            RP cost : 82000 -> 49000
-        AGM-114 2 :
-            RP cost : 82000 -> 49000
-
-OH-58D :
-    Modification changes :
-        Compressor :
-            RP cost : 15000 -> 25000
-        Flak jacket :
-            RP cost : 15000 -> 25000
-        New 7.62 mm cannons/MGs :
-            RP cost : 15000 -> 25000
-        LR30 cannon :
-            RP cost : 15000 -> 25000
-        Replacing helicopter blades :
-            RP cost : 13000 -> 22000
-            GE cost : 320 -> 330
-        Helicopter frame :
-            RP cost : 13000 -> 22000
-            GE cost : 320 -> 330
-        Flares/Chaff :
-            RP cost : 13000 -> 22000
-            GE cost : 320 -> 330
-        Gun pod GP-19 :
-            RP cost : 13000 -> 22000
-            GE cost : 320 -> 330
-        APKWS II :
-            RP cost : 13000 -> 22000
-            GE cost : 320 -> 330
-        Engine :
-            RP cost : 15000 -> 25000
-        IRCM :
-            RP cost : 15000 -> 25000
-        12.7 mm belts :
-            RP cost : 15000 -> 25000
-        New 30 mm cannons/MGs :
-            RP cost : 15000 -> 25000
-        AGM-114 :
-            RP cost : 15000 -> 25000
-        Cover :
-            RP cost : 24000 -> 40000
-        NVD :
-            RP cost : 24000 -> 40000
-        New 12.7 mm cannons/MGs :
-            RP cost : 24000 -> 40000
-        AIM-92 Stinger :
-            RP cost : 24000 -> 40000
-
-Mi-8TV :
-    Modification changes :
-        Compressor :
-            RP cost : 13000 -> 22000
-            GE cost : 250 -> 260
-        Flak jacket :
-            RP cost : 13000 -> 22000
-            GE cost : 250 -> 260
-        12.7 mm belts :
-            RP cost : 13000 -> 22000
-            GE cost : 250 -> 260
-        ZB-500 :
-            RP cost : 13000 -> 22000
-            GE cost : 250 -> 260
-        Replacing helicopter blades :
-            RP cost : 15000 -> 25000
-        Helicopter frame :
-            RP cost : 15000 -> 25000
-        FAB-100 :
-            RP cost : 15000 -> 25000
-        2P32M/K-4V :
-            RP cost : 15000 -> 25000
-        Engine :
-            RP cost : 17000 -> 28000
-        NVD :
-            RP cost : 17000 -> 28000
-        New 12.7 mm cannons/MGs :
-            RP cost : 17000 -> 28000
-        FAB-250 :
-            RP cost : 17000 -> 28000
-        Cover :
-            RP cost : 29000 -> 48000
-            GE cost : 570 -> 560
-        EFS(a) :
-            RP cost : 29000 -> 48000
-            GE cost : 570 -> 560
-        FAB-500 :
-            RP cost : 29000 -> 48000
-            GE cost : 570 -> 560
-
-M109G :
-    Full Stock Repair Cost : 2439 / 2872 / 3771 -> 2324 / 2737 / 3594 SL
-    Minimum Repair Cost : 618 / 623 / 616 -> 589 / 594 / 587 SL/minute
-    Modification changes :
-        Added Smoke grenade as Tier 4 modification
-        Improved Parts :
-            GE cost : 115 -> 120
-        Tracks :
-            Repair cost coefficient : 0.012 -> 0.013
-            GE cost : 115 -> 120
-        Horizontal Drive :
-            Repair cost coefficient : 0.012 -> 0.013
-            GE cost : 115 -> 120
-        M110 Smoke (modification) :
-            GE cost : 115 -> 120
-        Improved FPE :
-            GE cost : 105 -> 110
-        Suspension :
-            GE cost : 105 -> 110
-        Brake System :
-            Repair cost coefficient : 0.016 -> 0.017
-            GE cost : 105 -> 110
-        Adjustment of Fire :
-            Repair cost coefficient : 0.02 -> 0.021
-            GE cost : 105 -> 110
-        M107 (PF) HE-VT (modification) :
-            GE cost : 105 -> 110
-        Filters :
-            Repair cost coefficient : 0.031 -> 0.032
-            GE cost : 195 -> 210
-        Elevation Mechanism :
-            Repair cost coefficient : 0.028 -> 0.03
-            GE cost : 195 -> 210
-        Crew Replenishment :
-            GE cost : 195 -> 210
-        Transmission :
-            Repair cost coefficient : 0.042 -> 0.044
-            RP cost : 6600 -> 4400
-            GE cost : 380 -> 270
-        Engine :
-            Repair cost coefficient : 0.048 -> 0.051
-            RP cost : 6600 -> 4400
-            GE cost : 380 -> 270
-
-BTR-152D :
-    Full Stock Repair Cost : 1448 / 1132 / 1710 -> 1429 / 1118 / 1689 SL
-    Minimum Repair Cost : 329 -> 325 / 325 / 324 SL/minute
-    Modification changes :
-        Added Tires as Tier 1 modification
-        Improved Parts :
-            RP cost : 1700 -> 1200
-            GE cost : 130 -> 100
-        Horizontal Drive :
-            RP cost : 1700 -> 1200
-            GE cost : 130 -> 100
-        IAI / API-T (modification) :
-            RP cost : 1700 -> 1200
-            GE cost : 130 -> 100
-        Improved FPE :
-            GE cost : 85 -> 90
-        Suspension :
-            GE cost : 85 -> 90
-        Brake System :
-            Repair cost coefficient : 0.016 -> 0.017
-            GE cost : 85 -> 90
-        Adjustment of Fire :
-            Repair cost coefficient : 0.02 -> 0.021
-            GE cost : 85 -> 90
-        API-T / AP-I(c) / API-T / IAI (modification) :
-            GE cost : 85 -> 90
-        Filters :
-            GE cost : 160 -> 170
-        Elevation Mechanism :
-            Repair cost coefficient : 0.029 -> 0.03
-            GE cost : 160 -> 170
-        Crew Replenishment :
-            GE cost : 160 -> 170
-        Transmission :
-            Repair cost coefficient : 0.043 -> 0.044
-            GE cost : 200 -> 220
-        Engine :
-            Repair cost coefficient : 0.049 -> 0.05
-            GE cost : 200 -> 220
-        Artillery Support :
-            Repair cost coefficient : 0.038 -> 0.039
-            GE cost : 200 -> 220
-
-ussr_object_775 :
-    Full Stock Repair Cost : 4613 / 5246 / 6670 -> 4240 / 4821 / 6130 SL
-    Minimum Repair Cost : 1131 / 1140 / 1135 -> 1039 / 1048 / 1043 SL/minute
-    Modification changes :
-        Added ESS as Tier 4 modification
-        Added NVD as Tier 4 modification
-        Removed Artillery Support modification
-        Improved Parts :
-            Repair cost coefficient : 0.009 -> 0.01
-            RP cost : 2800 -> 3600
-            GE cost : 260 -> 360
-        Tracks :
-            Repair cost coefficient : 0.013 -> 0.014
-            RP cost : 9400 -> 12000
-            GE cost : 260 -> 360
-        Horizontal Drive :
-            Repair cost coefficient : 0.013 -> 0.014
-            RP cost : 9400 -> 12000
-            GE cost : 260 -> 360
-        Dozer Blade :
-            Tier : 1 -> 4
-            Repair cost coefficient : 0.032 -> 0.035
-            RP cost : 9400 -> 12000
-            GE cost : 260 -> 360
-        Improved FPE :
-            Repair cost coefficient : 0.009 -> 0.01
-            GE cost : 310 -> 330
-        Suspension :
-            Repair cost coefficient : 0.011 -> 0.012
-            GE cost : 310 -> 330
-        Brake System :
-            Repair cost coefficient : 0.017 -> 0.019
-            GE cost : 310 -> 330
-        Adjustment of Fire :
-            Repair cost coefficient : 0.021 -> 0.023
-            GE cost : 310 -> 330
-        Filters :
-            Repair cost coefficient : 0.033 -> 0.036
-            GE cost : 440 -> 480
-        Elevation Mechanism :
-            Repair cost coefficient : 0.031 -> 0.033
-            GE cost : 440 -> 480
-        Crew Replenishment :
-            GE cost : 440 -> 480
-        Transmission :
-            Repair cost coefficient : 0.045 -> 0.049
-            RP cost : 20000 -> 12000
-            GE cost : 560 -> 360
-        Engine :
-            Repair cost coefficient : 0.052 -> 0.056
-            RP cost : 20000 -> 12000
-            GE cost : 560 -> 360
-
-Tan-SAM-1C :
-    Full Stock Repair Cost : 4991 / 4869 / 5383 -> 4535 / 4423 / 4890 SL
-    Minimum Repair Cost : 1056 / 1186 / 1186 -> 960 / 1077 / 1078 SL/minute
-    Modification changes :
-        Added Laser rangefinder as Tier 4 modification
-        Added NVD as Tier 4 modification
-        Improved Parts :
-            Repair cost coefficient : 0.009 -> 0.01
-            GE cost : 350 -> 400
-        Tires :
-            Repair cost coefficient : 0.013 -> 0.015
-            GE cost : 350 -> 400
-        Horizontal Drive :
-            Repair cost coefficient : 0.013 -> 0.015
-            GE cost : 350 -> 400
-        Improved FPE :
-            Repair cost coefficient : 0.009 -> 0.01
-            GE cost : 290 -> 340
-        Suspension :
-            Repair cost coefficient : 0.02 -> 0.022
-            GE cost : 290 -> 340
-        Brake System :
-            Repair cost coefficient : 0.017 -> 0.019
-            GE cost : 290 -> 340
-        Airstrike :
-            Repair cost coefficient : 0.03 -> 0.033
-            GE cost : 290 -> 340
-        Filters :
-            Repair cost coefficient : 0.034 -> 0.037
-            GE cost : 440 -> 500
-        Elevation Mechanism :
-            Repair cost coefficient : 0.031 -> 0.034
-            GE cost : 440 -> 500
-        Crew Replenishment :
-            GE cost : 440 -> 500
-        Transmission :
-            Repair cost coefficient : 0.046 -> 0.05
-            RP cost : 41000 -> 27000
-            GE cost : 430 -> 320
-        Engine :
-            Repair cost coefficient : 0.052 -> 0.058
-            RP cost : 41000 -> 27000
-            GE cost : 430 -> 320
-        Artillery Support :
-            Repair cost coefficient : 0.04 -> 0.044
-            RP cost : 41000 -> 27000
-            GE cost : 430 -> 320
-        Improved optics :
-            Repair cost coefficient : 0.03 -> 0.033
-            RP cost : 41000 -> 27000
-            GE cost : 430 -> 320
-
-Breda 90/53 :
-    Modification changes :
-        Added 90mm_gr_ca HE-TF
-        Added Rangefinder as Tier 4 modification
+            RP cost : 12000 -> 21000
+            GE cost : 430 -> 450
 
 Leopard 40/70 :
-    Full Stock Repair Cost : 1681 / 1336 / 1944 -> 1681 / 1357 / 1971 SL
-    Minimum Repair Cost : 367 / 368 / 368 -> 367 / 369 / 367 SL/minute
-    Full Spaded Repair Cost : 2161 / 1717 / 2498 -> 2161 / 1744 / 2534 SL
-    SL multiplier : 0.94 / 1.14 / 1.72 -> 0.94 / 1.16 / 1.72
-
-▄M109G :
-    Full Stock Repair Cost : 3459 / 4021 / 5268 -> 3297 / 3832 / 5020 SL
-    Minimum Repair Cost : 877 / 873 / 861 -> 836 / 832 / 820 SL/minute
+    RP Cost : 33000 -> 46000 RP
+    SL Cost : 105000 -> 155000 SL
+    Crew Cost : 30000 -> 45000 SL
+    Expert Crew Cost : 105000 -> 155000 SL
+    Ace Crew Cost : 360000 / 470 -> 440000 RP / 630 GE
+    Full Stock Repair Cost : 1681 / 1357 / 1971 -> 2913 / 2314 / 3511 SL
+    Minimum Repair Cost : 367 / 369 / 367 -> 600 / 602 / 609 SL/minute
+    Full Spaded Repair Cost : 2161 / 1744 / 2534 -> 3744 / 2974 / 4513 SL
+    SL multiplier : 0.94 / 1.16 / 1.72 -> 1.12 / 1.4 / 2.0
+    RP multiplier : 1.48 -> 1.6
     Modification changes :
-        Added Smoke grenade as Tier 4 modification
         Improved Parts :
-            GE cost : 130 -> 135
+            RP cost : 1500 -> 2000
+            GE cost : 110 -> 120
         Tracks :
-            Repair cost coefficient : 0.012 -> 0.013
-            GE cost : 130 -> 135
+            RP cost : 1500 -> 2000
+            GE cost : 110 -> 120
         Horizontal Drive :
-            Repair cost coefficient : 0.012 -> 0.013
-            GE cost : 130 -> 135
-        M110 Smoke (modification) :
-            GE cost : 130 -> 135
+            RP cost : 1500 -> 2000
+            GE cost : 110 -> 120
+        40 mm HEI-T HEFI-T / 40 mm HEI-T HEFI-T / 40 mm HEI-T HEFI-T (modification) :
+            RP cost : 1500 -> 2000
+            GE cost : 110 -> 120
         Improved FPE :
-            GE cost : 120 -> 125
+            RP cost : 1300 -> 1800
+            GE cost : 95 -> 110
         Suspension :
-            GE cost : 120 -> 125
+            RP cost : 1300 -> 1800
+            GE cost : 95 -> 110
         Brake System :
-            Repair cost coefficient : 0.016 -> 0.017
-            GE cost : 120 -> 125
+            RP cost : 1300 -> 1800
+            GE cost : 95 -> 110
         Adjustment of Fire :
-            Repair cost coefficient : 0.02 -> 0.021
-            GE cost : 120 -> 125
-        M107 (PF) HE-VT (modification) :
-            GE cost : 120 -> 125
+            RP cost : 1300 -> 1800
+            GE cost : 95 -> 110
+        40 mm APCBC-T AP-T / 40 mm APCBC-T AP-T / 40 mm APCBC-T AP-T (modification) :
+            RP cost : 1300 -> 1800
+            GE cost : 95 -> 110
         Filters :
-            Repair cost coefficient : 0.031 -> 0.032
-            GE cost : 220 -> 230
+            RP cost : 2500 -> 3400
+            GE cost : 180 -> 210
         Elevation Mechanism :
-            Repair cost coefficient : 0.028 -> 0.03
-            GE cost : 220 -> 230
+            RP cost : 2500 -> 3400
+            GE cost : 180 -> 210
         Crew Replenishment :
-            GE cost : 220 -> 230
+            RP cost : 2500 -> 3400
+            GE cost : 180 -> 210
         Transmission :
-            Repair cost coefficient : 0.042 -> 0.044
-            RP cost : 8600 -> 5700
-            GE cost : 420 -> 300
+            RP cost : 3200 -> 4400
+            GE cost : 230 -> 270
         Engine :
-            Repair cost coefficient : 0.048 -> 0.051
-            RP cost : 8600 -> 5700
-            GE cost : 420 -> 300
-
-Pbv 501 :
-    Full Stock Repair Cost : 2450 / 2988 / 4010 -> 2465 / 3012 / 4035 SL
-    Minimum Repair Cost : 750 / 754 / 756 -> 752 / 749 / 754 SL/minute
-    Full Spaded Repair Cost : 3811 / 4647 / 6237 -> 3834 / 4685 / 6276 SL
-    SL multiplier : 1.05 / 1.5 / 1.92 -> 1.11 / 1.52 / 1.95
-
-USS Des Moines :
-    Backup : 80 -> 100 GE
+            RP cost : 3200 -> 4400
+            GE cost : 230 -> 270
+        Artillery Support :
+            RP cost : 3200 -> 4400
+            GE cost : 230 -> 270
+    Talisman : 1200 -> 1400 GE
+    Backup : 30 -> 40 GE
 
 HMS Archer :
-    Number of modifications needed to unlock Tier 3 : 3 -> 2
-    Modification changes :
-        Removed 20mm_oerlikon universal belt
-        Removed HEF-T / HEF-I / AP-T / HEF-I
-        Removed AP-T / AP-T / AP-T / HEF-I
-        Removed HEF-T / HEF-I / AP-T / HEF-I (modification) modification
-        Removed AP-T / AP-T / AP-T / HEF-I (modification) modification
+    Backup : 50 -> 60 GE
 

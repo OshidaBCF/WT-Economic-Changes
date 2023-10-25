@@ -1,28 +1,18 @@
-Statcard changes :
+Statcard Changes :
+Strikemaster Mk.88 :
+    Max Speed : 921.96 -> 775.92 km/h
+    Takeoff Length : 950 -> 1200 m
+    Max Speed at Altitude : 0 -> 6096 m
+    Climb Speed : 28 -> 26 m/s
 
-F-111A :
-    Max Speed : 2166.84 -> 2448.0 km/h
-    Turn Time : 28 -> 33 s
-    Takeoff Length : 1050 -> 1200 m
-    Max Speed at Altitude : 10668 -> 12192 m
-    Climb Speed : 175 -> 125 m/s
+JH-7A :
+    Crew : 2 -> 1
 
-M109G, ▄M109G, M109 :
-    Hull Thickness : 30 / 30 / 30 -> 32 / 32 / 32 mm
-    Turret Thickness : 30 / 30 / 30 -> 32 / 32 / 32 mm
+MH-60L DAP :
+    Max Altitude : 5400 -> 5700 m
+    Max Speed : 295.2 -> 285.12 km/h
+    Climb Speed : 14.2 -> 11.2 m/s
 
-ussr_object_775 :
-    Hull Thickness : 14 / 7 / 7 -> 100 / 80 / 40 mm
-    Turret Thickness : 0 / 0 / 0 -> 200 / 120 / 65 mm
-
-Leopard 40/70 :
-    Hull Thickness : 30 / 25 / 25 -> 70 / 30 / 25 mm
-    Turret Thickness : 15 / 15 / 15 -> 8 / 8 / 0 mm
-
-AMX-10P :
-    Hull Thickness : 32 / 11 / 11 -> 30 / 20 / 20 mm
-    Turret Thickness : 25 / 25 / 25 -> 30 / 30 / 30 mm
-
-IJN Yamashiro :
-    Max Speed : 41.65 -> 43.2 km/h
+Mi-8AMTSh :
+    Max Speed : 260.0 -> 285.01 km/h
 

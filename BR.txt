@@ -1,11 +1,5 @@
-BR changes :
-
-Strikemaster Mk.88 :
-    5.7 / 6.0 / 6.0 -> 6.0 / 6.3 / 6.3
-
+BR Changes :
 Leopard 40/70 :
-    4.7 / 4.3 / 4.3 -> 4.7
-
-Pbv 501 :
-    7.0 -> 6.7
+    Economical Rank : 4.3 -> 5.0
+    4.7 -> 5.0
 

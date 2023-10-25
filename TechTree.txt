@@ -2,41 +2,35 @@
 
 New vehicles :
 
-Mi-8AMTSh (USSR) :
-    Rank 6
-    BR : 10.0 / 9.7 / 9.7
-    Hidden
-    Located after the Mi-8TV
-    Stock Repair Cost : 8746 / 3803 / 5274 SL
-    Spaded Repair Cost : 12749 / 5544 / 7688 SL
-
-JH-7A (CN) :
-    Rank 8
-    BR : 11.7
-    Hidden
-    Located after the Q-5L
-    Stock Repair Cost : 2976 / 7778 / 11397 SL
-    Spaded Repair Cost : 4429 / 11574 / 16961 SL
-
-RN Conte di Cavour (IT) :
+SMS Sachsen (GER) :
     Rank 6
     BR : 7.0
-    Located after the RN Dante Alighieri
-    Stock Repair Cost : 27493 / 33334 SL
+    Located after the SMS Bayern
+    Stock Repair Cost : 27390 / 33208 SL
     Spaded Repair Cost : 34496 / 41824 SL
+
+fr_destroyer_hunt_3series (FR) :
+    Rank 1
+    BR : 4.0
+    Located after the Bourrasque
+    Stock Repair Cost : 631 / 1003 SL
+    Spaded Repair Cost : 822 / 1307 SL
 
 ----------------------------------------------------------------------------------------------------
 
 Tech-tree changes :
 
-USS Des Moines (US) :
-    Rank : 4 -> 5
+HMS Archer (UK) :
+    Rank : 2 -> 3
 
-Mi-8TV (USSR) :
-    In a new line -> First in line before the Mi-8AMTSh
+Leopard 40/70 (IT) :
+    Rank : 3 -> 4
 
-Breda 90/53 (IT) :
-    1450 GE premium -> Event or pack premium
+Bourrasque (FR) :
+    First in line before the Vautour -> First in line before the fr_destroyer_hunt_3series
+
+Vautour (FR) :
+    Located after the Bourrasque -> Located after the fr_destroyer_hunt_3series
 
 ----------------------------------------------------------------------------------------------------
 

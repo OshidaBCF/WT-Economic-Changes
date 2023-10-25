@@ -1,167 +1,111 @@
-Aircraft Weapon changes :
-
-AM-1 :
+Aircraft Weapon Changes :
+F-111A :
+    New loadouts :
+        50x 750 lb M117
     Loadouts changed :
-        1x AN-Mk 1 :
-            Required modification changed : AN-Mk 1 + M65-> AN-Mk 1
-
-B-25J-1, B-25J-20, ␗B-25J-30 :
-    Loadouts changed :
-        8x 100 lb + 4x 250 lb (stock) :
-            Added Required modification SBC-25
+        4x 2000 lb -> 8x 2000 lb :
+            Reward multiplier changed : 0.54 -> 0.38
+            Total damage changed : 43928 -> 87856
+            Weapons of the loadout/option changed :
+                2000 lb changed : 4 -> 8
+        8x BLU-1 -> 16x BLU-1 :
+            Reward multiplier changed : 0.56 -> 0.4
+            Total damage changed : 41200 -> 82400
+            Weapons of the loadout/option changed :
+                Removed 4x BLU-1
+                Removed 4x BLU-1
+                Added 16x BLU-1
+        1x M61A1 (stock) :
+            Weapons of the loadout/option changed :
+                Removed 1x M61A1 (stock)
+                Added 1x M61A1 (stock)
+        1x M61A1 (stock) :
+            Added Required modification Gun pod SUU-16/A.
             No longer available stock
-        4x 250 lb (stock) :
-            Added Required modification SBC-25
-            No longer available stock
-
-PBM-3 "Mariner" :
-    Loadouts changed :
-        8x AN-Mk 1 :
-            Required modification changed : LBC-25 -> AN-Mk 1
-
-Bf 110 G-2 :
-    New loadouts :
-        2x PC500
-        1x PC1000
-    Custom loadout changes :
-        Slot 2 changed :
-            Added 1x PC500 option, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3
-            Added 1x PC1000 option, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x SC50 on slot 4 or 1x SC500 on slot 4 or 1x C 500 on slot 4
-        Slot 4 changed :
-            Added 1x PC500 option, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3
-
-Do 217 E-2, Do 217 E-4 :
-    New loadouts :
-        4x PC500
-        4x PC1000
-
-Fw 190 F-8 :
-    New loadouts :
-        1x PC500
-        1x PC1000
-    Custom loadout changes :
-        Slot 2 changed :
-            Added 1x PC500 option
-            Added 1x PC1000 option
-
-Fw 200 C-1 :
-    New loadouts :
-        6x PC500
-        2x PC1000
-
-He 177 A-5 :
-    New loadouts :
-        6x PC500
-        6x PC500 + 2x PC1600
-        4x PC1000
-        2x PC1600
-
-Ju 188 A-2 :
-    New loadouts :
-        2x PC500
-        2x PC1000
-        1x PC1600 + 1x PC1000
-
-Ju 87 D-3 :
-    New loadouts :
-        3x PC500
-        1x PC1000
     Custom loadout changes :
         Slot 1 changed :
-            Added 1x PC500 option
+            Added 2x BLU-1 option
+            Added 1x 2000 lb option
         Slot 2 changed :
-            Added 1x PC500 option
-            Added 1x PC1000 option
-        Slot 3 changed :
-            Added 1x PC500 option
+            Added 2x BLU-1 option
+            Added 1x 2000 lb option
+        Slot 4 changed :
+            Added 2x BLU-1 option
+            Removed 2x BLU-1 option
+        Slot 5 changed :
+            Added 2x BLU-1 option
+            Removed 2x BLU-1 option
+        Slot 7 changed :
+            Option changed : 1x M61A1 (stock) -> 1x M61A1 (stock)
+        Slot 8 changed :
+            Added 2x BLU-1 option
+            Removed 2x BLU-1 option
+        Slot 9 changed :
+            Added 2x BLU-1 option
+            Removed 2x BLU-1 option
+        Slot 11 changed :
+            Added 2x BLU-1 option
+            Added 1x 2000 lb option
+        Slot 12 changed :
+            Added 2x BLU-1 option
+            Added 1x 2000 lb option
 
-Ju 88 A-1 :
+◄MiG-29G :
     New loadouts :
-        2x PC500
-
-Ju 88 A-4 :
-    New loadouts :
-        1x PC500 + 1x PC1000
-        2x PC500
-
-Me 264 :
-    New loadouts :
-        4x PC1000 + 1x me_264_rocket_booster_2 + 1x me_264_rocket_booster_6 + 1x me_264_rocket_booster_5 + 1x me_264_rocket_booster_1 + 1x me_264_rocket_booster_3 + 1x me_264_rocket_booster_4
-        2x PC1600 + 3x SC250 + 1x me_264_rocket_booster_2 + 1x me_264_rocket_booster_6 + 1x me_264_rocket_booster_5 + 1x me_264_rocket_booster_1 + 1x me_264_rocket_booster_3 + 1x me_264_rocket_booster_4
-
-Yer-2 (ACh-30B) (e), Yer-2 (ACh-30B) (l) :
+        2x R-73E (stock)
     Loadouts changed :
-        8x BRAB-250 + 3x BRAB-1000 :
-            Required modification changed : KD-3-240 -> KD-3-240 + Der-19-20 + 
-        4x BRAB-500 + 3x BRAB-1000 :
-            Required modification changed : KD-3-240 -> KD-3-240 + Der-19-20 + 
-
-IL-4 :
-    Loadouts changed :
-        2x BRAB-500 + 1x BRAB-1000 :
-            Required modification changed : Der-20 -> Der-20 + Der-19 + 
-
-Strikemaster Mk.88 :
-    New loadouts :
-        4x Mk 77
-        32x T-80-P 3
-        32x T-80-US 3
+        6x R-73E -> 4x R-73E :
+            Weapons of the loadout/option changed :
+                R-73E changed : 6 -> 4
+                Added 2x R-73E (stock)
+    Removed loadouts :
+        2x R-60MK (stock)
+        2x R-60MK
     Custom loadout changes :
         Slot 1 changed :
-            Added 4x T-80-P 3 option
-            Added 4x T-80-US 3 option
-            Removed 7x FFAR Mighty Mouse option
-            Removed 18x SNEB type 23 rocket option
-            Removed 1x 500 lb option
-            Removed 1x Mk 82 Snakeye option
-            Removed 1x Mk.M2 540 lb option
+            Added 1x R-73E (stock) option
+            Removed 1x R-60MK (stock) option
+            Removed 1x R-73E option
         Slot 2 changed :
-            Added 4x T-80-P 3 option
-            Added 4x T-80-US 3 option
-            Added 1x Mk 77 option
+            Removed 1x R-60MK option
         Slot 3 changed :
-            Added 4x T-80-P 3 option
-            Added 4x T-80-US 3 option
-            Removed 7x FFAR Mighty Mouse option
-            Removed 18x SNEB type 23 rocket option
-            Removed 1x 500 lb option
-            Removed 1x Mk 82 Snakeye option
-            Removed 1x Mk.M2 540 lb option
-        Slot 4 changed :
-            Added 4x T-80-P 3 option
-            Added 4x T-80-US 3 option
-            Added 1x Mk 77 option
-        Added slot 5 :
-            4x T-80-P 3 option
-            4x T-80-US 3 option
-            7x FFAR Mighty Mouse option
-            18x SNEB type 23 rocket option
-            1x 500 lb option
-            1x Mk 82 Snakeye option
-            1x Mk.M2 540 lb option
-            1x Mk 77 option
-        Added slot 6 :
-            4x T-80-P 3 option
-            4x T-80-US 3 option
-        Added slot 7 :
-            4x T-80-P 3 option
-            4x T-80-US 3 option
-            7x FFAR Mighty Mouse option
-            18x SNEB type 23 rocket option
-            1x 500 lb option
-            1x Mk 82 Snakeye option
-            1x Mk.M2 540 lb option
-            1x Mk 77 option
-        Added slot 8 :
-            4x T-80-P 3 option
-            4x T-80-US 3 option
+            Removed 1x R-60MK option
+        Slot 5 changed :
+            Removed 1x R-60MK option
+        Slot 6 changed :
+            Removed 1x R-60MK option
+        Slot 7 changed :
+            Added 1x R-73E (stock) option
+            Removed 1x R-60MK (stock) option
+            Removed 1x R-73E option
 
-▄SB2C-5 :
+MiG-23ML :
     Custom loadout changes :
+        Slot 1 changed :
+            Removed 1x ZB-500 option
         Slot 2 changed :
-            Option changed : 1x 500 lb -> 1x 500 lb, can't be equipped together with 1x HVAR on slot 1
-            Option changed : 1x 1000 lb -> 1x 1000 lb, can't be equipped together with 1x HVAR on slot 1
+            Added 1x ZB-500 option, can't be equipped together with 1x Drop tank on slot 3
         Slot 4 changed :
-            Option changed : 1x 500 lb -> 1x 500 lb, can't be equipped together with 1x HVAR on slot 5
-            Option changed : 1x 1000 lb -> 1x 1000 lb, can't be equipped together with 1x HVAR on slot 5
+            Added 1x ZB-500 option, can't be equipped together with 1x Drop tank on slot 3
+        Slot 5 changed :
+            Removed 1x ZB-500 option
+
+G8N1 :
+    New loadouts :
+        3x 800 kg
+
+JH-7A :
+    New loadouts :
+        2x 250-3
+        22x 250-4
+        8x 500-3
+        8x 500-4
+        1x K/ADC03A + 4x LS-500J
+        1x K/ADC03A + 4x LS-1000J
+        4x PL-5B
+        2x PL-5C (stock)
+        2x PL-5C
+        2x PL-8
+        42x Type 90-1 HEAT
+        16x Type 130-2
 
