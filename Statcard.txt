@@ -1,18 +1,12 @@
 Statcard Changes :
-Strikemaster Mk.88 :
-    Max Speed : 921.96 -> 775.92 km/h
-    Takeoff Length : 950 -> 1200 m
-    Max Speed at Altitude : 0 -> 6096 m
-    Climb Speed : 28 -> 26 m/s
-
 JH-7A :
-    Crew : 2 -> 1
+    Max Altitude : 16000 -> 15000 m
+    Max Speed : 2300.4 -> 1869.84 km/h
+    Turn Time : 27 -> 29 s
+    Climb Speed : 220 -> 190 m/s
 
-MH-60L DAP :
-    Max Altitude : 5400 -> 5700 m
-    Max Speed : 295.2 -> 285.12 km/h
-    Climb Speed : 14.2 -> 11.2 m/s
+    Crew : 1 -> 2
 
-Mi-8AMTSh :
-    Max Speed : 260.0 -> 285.01 km/h
+SMS Sachsen :
+    Max Speed : 40.93 -> 41.22 km/h
 

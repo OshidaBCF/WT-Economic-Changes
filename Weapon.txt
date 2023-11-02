@@ -1,111 +1,210 @@
 Aircraft Weapon Changes :
 F-111A :
     New loadouts :
-        50x 750 lb M117
+        8x 3000 lb
+        1x Drop tank + 1x M61A1 (stock)
+        48x Zuni Mk32
+        96x Zuni Mk32
     Loadouts changed :
-        4x 2000 lb -> 8x 2000 lb :
-            Reward multiplier changed : 0.54 -> 0.38
-            Total damage changed : 43928 -> 87856
+        2x 750 lb M117 :
+            Reward multiplier changed : 0.32 -> 0.34
+            Total damage changed : 150272 -> 124760
             Weapons of the loadout/option changed :
-                2000 lb changed : 4 -> 8
-        8x BLU-1 -> 16x BLU-1 :
-            Reward multiplier changed : 0.56 -> 0.4
-            Total damage changed : 41200 -> 82400
-            Weapons of the loadout/option changed :
-                Removed 4x BLU-1
-                Removed 4x BLU-1
-                Added 16x BLU-1
-        1x M61A1 (stock) :
-            Weapons of the loadout/option changed :
-                Removed 1x M61A1 (stock)
-                Added 1x M61A1 (stock)
-        1x M61A1 (stock) :
-            Added Required modification Gun pod SUU-16/A.
-            No longer available stock
+                750 lb M117 changed : 48 -> 24
+                Added 12x 750 lb M117
     Custom loadout changes :
         Slot 1 changed :
-            Added 2x BLU-1 option
-            Added 1x 2000 lb option
+            Added 12x Zuni Mk32 option
+            Added 1x 3000 lb option
+            Removed 6x 750 lb M117 option
         Slot 2 changed :
-            Added 2x BLU-1 option
-            Added 1x 2000 lb option
+            Added 12x Zuni Mk32 option
+            Added 1x 3000 lb option
+            Removed 6x 750 lb M117 option
         Slot 4 changed :
-            Added 2x BLU-1 option
-            Removed 2x BLU-1 option
+            Added 12x Zuni Mk32 option
+            Added 1x 3000 lb option
+            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 9
         Slot 5 changed :
+            Added 57x FFAR Mighty Mouse option
+            Added 12x Zuni Mk32 option
+            Added 3x 500 lb (stock) option
+            Added 3x Mk 82 Snakeye option
+            Added 3x 750 lb M117 option
+            Added 6x 500 lb option
+            Added 6x Mk 82 Snakeye option
+            Added 6x 750 lb M117 option
+            Added 1x 3000 lb option
             Added 2x BLU-1 option
+            Removed 57x FFAR Mighty Mouse option
+            Removed 3x 500 lb (stock) option
+            Removed 3x Mk 82 Snakeye option
+            Removed 3x 750 lb M117 option
+            Removed 6x 500 lb option
+            Removed 6x Mk 82 Snakeye option
+            Removed 6x 750 lb M117 option
             Removed 2x BLU-1 option
-        Slot 7 changed :
-            Option changed : 1x M61A1 (stock) -> 1x M61A1 (stock)
         Slot 8 changed :
+            Added 57x FFAR Mighty Mouse option
+            Added 12x Zuni Mk32 option
+            Added 3x 500 lb (stock) option
+            Added 3x Mk 82 Snakeye option
+            Added 3x 750 lb M117 option
+            Added 6x 500 lb option
+            Added 6x Mk 82 Snakeye option
+            Added 6x 750 lb M117 option
+            Added 1x 3000 lb option
             Added 2x BLU-1 option
+            Removed 57x FFAR Mighty Mouse option
+            Removed 3x 500 lb (stock) option
+            Removed 3x Mk 82 Snakeye option
+            Removed 3x 750 lb M117 option
+            Removed 6x 500 lb option
+            Removed 6x Mk 82 Snakeye option
+            Removed 6x 750 lb M117 option
             Removed 2x BLU-1 option
         Slot 9 changed :
-            Added 2x BLU-1 option
-            Removed 2x BLU-1 option
+            Added 12x Zuni Mk32 option
+            Added 1x 3000 lb option
+            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 4
         Slot 11 changed :
-            Added 2x BLU-1 option
-            Added 1x 2000 lb option
+            Added 12x Zuni Mk32 option
+            Added 1x 3000 lb option
+            Removed 6x 750 lb M117 option
         Slot 12 changed :
-            Added 2x BLU-1 option
-            Added 1x 2000 lb option
+            Added 12x Zuni Mk32 option
+            Added 1x 3000 lb option
+            Removed 6x 750 lb M117 option
 
-◄MiG-29G :
-    New loadouts :
-        2x R-73E (stock)
+SBD-3 :
     Loadouts changed :
-        6x R-73E -> 4x R-73E :
+        1x AN-MK 33 :
             Weapons of the loadout/option changed :
-                R-73E changed : 6 -> 4
-                Added 2x R-73E (stock)
+                Removed 1x AN-MK 33
+                Added 1x AN-MK 33
+        1x AN-Mk 1 :
+            Weapons of the loadout/option changed :
+                Removed 1x AN-Mk 1
+                Added 1x AN-Mk 1
+    Custom loadout changes :
+        Slot 2 changed :
+            Option changed : 1x AN-MK 33 -> 1x AN-MK 33
+            Option changed : 1x AN-Mk 1 -> 1x AN-Mk 1
+
+He 177 A-5 :
+    Loadouts changed :
+        6x PC500 + 2x PC1600 :
+            Required modification changed : SC 1800 -> SC 1800 + SC 500 + 
+
+MiG-21PFM :
     Removed loadouts :
-        2x R-60MK (stock)
-        2x R-60MK
+        64x S-5K
     Custom loadout changes :
         Slot 1 changed :
-            Added 1x R-73E (stock) option
-            Removed 1x R-60MK (stock) option
-            Removed 1x R-73E option
+            Removed 32x S-5K option
         Slot 2 changed :
-            Removed 1x R-60MK option
-        Slot 3 changed :
-            Removed 1x R-60MK option
-        Slot 5 changed :
-            Removed 1x R-60MK option
-        Slot 6 changed :
-            Removed 1x R-60MK option
-        Slot 7 changed :
-            Added 1x R-73E (stock) option
-            Removed 1x R-60MK (stock) option
-            Removed 1x R-73E option
+            Removed 32x S-5K option
 
-MiG-23ML :
+Yak-38 :
+    Loadouts changed :
+        10x OFAB-100 (stock) -> 2x OFAB-100 (stock) :
+            Total damage changed : 8728 -> 7712
+            Weapons of the loadout/option changed :
+                Removed 8x OFAB-100 (stock)
+                Added 3x OFAB-100 (stock)
+                Added 3x OFAB-100 (stock)
     Custom loadout changes :
         Slot 1 changed :
-            Removed 1x ZB-500 option
-        Slot 2 changed :
-            Added 1x ZB-500 option, can't be equipped together with 1x Drop tank on slot 3
+            Added 3x OFAB-100 (stock) option
+            Removed 4x OFAB-100 (stock) option
         Slot 4 changed :
-            Added 1x ZB-500 option, can't be equipped together with 1x Drop tank on slot 3
-        Slot 5 changed :
-            Removed 1x ZB-500 option
+            Added 3x OFAB-100 (stock) option
+            Removed 4x OFAB-100 (stock) option
 
-G8N1 :
+Yak-38M :
+    Loadouts changed :
+        10x OFAB-100 -> 2x OFAB-100 :
+            Total damage changed : 8728 -> 7712
+            Weapons of the loadout/option changed :
+                Removed 8x OFAB-100
+                Added 3x OFAB-100
+                Added 3x OFAB-100
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 3x OFAB-100 option
+            Removed 4x OFAB-100 option
+        Slot 4 changed :
+            Added 3x OFAB-100 option
+            Removed 4x OFAB-100 option
+
+Strikemaster Mk.88 :
     New loadouts :
-        3x 800 kg
+        8x 7.62 mm FN 60.30 machine gun
+    Custom loadout changes :
+        Slot 2 changed :
+            Added 2x 7.62 mm FN 60.30 machine gun option
+        Slot 4 changed :
+            Added 2x 7.62 mm FN 60.30 machine gun option
+        Slot 5 changed :
+            Added 2x 7.62 mm FN 60.30 machine gun option
+        Slot 7 changed :
+            Added 2x 7.62 mm FN 60.30 machine gun option
+
+Swordfish Mk II :
+    Loadouts changed :
+        4x AP Mk I + 4x RP-3 -> 8x RP-3 :
+            Weapons of the loadout/option changed :
+                RP-3 changed : 4 -> 8
+                Removed 4x AP Mk I
+    Custom loadout changes :
+        Slot 7 changed :
+            Option changed : 4x AP Mk I, can't be equipped together with 1x 250 lb on slot 6 or 1x 500 lb on slot 6 or 1x 500 lb on slot 6 or 1x 250 lb on slot 5 -> 4x RP-3, can't be equipped together with 1x 250 lb on slot 6 or 1x 500 lb on slot 6 or 1x 500 lb on slot 6 or 1x 250 lb on slot 5
 
 JH-7A :
+    Loadouts changed :
+        8x 500-3 :
+            Weapons of the loadout/option changed :
+                Removed 8x 500-3
+                Added 8x 500-3
+        8x 500-4 :
+            Weapons of the loadout/option changed :
+                Removed 8x 500-4
+                Added 8x 500-4
+    Custom loadout changes :
+        Slot 3 changed :
+            Option changed : 2x 500-3 -> 2x 500-3
+            Option changed : 2x 500-4 -> 2x 500-4
+        Slot 4 changed :
+            Option changed : 2x 500-3 -> 2x 500-3
+            Option changed : 2x 500-4 -> 2x 500-4
+        Slot 6 changed :
+            Option changed : 2x 500-3 -> 2x 500-3
+            Option changed : 2x 500-4 -> 2x 500-4
+        Slot 7 changed :
+            Option changed : 2x 500-3 -> 2x 500-3
+            Option changed : 2x 500-4 -> 2x 500-4
+
+Mi-8AMTSh :
     New loadouts :
-        2x 250-3
-        22x 250-4
-        8x 500-3
-        8x 500-4
-        1x K/ADC03A + 4x LS-500J
-        1x K/ADC03A + 4x LS-1000J
-        4x PL-5B
-        2x PL-5C (stock)
-        2x PL-5C
-        2x PL-8
-        42x Type 90-1 HEAT
-        16x Type 130-2
+        4x 9M39
+    Loadouts changed :
+        4x 9M114 Shturm + 80x S-8KO (stock) :
+            Weapons of the loadout/option changed :
+                Removed 4x 9M114 Shturm (stock)
+                Added 4x 9M114 Shturm (stock)
+        8x 9M114 Shturm :
+            Weapons of the loadout/option changed :
+                Removed 8x 9M114 Shturm
+                Added 8x 9M114 Shturm
+    Custom loadout changes :
+        Slot 1 changed :
+            Option changed : 2x 9M114 Shturm (stock) -> 2x 9M114 Shturm (stock)
+            Option changed : 4x 9M114 Shturm -> 4x 9M114 Shturm
+        Slot 2 changed :
+            Added 2x 9M39 option
+        Slot 5 changed :
+            Added 2x 9M39 option
+        Slot 6 changed :
+            Option changed : 2x 9M114 Shturm (stock) -> 2x 9M114 Shturm (stock)
+            Option changed : 4x 9M114 Shturm -> 4x 9M114 Shturm
 

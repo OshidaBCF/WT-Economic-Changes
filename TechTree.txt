@@ -1,36 +1,63 @@
 ----------------------------------------------------------------------------------------------------
 
 New vehicles :
+sdi_minotaur (US) :
+    Rank 7
+    BR : 10.3
+    No tech-tree data
+    Stock Repair Cost : 4904 / 4748 / 6016 SL
+    Spaded Repair Cost : 6908 / 6688 / 8474 SL
 
-SMS Sachsen (GER) :
-    Rank 6
-    BR : 7.0
-    Located after the SMS Bayern
-    Stock Repair Cost : 27390 / 33208 SL
-    Spaded Repair Cost : 34496 / 41824 SL
+destroyer_heavy_tank_h (USSR) :
+    Rank 7
+    BR : 10.3
+    No tech-tree data
+    Stock Repair Cost : 6238 / 6039 / 7652 SL
+    Spaded Repair Cost : 6908 / 6688 / 8474 SL
 
-fr_destroyer_hunt_3series (FR) :
+Opytny (USSR) :
     Rank 1
-    BR : 4.0
-    Located after the Bourrasque
-    Stock Repair Cost : 631 / 1003 SL
-    Spaded Repair Cost : 822 / 1307 SL
+    BR : 3.7
+    Located after the Frunze
+    Stock Repair Cost : 215 / 334 SL
+    Spaded Repair Cost : 279 / 434 SL
 
 ----------------------------------------------------------------------------------------------------
 
 Tech-tree changes :
+MH-60L DAP (US) :
+    Hidden for everyone -> Shown for everyone
 
-HMS Archer (UK) :
-    Rank : 2 -> 3
+LOSAT (US) :
+    Hidden for everyone -> Shown for everyone
 
-Leopard 40/70 (IT) :
-    Rank : 3 -> 4
+Mi-8AMTSh (USSR) :
+    Hidden for everyone -> Shown for everyone
 
-Bourrasque (FR) :
-    First in line before the Vautour -> First in line before the fr_destroyer_hunt_3series
+Frunze (USSR) :
+    First in line before the Besposhchadny -> First in line before the Opytny
 
-Vautour (FR) :
-    Located after the Bourrasque -> Located after the fr_destroyer_hunt_3series
+Besposhchadny (USSR) :
+    Located after the Frunze -> Located after the Opytny
+
+Ki-48-II otsu (JP) :
+    Hidden for everyone -> Shown for everyone
+
+IJN Kurama (JP) :
+    Hidden for everyone -> Shown for everyone
+
+JH-7A (CN) :
+    Hidden for everyone -> Shown for everyone
+
+␗F-100F (CN) :
+    Hidden for everyone -> Shown for everyone
+
+T129 (IT) :
+    Hidden for everyone -> Shown for everyone
+    Event or pack premium -> 9270 GE premium
+
+Tiger HAD Block 2 (FR) :
+    Hidden for everyone -> Shown for everyone
 
 ----------------------------------------------------------------------------------------------------
 
