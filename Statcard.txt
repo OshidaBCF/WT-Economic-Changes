@@ -1,12 +1,4 @@
 Statcard Changes :
-JH-7A :
-    Max Altitude : 16000 -> 15000 m
-    Max Speed : 2300.4 -> 1869.84 km/h
-    Turn Time : 27 -> 29 s
-    Climb Speed : 220 -> 190 m/s
-
-    Crew : 1 -> 2
-
-SMS Sachsen :
-    Max Speed : 40.93 -> 41.22 km/h
+Ki-48-II otsu :
+    Crew : 4 -> 5
 
