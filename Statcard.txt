@@ -1,28 +1,4 @@
 Statcard Changes :
-M1 Abrams, M1 KVT :
-    Hull Thickness : 145 / 62 / 31 -> 133 / 60 / 32 mm
-    Turret Thickness : 145 / 145 / 12.7 -> 139 / 120 / 13 mm
-
-IPM1, M1A1, M1A1 AIM, M1A1 HC, M1A2 Abrams, M1A2 SEP :
-    Hull Thickness : 133 / 62 / 31 -> 133 / 60 / 32 mm
-    Turret Thickness : 133 / 133 / 12.7 -> 139 / 120 / 13 mm
-
-XM975 :
-    Hull Thickness : 38 / 25 / 44 -> 32 / 32 / 32 mm
-    Turret Thickness : 12.7 / 12.7 / 12.7 -> 15 / 15 / 15 mm
-
-T-50 :
-    Hull Thickness : 40 / 40 / 40 -> 45 / 37 / 37 mm
-    Turret Thickness : 40 / 40 / 15 -> 37 / 37 / 37 mm
-
-PLZ83 :
-    Hull Thickness : 15 / 15 / 10 -> 15 / 15 / 15 mm
-
-VIDAR :
-    Hull Thickness : 14 / 14 / 14 -> 40 / 35 / 35 mm
-    Turret Thickness : 20 / 20 / 20 -> 35 / 35 / 35 mm
-
-Pvkv IV :
-    Hull Thickness : 48 / 13 / 13 -> 35 / 13 / 13 mm
-    Turret Thickness : 50 / 13 / 13 -> 20 / 13 / 13 mm
+Su-27 :
+    Operator Country : Russia -> USSR
 
