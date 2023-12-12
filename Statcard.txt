@@ -1,4 +1,8 @@
 Statcard Changes :
-Su-27 :
-    Operator Country : Russia -> USSR
+RN Leonardo da Vinci :
+    Crew : 1260 -> 1195
+    Minimum Crew : 378 -> 358
+
+Courbet, Paris :
+    Citadel Thickness : 0 / 250 / 40 -> 0 / 250 / 42 mm
 

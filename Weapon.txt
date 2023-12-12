@@ -1,44 +1,37 @@
 Aircraft Weapon Changes :
-Bf 110 G-2 :
-    Custom loadout changes :
-        Slot 2 changed :
-            Option changed : 4x SC50, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 -> 4x SC50, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-            Option changed : 1x SC250, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 -> 1x SC250, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-            Option changed : 1x SC500, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 -> 1x SC500, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-            Option changed : 1x PC500, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 -> 1x PC500, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-            Option changed : 1x SC1000, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x SC50 on slot 4 or 1x SC500 on slot 4 or 1x C 500 on slot 4 -> 1x SC1000, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x SC50 on slot 4 or 1x SC500 on slot 4 or 1x C 500 on slot 4 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-            Option changed : 1x PC1000, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x SC50 on slot 4 or 1x SC500 on slot 4 or 1x C 500 on slot 4 -> 1x PC1000, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x SC50 on slot 4 or 1x SC500 on slot 4 or 1x C 500 on slot 4 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-            Option changed : 1x C 250, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 -> 1x C 250, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-            Option changed : 1x C 500, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 -> 1x C 500, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-        Slot 4 changed :
-            Option changed : 4x SC50, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 -> 4x SC50, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-            Option changed : 1x SC250, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 -> 1x SC250, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-            Option changed : 1x SC500, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 -> 1x SC500, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-            Option changed : 1x PC500, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 -> 1x PC500, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-            Option changed : 1x C 250, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 -> 1x C 250, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-            Option changed : 1x C 500, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 -> 1x C 500, can't be equipped together with 1x 20 mm MG 151 cannon on slot 3 or 1x 37 mm BK 3.7 cannon (secondary) on slot 3
-
 Mirage 4000 :
     New loadouts :
-        2x Drop tank + 4x Matra R550 Magic 2
-        4x Matra R550 Magic 2
+        4x Matra Super 530D
     Loadouts changed :
-        x Empty (stock) -> 1x Drop tank (stock) :
-            Added Weapons of the loadout/option :
-                Added 1x Drop tank (stock)
-                Added 1x Drop tank (stock)
-        2x Matra Super 530F -> 3x Matra Super 530F :
+        3x Matra Super 530F -> 4x Matra Super 530F :
             Weapons of the loadout/option changed :
-                Matra Super 530F changed : 2 -> 3
+                Matra Super 530F changed : 3 -> 4
     Custom loadout changes :
-        Slot 3 changed :
-            Added 2x Matra R550 Magic 2 option
-            Added 1x Drop tank (stock) option
-            Added 1x Drop tank + 2x Matra R550 Magic 2 option
-        Slot 6 changed :
+        Slot 2 changed :
             Added 1x Matra Super 530F option
+            Added 1x Matra Super 530D option
+        Slot 3 changed :
+            Added 1x Matra Super 530D option
+        Slot 6 changed :
+            Removed 1x Matra Super 530F option
         Slot 9 changed :
-            Added 2x Matra R550 Magic 2 option
-            Added 1x Drop tank (stock) option
-            Added 1x Drop tank + 2x Matra R550 Magic 2 option
+            Added 1x Matra Super 530D option
+        Slot 10 changed :
+            Added 1x Matra Super 530F option
+            Added 1x Matra Super 530D option
+
+Baz :
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 1x Python 3 option, must be equipped together with 1x Python 3 on slot 3
+            Removed 1x Python 3 option
+        Slot 3 changed :
+            Added 1x Python 3 option, must be equipped together with 1x Python 3 on slot 1
+            Removed 1x Python 3 option
+        Slot 9 changed :
+            Added 1x Python 3 option, must be equipped together with 1x Python 3 on slot 11
+            Removed 1x Python 3 option
+        Slot 11 changed :
+            Added 1x Python 3 option, must be equipped together with 1x Python 3 on slot 9
+            Removed 1x Python 3 option
 

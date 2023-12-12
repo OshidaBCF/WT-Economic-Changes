@@ -1,14 +1,39 @@
 ----------------------------------------------------------------------------------------------------
 
 New vehicles :
-RN Leonardo da Vinci (IT) :
-    Rank 5
-    BR : 6.3
-    8380 GE premium
-    Repair Cost : 8788 / 11055 SL
+AMX (IT) :
+    Rank 7
+    BR : 10.7 / 11.0 / 11.0
+    Hidden
+    Non-researchable vehicle
+    Stock Repair Cost : 2997 / 7087 / 9073 SL
+    Spaded Repair Cost : 4906 / 11599 / 14849 SL
+
+Vauquelin (FR) :
+    Rank 2
+    BR : 4.3
+    Located after the Vautour
+    Stock Repair Cost : 1524 / 2319 SL
+    Spaded Repair Cost : 1987 / 3023 SL
 
 ----------------------------------------------------------------------------------------------------
 
 Tech-tree changes :
+M1A1 AIM (US) :
+    540k RP squadron vehicle -> 550k RP squadron vehicle
+
+T-80UK (USSR) :
+    520k RP squadron vehicle -> 550k RP squadron vehicle
+
+Challenger 2 OES (UK) :
+    9450 GE premium -> 9620 GE premium
+
+Le Malin (FR) :
+    Located after the Vautour -> Located after the Vauquelin
+
+T 80 U (SWE) :
+    Rank : 7 -> 8
+    520k RP squadron vehicle -> 570k RP squadron vehicle
+
 ----------------------------------------------------------------------------------------------------
 
