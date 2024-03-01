@@ -1,39 +1,374 @@
 ----------------------------------------------------------------------------------------------------
 
 New vehicles :
-AMX (IT) :
+F-20A (US) :
+    Rank 8
+    BR : 12.0
+    Event or pack premium
+    Repair Cost : 2275 / 6411 / 7527 SL
+
+F-16C (US) :
+    Rank 8
+    BR : 12.7
+    No tech-tree data
+    Stock Repair Cost : 2705 / 7808 / 9194 SL
+    Spaded Repair Cost : 4427 / 12779 / 15047 SL
+
+AH-1W (US) :
+    Rank 6
+    BR : 10.0 / 10.7 / 10.7
+    Located after the AH-1F
+    Stock Repair Cost : 8194 / 3869 / 5024 SL
+    Spaded Repair Cost : 13259 / 6260 / 8130 SL
+
+120S (US) :
+    Rank 7
+    BR : 10.0
+    Located after the M60A3 TTS
+    Stock Repair Cost : 4444 / 4306 / 5033 SL
+    Spaded Repair Cost : 6613 / 6409 / 7490 SL
+
+Bf 109 C-1 (GER) :
+    Rank 1
+    BR : 2.0 / 1.7 / 1.7
+    Located after the Bf 109 B-1
+    Stock Repair Cost : 170 / 338 / 354 SL
+    Spaded Repair Cost : 218 / 423 / 442 SL
+
+Alpha Jet A (GER) :
+    Rank 6
+    BR : 9.0 / 9.0 / 9.3
+    Located after the ◄G.91 R/3
+    Stock Repair Cost : 2954 / 8609 / 9838 SL
+    Spaded Repair Cost : 4003 / 11665 / 13330 SL
+
+Zerstörer 45 (GER) :
+    Rank 4
+    BR : 6.0
+    Located after the Ostwind II
+    Stock Repair Cost : 4441 / 3433 / 5350 SL
+    Spaded Repair Cost : 5820 / 4499 / 7012 SL
+
+Su-25SM3 (USSR) :
+    Rank 8
+    BR : 11.7
+    Located after the Su-25T
+    Stock Repair Cost : 2662 / 6956 / 10193 SL
+    Spaded Repair Cost : 4429 / 11574 / 16961 SL
+
+MiG-29SMT (USSR) :
+    Rank 8
+    BR : 12.3 / 12.7 / 12.7
+    No tech-tree data
+    Stock Repair Cost : 2687 / 7757 / 9134 SL
+    Spaded Repair Cost : 4427 / 12779 / 15047 SL
+
+ZSU-23-4M4 (USSR) :
+    Rank 6
+    BR : 9.3
+    Located after the ZSU-23-4
+    Stock Repair Cost : 5763 / 4920 / 5362 SL
+    Spaded Repair Cost : 7408 / 6324 / 6892 SL
+
+T-80UD (USSR) :
+    Rank 7
+    BR : 10.0
+    9270 GE premium
+    Repair Cost : 3363 / 3260 / 3794 SL
+
+Buccaneer S.2B (UK) :
+    Rank 7
+    BR : 10.0 / 10.3 / 10.3
+    Located after the Buccaneer S.2
+    Stock Repair Cost : 3121 / 8835 / 10117 SL
+    Spaded Repair Cost : 4471 / 12657 / 14495 SL
+
+JAS39C (UK) :
+    Rank 8
+    BR : 12.7
+    No tech-tree data
+    Stock Repair Cost : 2696 / 7782 / 9164 SL
+    Spaded Repair Cost : 4427 / 12779 / 15047 SL
+
+Wessex HU Mk.5 (UK) :
+    Rank 5
+    BR : 9.0
+    Located after the Wasp HAS.Mk.1
+    Stock Repair Cost : 9822 / 2928 / 4948 SL
+    Spaded Repair Cost : 13290 / 3962 / 6695 SL
+
+Fox (UK) :
+    Rank 4
+    BR : 7.0
+    Located after the G6/Eland folder
+    Stock Repair Cost : 2423 / 2955 / 3967 SL
+    Spaded Repair Cost : 3811 / 4647 / 6237 SL
+
+HMS Diamond (UK) :
+    Rank 3
+    BR : 4.3
+    2980 GE premium
+    Repair Cost : 2971 / 2577 SL
+
+Type 90B "Fuji" (JP) :
+    Rank 7
+    BR : 11.0
+    Event or pack premium
+    Repair Cost : 3304 / 3384 / 4003 SL
+
+IJN Mutsu (JP) :
+    Rank 6
+    BR : 7.0
+    Located after the IJN Kongo
+    Stock Repair Cost : 27390 / 33208 SL
+    Spaded Repair Cost : 34496 / 41824 SL
+
+J-8F (CN) :
+    Rank 8
+    BR : 11.7
+    No tech-tree data
+    Stock Repair Cost : 2804 / 8208 / 9351 SL
+    Spaded Repair Cost : 4223 / 12362 / 14083 SL
+
+␗AH-1W (CN) :
+    Rank 6
+    BR : 10.0 / 10.7 / 10.7
+    Located after the ␗OH-58D
+    Stock Repair Cost : 8404 / 3956 / 5132 SL
+    Spaded Repair Cost : 13599 / 6401 / 8305 SL
+
+ZBD04A (CN) :
+    Rank 7
+    BR : 9.3
+    Located after the PTL02/AFT09 folder
+    Stock Repair Cost : 3236 / 3115 / 3998 SL
+    Spaded Repair Cost : 5778 / 5563 / 7139 SL
+
+◔IL-10 (IT) :
+    Rank 4
+    BR : 5.0 / 5.0 / 5.3
+    Located after the ▄P-47D-30
+    Stock Repair Cost : 2544 / 4467 / 8633 SL
+    Spaded Repair Cost : 3338 / 5690 / 10997 SL
+
+◔Yak-9P (IT) :
+    Rank 4
+    BR : 5.0 / 5.0 / 5.3
+    First in line before the ◔MiG-15bis
+    Stock Repair Cost : 2662 / 6234 / 9034 SL
+    Spaded Repair Cost : 3771 / 8551 / 12393 SL
+
+◔Tu-2S-59 (IT) :
+    Rank 4
+    BR : 6.0 / 5.7 / 6.0
+    Located after the P.108B folder
+    Stock Repair Cost : 3106 / 8881 / 17289 SL
+    Spaded Repair Cost : 4136 / 11474 / 22338 SL
+
+◔IL-28 (IT) :
+    Rank 5
+    BR : 8.0
+    Located after the ◔Tu-2S-59
+    Stock Repair Cost : 3092 / 10690 / 16188 SL
+    Spaded Repair Cost : 4241 / 14664 / 22206 SL
+
+◔MiG-15bis (IT) :
+    Rank 5
+    BR : 8.7
+    Located after the ◔Yak-9P
+    Stock Repair Cost : 2868 / 8195 / 9351 SL
+    Spaded Repair Cost : 4269 / 12196 / 13915 SL
+
+◔MiG-17PF (IT) :
+    Rank 6
+    BR : 9.0
+    Located after the ◔MiG-15bis
+    Stock Repair Cost : 3079 / 8783 / 9576 SL
+    Spaded Repair Cost : 4436 / 12656 / 13798 SL
+
+◔MiG-21MF (IT) :
+    Rank 7
+    BR : 10.0 / 10.3 / 10.7
+    Located after the ◔MiG-17PF
+    Stock Repair Cost : 2942 / 9320 / 8131 SL
+    Spaded Repair Cost : 4283 / 13566 / 11836 SL
+
+◔Su-22M3 (IT) :
+    Rank 7
+    BR : 11.0 / 10.7 / 10.3
+    Located after the ◔IL-28
+    Stock Repair Cost : 3213 / 8225 / 9723 SL
+    Spaded Repair Cost : 4705 / 12042 / 14236 SL
+
+◔MiG-21bis-SAU (IT) :
     Rank 7
     BR : 10.7 / 11.0 / 11.0
-    Hidden
-    Non-researchable vehicle
-    Stock Repair Cost : 2997 / 7087 / 9073 SL
-    Spaded Repair Cost : 4906 / 11599 / 14849 SL
+    Located after the ◔MiG-21MF (in a folder with it)
+    Stock Repair Cost : 2838 / 8121 / 8295 SL
+    Spaded Repair Cost : 4090 / 11702 / 11952 SL
 
-Vauquelin (FR) :
+◔MiG-23MF (IT) :
+    Rank 7
+    BR : 11.0
+    Located after the ◔MiG-21 folder
+    Stock Repair Cost : 2738 / 8039 / 8211 SL
+    Spaded Repair Cost : 3986 / 11702 / 11952 SL
+
+◔MiG-29 (IT) :
+    Rank 8
+    BR : 12.0
+    Located after the ◔MiG-23MF
+    Stock Repair Cost : 2898 / 8371 / 9873 SL
+    Spaded Repair Cost : 4390 / 12684 / 14959 SL
+
+◔JAS39EBS HU C (IT) :
+    Rank 8
+    BR : 12.7
+    Located after the ◔MiG-29
+    Stock Repair Cost : 2696 / 7782 / 9164 SL
+    Spaded Repair Cost : 4427 / 12779 / 15047 SL
+
+Centauro RGO (IT) :
+    Rank 7
+    BR : 11.3
+    Event or pack premium
+    Repair Cost : 2869 / 2970 / 3187 SL
+
+RN Bolzano (IT) :
+    Rank 4
+    BR : 5.0 / 5.3 / 5.3
+    Located after the RN Trento
+    Stock Repair Cost : 9765 / 9720 SL
+    Spaded Repair Cost : 13196 / 13135 SL
+
+Alpha Jet E (FR) :
+    Rank 6
+    BR : 9.0 / 9.0 / 9.3
+    Located after the ▄F-86K
+    Stock Repair Cost : 3034 / 8790 / 10026 SL
+    Spaded Repair Cost : 4112 / 11911 / 13586 SL
+
+Mirage 2000-5F (FR) :
+    Rank 8
+    BR : 12.3
+    No tech-tree data
+    Stock Repair Cost : 2457 / 7092 / 8351 SL
+    Spaded Repair Cost : 4427 / 12779 / 15047 SL
+
+VTT DCA (FR) :
     Rank 2
-    BR : 4.3
-    Located after the Vautour
-    Stock Repair Cost : 1524 / 2319 SL
-    Spaded Repair Cost : 1987 / 3023 SL
+    BR : 3.0
+    Located after the CCKW 353 AA
+    Stock Repair Cost : 684 / 541 / 848 SL
+    Spaded Repair Cost : 879 / 695 / 1090 SL
+
+Kleber (FR) :
+    Rank 2
+    BR : 4.0
+    Located after the Chacal
+    Stock Repair Cost : 839 / 1329 SL
+    Spaded Repair Cost : 1092 / 1729 SL
+
+Bretagne (FR) :
+    Rank 6
+    BR : 6.7
+    Located after the Emile Bertin
+    Stock Repair Cost : 26310 / 32365 SL
+    Spaded Repair Cost : 33012 / 40609 SL
+
+Christian II (SWE) :
+    Rank 7
+    BR : 10.3
+    Event or pack premium
+    Repair Cost : 3422 / 3323 / 3873 SL
+
+Barak II (ISR) :
+    Rank 8
+    BR : 12.3 / 12.7 / 12.7
+    No tech-tree data
+    Stock Repair Cost : 2682 / 7750 / 9140 SL
+    Spaded Repair Cost : 4390 / 12684 / 14959 SL
+
+AH-60 (ISR) :
+    Rank 7
+    BR : 10.7 / 11.3 / 10.7
+    Located after the Lahatut
+    Stock Repair Cost : 8742 / 4128 / 5181 SL
+    Spaded Repair Cost : 14308 / 6756 / 8480 SL
+
+Raam Segol (ISR) :
+    Rank 7
+    BR : 11.0
+    Event or pack premium
+    Repair Cost : 3304 / 3384 / 4003 SL
 
 ----------------------------------------------------------------------------------------------------
 
 Tech-tree changes :
-M1A1 AIM (US) :
-    540k RP squadron vehicle -> 550k RP squadron vehicle
+AH-1Z (US) :
+    Located after the AH-1F -> Located after the AH-1W
 
-T-80UK (USSR) :
-    520k RP squadron vehicle -> 550k RP squadron vehicle
+M1A1 HC (US) :
+    Located after the M60A3 TTS -> Located after the 120S
 
-Challenger 2 OES (UK) :
-    9450 GE premium -> 9620 GE premium
+USS Phelps (US) :
+    Hidden for everyone -> Shown for everyone
 
-Le Malin (FR) :
-    Located after the Vautour -> Located after the Vauquelin
+Bf 109 B-1 (GER) :
+    First in line before the Bf 109 E-1 -> First in line before the Bf 109 C-1
 
-T 80 U (SWE) :
-    Rank : 7 -> 8
-    520k RP squadron vehicle -> 570k RP squadron vehicle
+Bf 109 E-1 (GER) :
+    Located after the Bf 109 B-1, but without connection -> Located after the Bf 109 C-1, but without connection
+
+◄Tornado IDS ASSTA1 (GER) :
+    Located after the ◄G.91 R/3 -> Located after the Alpha Jet A
+
+Kugelblitz (GER) :
+    Located after the Ostwind II -> Located after the Zerstörer 45
+
+Jaguar (GER) :
+    Hidden for everyone -> Shown for everyone
+
+Strela-10M2 (USSR) :
+    Located after the ZSU-23-4 -> Located after the ZSU-23-4M4
+
+Leningrad (USSR) :
+    Hidden for everyone -> Shown for everyone
+
+Tornado GR.1 (UK) :
+    Located after the Buccaneer S.2 -> Located after the Buccaneer S.2B
+
+Lynx AH.Mk.1 (UK) :
+    Located after the Wasp HAS.Mk.1 -> Located after the Wessex HU Mk.5
+
+Rooikat Mk.1D (UK) :
+    Located after the G6/Eland folder (in another folder) -> Located after the Fox
+
+ZLT11 (CN) :
+    Located after the PTL02/AFT09 folder -> Located after the ZBD04A
+
+▄F-84G-21-RE (IT) :
+    Located after the ▄P-47D-30 -> Located after the ◔IL-10
+
+RN Zara (IT) :
+    Located after the RN Trento -> Located after the RN Bolzano
+
+▄F-8E(FN) (FR) :
+    Located after the ▄F-86K -> Located after the Alpha Jet E
+
+AMX-13 DCA 40 (FR) :
+    Located after the CCKW 353 AA -> Located after the VTT DCA
+
+Milan (FR) :
+    Located after the Chacal -> Located after the Kleber
+
+SAV 20.12.48 (SWE) :
+    Shown for everyone -> Hidden for everyone
+    1300 GE premium -> Event or pack premium
+    Purchase Date : 2024-01-12 11:00:00 to 2024-01-15 14:00:00 -> 2024-01-12 11:00:00 to 2024-01-15 11:00:00
+
+Lahatut (ISR) :
+    In a new line -> First in line before the AH-60
 
 ----------------------------------------------------------------------------------------------------
 

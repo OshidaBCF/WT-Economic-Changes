@@ -1,8 +1,53 @@
 Statcard Changes :
-RN Leonardo da Vinci :
-    Crew : 1260 -> 1195
-    Minimum Crew : 378 -> 358
+☢Jaguar A :
+    Operator Country : USA -> Germany
 
-Courbet, Paris :
-    Citadel Thickness : 0 / 250 / 40 -> 0 / 250 / 42 mm
+☢Jaguar A :
+    Operator Country : Germany -> Germany "Modern"
+
+☢Jaguar A :
+    Operator Country : Great Britain -> Germany
+
+☢Jaguar A :
+    Operator Country : Japan -> Germany
+
+☢Jaguar A :
+    Operator Country : Italy -> Germany
+
+☢Jaguar A :
+    Operator Country : Sweden -> Germany
+
+☢Jaguar A :
+    Operator Country : country_israel -> Germany
+
+M46 :
+    Hull Thickness : 101 / 76.2 / 60 -> 101 / 76.2 / 50.8 mm
+
+Vilkas :
+    Hull Thickness : 53 / 53 / 53 -> 29 / 15 / 15 mm
+
+T-50 :
+    Hull Thickness : 45 / 37 / 37 -> 37 / 37 / 37 mm
+
+T-90M :
+    Hull Thickness : 170 / 80 / 40 -> 176 / 80 / 40 mm
+
+ST-A3 :
+    Hull Thickness : 45 / 35 / 20 -> 50 / 35 / 20 mm
+    Turret Thickness : 75 / 60 / 35 -> 40 / 60 / 35 mm
+
+▄Sherman I Composito, Sherman Ic :
+    Hull Thickness : 50 / 38 / 38 -> 63.5 / 38 / 38 mm
+
+AMX-50 Surblindé :
+    Turret Thickness : 85 / 60 / 20 -> 105 / 60 / 20 mm
+
+H.35 :
+    Turret Thickness : 45 / 40 / 40 -> 40 / 40 / 47 mm
+
+R.35 (SA38) :
+    Hull Thickness : 32 / 40 / 40 -> 43 / 40 / 32 mm
+
+Le Malin :
+    Main Turrets Thickness : 10 / 10 / 0 -> 5 / 5 / 0 mm
 
