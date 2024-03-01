@@ -1,24 +1,24 @@
 Statcard Changes :
 ☢Jaguar A :
-    Operator Country : USA -> Germany
+    Operator Country : USA -> Germany "Modern"
 
 ☢Jaguar A :
     Operator Country : Germany -> Germany "Modern"
 
 ☢Jaguar A :
-    Operator Country : Great Britain -> Germany
+    Operator Country : Great Britain -> Germany "Modern"
 
 ☢Jaguar A :
-    Operator Country : Japan -> Germany
+    Operator Country : Japan -> Germany "Modern"
 
 ☢Jaguar A :
-    Operator Country : Italy -> Germany
+    Operator Country : Italy -> Germany "Modern"
 
 ☢Jaguar A :
-    Operator Country : Sweden -> Germany
+    Operator Country : Sweden -> Germany "Modern"
 
 ☢Jaguar A :
-    Operator Country : country_israel -> Germany
+    Operator Country : Israel -> Germany "Modern"
 
 M46 :
     Hull Thickness : 101 / 76.2 / 60 -> 101 / 76.2 / 50.8 mm
