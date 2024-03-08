@@ -1,678 +1,94 @@
 Aircraft Weapon Changes :
-F-86F-35, F-86F-40 ▅, F-86F-40 JASDF▅, ␗F-86F-40 :
-    New loadouts :
-        2x 750 lb M117
-
-F-14A Early :
-    Loadouts changed :
-        6x AIM-7F :
-            Weapons of the loadout/option changed :
-                Removed 6x AIM-7F
-                Added 6x AIM-7F
-        x Empty (stock) -> 1x Drop tank (stock) :
-            Added Weapons of the loadout/option :
-                Added 1x Drop tank (stock)
-                Added 1x Drop tank (stock)
-    Custom loadout changes :
-        Slot 2 changed :
-            Option changed : 1x AIM-7E-2 (DF), can't be equipped together with 1x AIM-7F on slot 3 or 1x AIM-7F on slot 3 or 1x AIM-7F on slot 4 or 1x AIM-7F on slot 5 -> 1x AIM-7E-2 (DF), can't be equipped together with 1x AIM-7F on slot 4 or 1x AIM-7F on slot 4 or 1x AIM-7F on slot 5 or 1x AIM-7F on slot 7
-            Option changed : 1x AIM-7F -> 1x AIM-7F
-        Slot 3 changed :
-            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 6
-            Removed 1x AIM-7E-2 (DF) option, can't be equipped together with 1x AIM-7F on slots 2, 5 or 1x AIM-7F on slot 4
-            Removed 1x AIM-7F option
-            Removed 2x AIM-7F option, can't be equipped together with 1x AIM-54A on slot 4 or 1x 250 lb on slot 4 or 1x 500 lb on slot 4 or 1x 1000 lb on slot 4 or 1x 2000 lb on slot 4 or 1x Mk 82 AIR on slot 4 or 1x Mk 83 AIR on slot 4
-            Removed 2x AIM-54A option, can't be equipped together with 1x 2000 lb on slot 4
-            Removed 6x 250 lb option
-            Removed 6x 500 lb option
-            Removed 2x 1000 lb option
-            Removed 2x 2000 lb option
-            Removed 2x Mk 84 Air option
-            Removed 6x Mk 82 AIR option
-            Removed 2x Mk 83 AIR option
-        Slot 4 changed :
-            Added 1x AIM-7E-2 (DF) option, can't be equipped together with 1x AIM-7F on slots 2, 7 or 1x AIM-7F on slot 5
-            Added 1x AIM-7F option
-            Added 2x AIM-7F option, can't be equipped together with 1x AIM-54A on slot 5 or 1x 250 lb on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 or 1x 2000 lb on slot 5 or 1x Mk 82 AIR on slot 5 or 1x Mk 83 AIR on slot 5
-            Added 2x AIM-54A option, can't be equipped together with 1x 2000 lb on slot 5
-            Added 6x 250 lb option
-            Added 6x 500 lb option
-            Added 6x Mk 82 AIR option
-            Removed 2x AIM-7E-2 (DF) option, can't be equipped together with 1x AIM-7F on slots 2, 5 or 1x AIM-7F on slot 3 or 1x AIM-7F on slot 3
-            Removed 2x AIM-7F option
-            Removed 2x AIM-54A option
-            Removed 8x 250 lb option
-            Removed 8x 500 lb option
-            Removed 8x Mk 82 AIR option
-        Slot 5 changed :
-            Added 2x AIM-7E-2 (DF) option, can't be equipped together with 1x AIM-7F on slots 2, 7 or 1x AIM-7F on slot 4 or 1x AIM-7F on slot 4
-            Added 2x AIM-7F option
-            Added 2x AIM-54A option
-            Added 8x 250 lb option
-            Added 8x 500 lb option
-            Added 2x 1000 lb option
-            Added 2x 2000 lb option
-            Added 2x Mk 84 Air option
-            Added 8x Mk 82 AIR option
-            Added 2x Mk 83 AIR option
-            Removed 1x AIM-9D option
-            Removed 1x AIM-9G option
-            Removed 1x AIM-9H option
-            Removed 1x AIM-7E-2 (DF) option, can't be equipped together with 1x AIM-7F on slot 2 or 1x AIM-7F on slot 3 or 1x AIM-7F on slot 3 or 1x AIM-7F on slot 4
-            Removed 1x AIM-7F option
-            Removed 1x AIM-54A option
-            Removed 8x Zuni Mk32 option
-        Slot 6 changed :
-            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 3
-            Removed 1x AIM-9D (stock) option
-            Removed 1x AIM-9G option
-            Removed 1x AIM-9H option
-        Added slot 7 :
-            1x AIM-9D option
-            1x AIM-9G option
-            1x AIM-9H option
-            1x AIM-7E-2 (DF) option, can't be equipped together with 1x AIM-7F on slot 2 or 1x AIM-7F on slot 4 or 1x AIM-7F on slot 4 or 1x AIM-7F on slot 5
-            1x AIM-7F option
-            1x AIM-54A option
-            8x Zuni Mk32 option
-        Added slot 8 :
-            1x AIM-9D (stock) option
-            1x AIM-9G option
-            1x AIM-9H option
-
-F-14B :
-    Loadouts changed :
-        6x AIM-7M :
-            Weapons of the loadout/option changed :
-                Removed 6x AIM-7M
-                Added 6x AIM-7M
-        x Empty (stock) -> 1x Drop tank (stock) :
-            Added Weapons of the loadout/option :
-                Added 1x Drop tank (stock)
-                Added 1x Drop tank (stock)
-    Custom loadout changes :
-        Slot 2 changed :
-            Option changed : 1x AIM-7M -> 1x AIM-7M
-        Slot 3 changed :
-            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 6
-            Removed 1x AIM-7M option, can't be equipped together with 1x GBU-10 Paveway II on slot 5 or 1x GBU-24 Paveway III on slot 5
-            Removed 2x AIM-7M option, can't be equipped together with 1x AIM-54A on slot 5 or 1x AIM-54C on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 or 1x 2000 lb on slot 5 or 1x GBU-12 Paveway II on slot 5 or 1x GBU-16 Paveway II on slot 5 or 1x GBU-10 Paveway II on slot 5 or 1x Mk 82 AIR on slot 5 or 1x Mk 83 AIR on slot 5 or 1x GBU-24 Paveway III on slot 5
-            Removed 2x AIM-54A option, can't be equipped together with 1x 2000 lb on slot 5 or 1x GBU-10 Paveway II on slot 5 or 1x GBU-24 Paveway III on slot 5
-            Removed 2x AIM-54C option, can't be equipped together with 1x 2000 lb on slot 5 or 1x GBU-10 Paveway II on slot 5 or 1x GBU-24 Paveway III on slot 5
-            Removed 6x 500 lb option
-            Removed 2x 1000 lb option
-            Removed 2x 2000 lb option
-            Removed 2x Mk 84 Air option
-            Removed 2x GBU-12 Paveway II option, must be equipped together with 1x LANTIRN on slot 7
-            Removed 2x GBU-16 Paveway II option, must be equipped together with 1x LANTIRN on slot 7
-            Removed 6x Mk 82 AIR option
-            Removed 2x Mk 83 AIR option
-            Removed 1x GBU-24 Paveway III option, must be equipped together with 1x LANTIRN on slot 7
-        Slot 4 changed :
-            Added 1x AIM-7M option, can't be equipped together with 1x GBU-10 Paveway II on slot 5 or 1x GBU-24 Paveway III on slot 5
-            Added 2x AIM-7M option, can't be equipped together with 1x AIM-54A on slot 5 or 1x AIM-54C on slot 5 or 1x 500 lb on slot 5 or 1x 1000 lb on slot 5 or 1x 2000 lb on slot 5 or 1x GBU-12 Paveway II on slot 5 or 1x GBU-16 Paveway II on slot 5 or 1x GBU-10 Paveway II on slot 5 or 1x Mk 82 AIR on slot 5 or 1x Mk 83 AIR on slot 5 or 1x GBU-24 Paveway III on slot 5
-            Added 2x AIM-54A option, can't be equipped together with 1x 2000 lb on slot 5 or 1x GBU-10 Paveway II on slot 5 or 1x GBU-24 Paveway III on slot 5
-            Added 2x AIM-54C option, can't be equipped together with 1x 2000 lb on slot 5 or 1x GBU-10 Paveway II on slot 5 or 1x GBU-24 Paveway III on slot 5
-            Added 6x 500 lb option
-            Added 6x Mk 82 AIR option
-            Removed 2x AIM-7M option
-            Removed 2x AIM-54A option
-            Removed 2x AIM-54C option
-            Removed 8x 500 lb option
-            Removed 2x GBU-10 Paveway II option, must be equipped together with 1x LANTIRN on slot 7
-            Removed 8x Mk 82 AIR option
-        Slot 5 changed :
-            Added 2x AIM-7M option
-            Added 2x AIM-54A option
-            Added 2x AIM-54C option
-            Added 8x 500 lb option
-            Added 2x 1000 lb option
-            Added 2x 2000 lb option
-            Added 2x Mk 84 Air option
-            Added 2x GBU-12 Paveway II option, must be equipped together with 1x LANTIRN on slot 7
-            Added 2x GBU-16 Paveway II option, must be equipped together with 1x LANTIRN on slot 7
-            Added 2x GBU-10 Paveway II option, must be equipped together with 1x LANTIRN on slot 7
-            Added 8x Mk 82 AIR option
-            Added 2x Mk 83 AIR option
-            Added 1x GBU-24 Paveway III option, must be equipped together with 1x LANTIRN on slot 7
-            Removed 1x AIM-9L option
-            Removed 160x Flares/Chaff option
-            Removed 160x Flares/Chaff + 1x AIM-9L option
-            Removed 1x AIM-7M option
-            Removed 1x AIM-54A option
-            Removed 1x AIM-54C option
-            Removed 8x Zuni Mk32 option
-            Removed 1x LANTIRN option
-        Slot 6 changed :
-            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 3
-            Removed 1x AIM-9L (stock) option
-            Removed 160x Flares/Chaff option
-            Removed 160x Flares/Chaff + 1x AIM-9L option
-        Added slot 7 :
-            1x AIM-9L option
-            160x Flares/Chaff option
-            160x Flares/Chaff + 1x AIM-9L option
-            1x AIM-7M option
-            1x AIM-54A option
-            1x AIM-54C option
-            8x Zuni Mk32 option
-            1x LANTIRN option
-        Added slot 8 :
-            1x AIM-9L (stock) option
-            160x Flares/Chaff option
-            160x Flares/Chaff + 1x AIM-9L option
-
-F-15A, F-15J, Baz :
-    Loadouts changed :
-        4x AIM-7M :
-            Weapons of the loadout/option changed :
-                Removed 4x AIM-7M
-                Added 4x AIM-7M
-    Custom loadout changes :
-        Slot 4 changed :
-            Option changed : 1x AIM-7M -> 1x AIM-7M
-        Slot 5 changed :
-            Option changed : 1x AIM-7M -> 1x AIM-7M
-        Slot 7 changed :
-            Option changed : 1x AIM-7M -> 1x AIM-7M
-        Slot 8 changed :
-            Option changed : 1x AIM-7M -> 1x AIM-7M
-
-F-16A ADF, ▄F-16A ADF :
-    Loadouts changed :
-        2x AIM-7M :
-            Weapons of the loadout/option changed :
-                Removed 2x AIM-7M
-                Added 2x AIM-7M
-    Custom loadout changes :
-        Slot 3 changed :
-            Option changed : 1x AIM-7M -> 1x AIM-7M
-        Slot 5 changed :
-            Option changed : 1x AIM-7M -> 1x AIM-7M
-
-F-16C, Barak II :
-    Loadouts changed :
-        2x AIM-7M :
-            Weapons of the loadout/option changed :
-                Removed 2x AIM-7M
-                Added 2x AIM-7M
-    Custom loadout changes :
-        Slot 3 changed :
-            Option changed : 1x AIM-7M -> 1x AIM-7M
-        Slot 8 changed :
-            Option changed : 1x AIM-7M -> 1x AIM-7M
-
-Bf 110 G-2, Bf 110 G-4, ◐Bf 110 G-4 :
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 2x Wfr.Gr.21 option
-            Removed 2x Wfr.Gr.21 option
-        Slot 5 changed :
-            Added 2x Wfr.Gr.21 option
-            Removed 2x Wfr.Gr.21 option
-
-Ju 87 B-2 :
-    New loadouts :
-        1x SC1000
-    Custom loadout changes :
-        Slot 2 changed :
-            Added 1x SC1000 option
-
-◊MiG-23MLA :
-    Custom loadout changes :
-        Slot 1 changed :
-            Removed 1x ZB-500 option
-        Slot 2 changed :
-            Added 1x ZB-500 option
-        Slot 3 changed :
-            Option changed : 1x Drop tank (stock), can't be equipped together with 4x OFAB-100 on slot 2 or 4x OFAB-100 on slot 4 -> 1x Drop tank (stock), can't be equipped together with 4x OFAB-100 on slot 2 or 4x OFAB-100 on slot 4 or 1x ZB-500 on slots 2, 4
-        Slot 4 changed :
-            Added 1x ZB-500 option
-        Slot 5 changed :
-            Removed 1x ZB-500 option
-
-◊Su-22M4, ◊Su-22UM3K, Su-17M4, Su-22M3 :
+F-16A, F-16AJ, ␗F-16A MLU, Netz :
     Loadouts changed :
         1x Drop tank (stock) :
             Weapons of the loadout/option changed :
-                Added 1x Drop tank (stock)
-                Added 1x Drop tank (stock)
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 8
-        Slot 8 changed :
-            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 1
-
-BB-1, Su-2 (M-82) :
-    Added custom loadouts
-    New loadouts :
-        8x FAB-50
-        8x FAB-100
-        2x FAB-500sv
-    Loadouts changed :
-        2x BRAB-220 (1930) :
-            Removed Required modification Der-19
-            Added Weapons of the loadout/option :
-                Added 2x BRAB-220 (1930)
-        2x FAB-250 :
-            Removed Required modification Der-19
-            Added Weapons of the loadout/option :
-                Added 2x FAB-250
-    Removed loadouts :
-        12x FAB-50
-        6x FAB-100
-
-IL-10, IL-10 (1946), ␗IL-10 (1946) :
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 1x M-8 option
-            Added 1x RBS-82 option
-            Added 1x M-13UK option
-            Added 1x RBS-132 option
-            Removed 1x M-8 option
-            Removed 1x RBS-82 option
-            Removed 1x M-13UK option
-            Removed 1x RBS-132 option
-        Slot 2 changed :
-            Added 1x M-8 option
-            Added 1x RBS-82 option
-            Added 1x M-13UK option
-            Added 1x RBS-132 option
-            Removed 1x M-8 option
-            Removed 1x RBS-82 option
-            Removed 1x M-13UK option
-            Removed 1x RBS-132 option
-        Slot 5 changed :
-            Added 1x M-8 option
-            Added 1x RBS-82 option
-            Added 1x M-13UK option
-            Added 1x RBS-132 option
-            Removed 1x M-8 option
-            Removed 1x RBS-82 option
-            Removed 1x M-13UK option
-            Removed 1x RBS-132 option
-        Slot 6 changed :
-            Added 1x M-8 option
-            Added 1x RBS-82 option
-            Added 1x M-13UK option
-            Added 1x RBS-132 option
-            Removed 1x M-8 option
-            Removed 1x RBS-82 option
-            Removed 1x M-13UK option
-            Removed 1x RBS-132 option
-
-IL-2 (1942), IL-2M type 3, IL-2M "Avenger", IL-2 M-82, IL-2M (1943) :
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 2x ROS-82 option
-            Added 2x RBS-82 option
-            Added 2x ROS-132 option
-            Added 2x ROFS-132 option
-            Added 2x RBS-132 option
-            Removed 2x ROS-82 option
-            Removed 2x RBS-82 option
-            Removed 2x ROS-132 option
-            Removed 2x ROFS-132 option
-            Removed 2x RBS-132 option
-        Slot 6 changed :
-            Added 2x ROS-82 option
-            Added 2x RBS-82 option
-            Added 2x ROS-132 option
-            Added 2x ROFS-132 option
-            Added 2x RBS-132 option
-            Removed 2x ROS-82 option
-            Removed 2x RBS-82 option
-            Removed 2x ROS-132 option
-            Removed 2x ROFS-132 option
-            Removed 2x RBS-132 option
-
-IL-2 (1941) :
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 4x ROS-82 option
-            Added 4x RBS-82 option
-            Added 4x ROS-132 option
-            Added 4x ROFS-132 option
-            Added 4x RBS-132 option
-            Removed 4x ROS-82 option
-            Removed 4x RBS-82 option
-            Removed 4x ROS-132 option
-            Removed 4x ROFS-132 option
-            Removed 4x RBS-132 option
-        Slot 6 changed :
-            Added 4x ROS-82 option
-            Added 4x RBS-82 option
-            Added 4x ROS-132 option
-            Added 4x ROFS-132 option
-            Added 4x RBS-132 option
-            Removed 4x ROS-82 option
-            Removed 4x RBS-82 option
-            Removed 4x ROS-132 option
-            Removed 4x ROFS-132 option
-            Removed 4x RBS-132 option
-
-Pe-2-110, Pe-2-205, Pe-2-31, Pe-2-359, Pe-2-83, Pe-2-359 :
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 5x M-13UK option
-            Added 5x RBS-132 option
-            Removed 5x M-13UK option
-            Removed 5x RBS-132 option
-        Slot 9 changed :
-            Added 5x M-13UK option
-            Added 5x RBS-132 option
-            Removed 5x M-13UK option
-            Removed 5x RBS-132 option
-
-Pe-3, Pe-3bis, Pe-3 (e) :
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 3x M-13UK option
-            Added 3x RBS-132 option
-            Removed 3x M-13UK option
-            Removed 3x RBS-132 option
-        Slot 6 changed :
-            Added 3x M-13UK option
-            Added 3x RBS-132 option
-            Removed 3x M-13UK option
-            Removed 3x RBS-132 option
-
-Su-2 MV-5, Su-2 TSS-1 :
-    Added custom loadouts
-    New loadouts :
-        8x FAB-50
-        8x FAB-100
-        2x FAB-500sv
-    Removed loadouts :
-        12x FAB-50
-        6x FAB-100
-
-Su-6 (AM-42) :
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 5x M-8 option
-            Added 5x RBS-82 option
-            Added 5x M-13UK option
-            Added 5x RBS-132 option
-            Removed 5x M-8 option
-            Removed 5x RBS-82 option
-            Removed 5x M-13UK option
-            Removed 5x RBS-132 option
-        Slot 7 changed :
-            Added 5x M-8 option
-            Added 5x RBS-82 option
-            Added 5x M-13UK option
-            Added 5x RBS-132 option
-            Removed 5x M-8 option
-            Removed 5x RBS-82 option
-            Removed 5x M-13UK option
-            Removed 5x RBS-132 option
-
-Su-6 (M-71F), Su-6 :
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 5x M-8 option
-            Added 5x RBS-82 option
-            Added 5x M-13UK option
-            Added 5x RBS-132 option
-            Removed 5x M-8 option
-            Removed 5x RBS-82 option
-            Removed 5x M-13UK option
-            Removed 5x RBS-132 option
-        Slot 5 changed :
-            Added 5x M-8 option
-            Added 5x RBS-82 option
-            Added 5x M-13UK option
-            Added 5x RBS-132 option
-            Removed 5x M-8 option
-            Removed 5x RBS-82 option
-            Removed 5x M-13UK option
-            Removed 5x RBS-132 option
-
-Su-17M2 :
-    Loadouts changed :
-        1x Drop tank (stock) :
-            Weapons of the loadout/option changed :
-                Added 1x Drop tank (stock)
-                Added 1x Drop tank (stock)
-    Custom loadout changes :
-        Slot 1 changed :
-            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 6
-        Slot 6 changed :
-            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 1
-
-Tu-14T :
-    Loadouts changed :
-        1x FAB-1000 -> 1x FAB-1000M-43 :
-            Total damage changed : 9652 -> 12205
-
-Tu-4, ␗Tu-4 :
-    Loadouts changed :
-        8x FAB-1000 -> 8x FAB-1000M-44 :
-            Reward multiplier changed : 0.41 -> 0.46
-            Total damage changed : 77216 -> 60784
-
-Canberra B Mk 2 :
-    Loadouts changed :
-        2x 1000 lb + 1x 4000 lb :
-            Reward multiplier changed : 0.7 -> 0.65
-            Total damage changed : 29624 -> 32826
-
-Meteor F Mk 3, Meteor F Mk 4 G.41F, Meteor F Mk 4 G.41G :
-    New loadouts :
-        2x 1000 lb
-
-Meteor F Mk 8 G.41K :
-    New loadouts :
-        16x RP-3
-
-JAS39C, JAS39A :
-    Loadouts changed :
-        1x Drop tank (stock) :
-            Weapons of the loadout/option changed :
-                Added 1x Drop tank (stock)
-                Added 1x Drop tank (stock)
-    Custom loadout changes :
-        Slot 3 changed :
-            Added 1x Drop tank (stock) option
-        Slot 4 changed :
-            Added 1x Drop tank (stock) option
-            Removed 1x Drop tank (stock) option
-        Slot 6 changed :
-            Added 1x Drop tank (stock) option
-
-Vampire F.B.5, Vampire FB 52A, ▄Vampire FB 52A :
-    New loadouts :
-        2x 500 lb
-        2x 500 lb + 4x RP-3
-
-␗F-16A MLU :
-    Loadouts changed :
-        2x AIM-7M :
-            Weapons of the loadout/option changed :
-                Removed 2x AIM-7M
-                Added 2x AIM-7M
-    Custom loadout changes :
-        Slot 3 changed :
-            Option changed : 1x AIM-7M -> 1x AIM-7M
-        Slot 7 changed :
-            Option changed : 1x AIM-7M -> 1x AIM-7M
-
-JH-7A :
-    Loadouts changed :
-        14x 250-3 -> 12x 250-3 (stock) :
-            Reward multiplier changed : 0.58 -> 0.88
-            Total damage changed : 39114 -> 21210
-            Weapons of the loadout/option changed :
-                Removed 2x 250-3
-                Removed 8x 250-3
-            Now available stock
-
-▄AV-8B Plus :
-    Loadouts changed :
-        2x Mk 77 :
-            Weapons of the loadout/option changed :
-                Mk 77 changed : 4 -> 2
-                Mk 77 changed : 4 -> 2
-                Added 2x Mk 77
-                Added 2x Mk 77
-    Custom loadout changes :
-        Slot 2 changed :
-            Added 2x Mk 77 option
-            Removed 2x Mk 77 option
-        Slot 7 changed :
-            Added 2x Mk 77 option
-            Removed 2x Mk 77 option
-
-F-104S.ASA :
-    Loadouts changed :
-        6x 500 lb + 1x M61A1 -> 7x 500 lb + 1x M61A1 :
-            Total damage changed : 14778 -> 17241
-            Weapons of the loadout/option changed :
-                500 lb changed : 6 -> 7
-        6x 750 lb M117 + 1x M61A1 -> 7x 750 lb M117 + 1x M61A1 :
-            Reward multiplier changed : 0.69 -> 0.62
-            Total damage changed : 21792 -> 25424
-            Weapons of the loadout/option changed :
-                750 lb M117 changed : 6 -> 7
-        6x 750 lb M117 + 2x AIM-9L + 1x M61A1 -> 7x 750 lb M117 + 2x AIM-9L + 1x M61A1 :
-            Reward multiplier changed : 0.69 -> 0.62
-            Total damage changed : 21792 -> 25424
-            Weapons of the loadout/option changed :
-                750 lb M117 changed : 6 -> 7
-        2x 1000 lb + 1x M61A1 -> 3x 1000 lb + 1x M61A1 :
-            Total damage changed : 9440 -> 14160
-            Weapons of the loadout/option changed :
-                1000 lb changed : 2 -> 3
-        2x 1000 lb + 2x AIM-9L + 1x M61A1 -> 3x 1000 lb + 2x AIM-9L + 1x M61A1 :
-            Total damage changed : 9440 -> 14160
-            Weapons of the loadout/option changed :
-                1000 lb changed : 2 -> 3
-        6x Mk 82 Snakeye + 1x M61A1 -> 7x Mk 82 Snakeye + 1x M61A1 :
-            Total damage changed : 14778 -> 17241
-            Weapons of the loadout/option changed :
-                Mk 82 Snakeye changed : 6 -> 7
-    Custom loadout changes :
-        Slot 6 changed :
-            Added 1x 500 lb option
-            Added 1x Mk 82 Snakeye option
-            Added 1x 750 lb M117 option
-            Added 1x 1000 lb option
-
-Mirage 2000-5F, Mirage 2000C-S4, Mirage 2000C-S5 :
-    Loadouts changed :
-        2x Matra Super 530F :
-            Weapons of the loadout/option changed :
-                Removed 2x Matra Super 530F
-                Added 2x Matra Super 530F
-    Custom loadout changes :
-        Slot 2 changed :
-            Option changed : 1x Matra Super 530F -> 1x Matra Super 530F
-        Slot 8 changed :
-            Option changed : 1x Matra Super 530F -> 1x Matra Super 530F
-
-A29B, J29D :
-    Added custom loadouts
-    New loadouts :
-        8x m/49B
-        6x m/51
-
-J29F :
-    Added custom loadouts
-    New loadouts :
-        6x m/49B
-        8x m/49B
-        6x m/51
-        8x m/51
-    Loadouts changed :
-        2x RB24 :
-            Removed Required modification RB24
-            Added Weapons of the loadout/option :
-                Added 2x RB24
-
-J35A :
-    Added custom loadouts
-    Loadouts changed :
-        x Empty (stock) -> 1x Drop tank (stock) :
-            Added Weapons of the loadout/option :
-                Added 1x Drop tank (stock)
-        4x RB24 :
-            Removed Required modification RB24
-            Added Weapons of the loadout/option :
-                Added 4x RB24
-        12x m/56D :
-            Removed Required modification m/56d
-            Added Weapons of the loadout/option :
-                Added 12x m/56D
-    Removed loadouts :
-        2x RB24 + 12x m/56D
-
-J35D :
-    Loadouts changed :
-        x Empty (stock) -> 1x Drop tank (stock) :
-            Added Weapons of the loadout/option :
-                Added 1x Drop tank (stock)
-                Added 1x Drop tank (stock)
-    Custom loadout changes :
-        Slot 2 changed :
-            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 3
-        Slot 3 changed :
-            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 2
-
-Saab J35XS :
-    Loadouts changed :
-        x Empty (stock) -> 2x Drop tank (stock) :
-            Added Weapons of the loadout/option :
                 Added 2x Drop tank (stock)
     Custom loadout changes :
         Slot 4 changed :
-            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 5
-        Slot 5 changed :
+            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 6
+        Slot 6 changed :
             Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 4
 
-MH-60L DAP :
-    New loadouts :
-        2x GAU-19
-        2x LR30
-        2x M134 Minigun (stock)
+F-16A ADF, ▄F-16A ADF :
+    Loadouts changed :
+        1x Drop tank (stock) :
+            Weapons of the loadout/option changed :
+                Added 2x Drop tank (stock)
+    Custom loadout changes :
+        Slot 4 changed :
+            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 6
+            Removed 1x Drop tank (stock) option
+        Slot 5 changed :
+            Added 1x Drop tank (stock) option
+            Removed 1x AIM-9L option
+            Removed 1x AIM-7M option
+        Slot 6 changed :
+            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 4
+            Removed 1x AIM-9L option
+        Slot 7 changed :
+            Added 1x AIM-9L option
+            Added 1x AIM-7M option
+            Removed 1x AIM-9L (stock) option
+        Added slot 8 :
+            1x AIM-9L option
+        Added slot 9 :
+            1x AIM-9L (stock) option
+
+F-16C, Barak II :
+    Loadouts changed :
+        1x Drop tank (stock) :
+            Weapons of the loadout/option changed :
+                Added 2x Drop tank (stock)
+    Custom loadout changes :
+        Slot 4 changed :
+            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 7
+        Slot 7 changed :
+            Added 1x Drop tank (stock) option, must be equipped together with 1x Drop tank on slot 4
+
+Fw 190 D-12, Fw 190 D-13, Fw 190 D-9 :
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 2x SC50 option
+            Removed 2x SC50 option
+        Slot 3 changed :
+            Added 2x SC50 option
+            Removed 2x SC50 option
+
+Fw 190 F-8 :
+    Custom loadout changes :
+        Slot 1 changed :
+            Added 2x SC50 (stock) option
+            Removed 2x SC50 (stock) option
+        Slot 3 changed :
+            Added 2x SC50 (stock) option
+            Removed 2x SC50 (stock) option
+
+◊MiG-23MF, ◊MiG-23MLA, ◔MiG-23MF :
     Custom loadout changes :
         Slot 2 changed :
-            Added 1x GAU-19 option
-            Added 1x LR30 option
-        Slot 3 changed :
-            Added 1x M134 Minigun (stock) option
-            Removed 7x Hydra-70 M247 (stock) option
-            Removed 19x Hydra-70 M247 (stock) option
-            Removed 7x AGR-20A (M151) option
-            Removed 7x AGR-20B (M282) option
-            Removed 2x AGM-114K Hellfire II option
-            Removed 4x AGM-114K Hellfire II option
-            Removed 2x ATAS option
+            Option changed : 1x ZB-500 -> 1x ZB-500, can't be equipped together with 1x Drop tank on slot 3
         Slot 4 changed :
-            Added 1x M134 Minigun (stock) option
-            Removed 7x Hydra-70 M247 (stock) option
-            Removed 19x Hydra-70 M247 (stock) option
-            Removed 7x AGR-20A (M151) option
-            Removed 7x AGR-20B (M282) option
-            Removed 2x AGM-114K Hellfire II (stock) option
-            Removed 4x AGM-114K Hellfire II option
-            Removed 2x ATAS option
-        Added slot 5 :
-            7x Hydra-70 M247 (stock) option
-            19x Hydra-70 M247 (stock) option
-            7x AGR-20A (M151) option
-            7x AGR-20B (M282) option
-            2x AGM-114K Hellfire II option
-            4x AGM-114K Hellfire II option
-            2x ATAS option
-            1x GAU-19 option
-            1x LR30 option
-        Added slot 6 :
-            7x Hydra-70 M247 (stock) option
-            19x Hydra-70 M247 (stock) option
-            7x AGR-20A (M151) option
-            7x AGR-20B (M282) option
-            2x AGM-114K Hellfire II (stock) option
-            4x AGM-114K Hellfire II option
-            2x ATAS option
+            Option changed : 1x ZB-500 -> 1x ZB-500, can't be equipped together with 1x Drop tank on slot 3
+
+MiG-23M, MiG-23MLD :
+    Custom loadout changes :
+        Slot 1 changed :
+            Removed 1x ZB-500 option
+        Slot 2 changed :
+            Added 1x ZB-500 option, can't be equipped together with 1x Drop tank on slot 3
+        Slot 4 changed :
+            Added 1x ZB-500 option, can't be equipped together with 1x Drop tank on slot 3
+        Slot 5 changed :
+            Removed 1x ZB-500 option
+
+Tornado F.3, Tornado ADV :
+    Loadouts changed :
+        4x Skyflash (DF) -> 4x uk_skyflash_aim_7_dogfight_tornado :
+            Weapons of the loadout/option changed :
+                Removed 4x Skyflash (DF)
+                Added 4x uk_skyflash_aim_7_dogfight_tornado
+    Custom loadout changes :
+        Slot 3 changed :
+            Option changed : 4x Skyflash (DF) -> 4x uk_skyflash_aim_7_dogfight_tornado
 
